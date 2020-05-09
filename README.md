@@ -21,3 +21,5 @@ Estructura de la carpeta `csv`:
     ├── etiquetas_valores.csv
     └── etiquetas_variables.csv
 ```
+
+Si necesitas algún otro formato, contactanos. 
