@@ -126,3 +126,10 @@ dmypy.json
 
 # Folders
 .env/
+
+# R
+
+.Rproj.user/
+.RHistory
+.RProfile
+.RProj
