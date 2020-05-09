@@ -17,7 +17,9 @@ venv.bak/
 .Rproj.user/
 .RHistory
 .RProfile
-.RProj
+EncuestaTIC_BO.RProj
+notebook.Rmd
+notebook.nb.html
 .Rhistory
 .RData
 .Ruserdata
