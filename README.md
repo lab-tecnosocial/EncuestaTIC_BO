@@ -15,3 +15,8 @@ Los datos se encuentran en la carpeta `csv`, con el siguiente contenido:
     └── etiquetas_variables.csv
 ```
 
+|Nombre|Contenido|
+|------|---------|
+|eti   | Datos etiquetados|
+|sem   | Datos con semántica vía asociación de base con diccionario|
+|val   | Datos con valores similar al que liberó AGETIC, pero con etiquetas de variables y valores en tablas aparte en estilo|
