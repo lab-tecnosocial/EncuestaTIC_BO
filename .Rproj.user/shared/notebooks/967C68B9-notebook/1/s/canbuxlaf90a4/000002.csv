@@ -1,0 +1,41 @@
+"0","library(readr)"
+"0","base_r <- read_delim(""base-5536-bdfinalcorregido.csv"", delim = "";"")"
+"2","Parsed with column specification:
+cols(
+  .default = col_double(),
+  P1A = [33mcol_logical()[39m,
+  P1B = [33mcol_logical()[39m,
+  P1C = [33mcol_logical()[39m,
+  P1D = [33mcol_logical()[39m,
+  P1E = [33mcol_logical()[39m,
+  P2A = [33mcol_logical()[39m,
+  P2B = [33mcol_logical()[39m,
+  P2C = [33mcol_logical()[39m,
+  P2D = [33mcol_logical()[39m,
+  P2E = [33mcol_logical()[39m,
+  P3A = [33mcol_logical()[39m,
+  P4A = [33mcol_logical()[39m,
+  P11D = [31mcol_character()[39m,
+  P15D = [31mcol_character()[39m,
+  P27D = [33mcol_logical()[39m,
+  P31F = [31mcol_character()[39m,
+  P36B = [31mcol_character()[39m,
+  P41F = [33mcol_logical()[39m,
+  P42D = [33mcol_logical()[39m,
+  P44T = [33mcol_logical()[39m
+  # ... with 58 more columns
+)
+"
+"2","See spec(...) for full column specifications.
+"
+"2","1850 parsing failures.
+ row  col           expected     actual                             file
+1067 P98D 1/0/T/F/TRUE/FALSE NINGUNO    'base-5536-bdfinalcorregido.csv'
+1071 P83D 1/0/T/F/TRUE/FALSE AEROPUERTO 'base-5536-bdfinalcorregido.csv'
+1071 P98D 1/0/T/F/TRUE/FALSE OBJETOS    'base-5536-bdfinalcorregido.csv'
+1072 P41F 1/0/T/F/TRUE/FALSE NO USA     'base-5536-bdfinalcorregido.csv'
+1086 P42D 1/0/T/F/TRUE/FALSE CASA       'base-5536-bdfinalcorregido.csv'
+.... .... .................. .......... ................................
+See problems(...) for more details.
+"
+"0","head(base_r, 5)"

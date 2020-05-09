@@ -1,0 +1,2048 @@
+Variable,Valor,Etiqueta
+Tipo,1,INTER
+Tipo,2,NO INTER
+P2,1,Si
+P2,2,No
+P3,1,Hace 7 días o menos
+P3,2,Entre 8 a 15 días
+P3,3,Entre 16 a 30 días
+P3,4,Hace más de 30 días
+P1A,1,No existe el servicio en el barrio/localidad
+P1A,2,El costo del servicio alto
+P1A,3,No tiene equipos para conectarse
+P1A,4,No sabe qué es Internet
+P1A,5,No sabe cómo usar Internet
+P1A,6,No está interesado en Internet
+P1A,7,El contenido de Internet es malo
+P1A,8,Otro
+P1B,1,No existe el servicio en el barrio/localidad
+P1B,2,El costo del servicio alto
+P1B,3,No tiene equipos para conectarse
+P1B,4,No sabe qué es Internet
+P1B,5,No sabe cómo usar Internet
+P1B,6,No está interesado en Internet
+P1B,7,El contenido de Internet es malo
+P1B,8,Otro
+P1C,1,No existe el servicio en el barrio/localidad
+P1C,2,El costo del servicio alto
+P1C,3,No tiene equipos para conectarse
+P1C,4,No sabe qué es Internet
+P1C,5,No sabe cómo usar Internet
+P1C,6,No está interesado en Internet
+P1C,7,El contenido de Internet es malo
+P1C,8,Otro
+P1D,1,No existe el servicio en el barrio/localidad
+P1D,2,El costo del servicio alto
+P1D,3,No tiene equipos para conectarse
+P1D,4,No sabe qué es Internet
+P1D,5,No sabe cómo usar Internet
+P1D,6,No está interesado en Internet
+P1D,7,El contenido de Internet es malo
+P1D,8,Otro
+P2A,1,Obtener información
+P2A,2,Descargar/imprimir documentos
+P2A,3,Obtener algún formulario
+P2A,4,Enviar/recibir correo electrónico
+P2A,5,Contactar a algún familiar/amigo
+P2A,6,Comprar/pagar artículos/servicios por Internet
+P2A,7,"Revisar alguna red social (Facebook, WhatsApp, etc)"
+P2A,8,Otro
+P2A,9,Ninguno
+P2B,1,Obtener información
+P2B,2,Descargar/imprimir documentos
+P2B,3,Obtener algún formulario
+P2B,4,Enviar/recibir correo electrónico
+P2B,5,Contactar a algún familiar/amigo
+P2B,6,Comprar/pagar artículos/servicios por Internet
+P2B,7,"Revisar alguna red social (Facebook, WhatsApp, etc)"
+P2B,8,Otro
+P2B,9,Ninguno
+P2C,1,Obtener información
+P2C,2,Descargar/imprimir documentos
+P2C,3,Obtener algún formulario
+P2C,4,Enviar/recibir correo electrónico
+P2C,5,Contactar a algún familiar/amigo
+P2C,6,Comprar/pagar artículos/servicios por Internet
+P2C,7,"Revisar alguna red social (Facebook, WhatsApp, etc)"
+P2C,8,Otro
+P2C,9,Ninguno
+P2D,1,Obtener información
+P2D,2,Descargar/imprimir documentos
+P2D,3,Obtener algún formulario
+P2D,4,Enviar/recibir correo electrónico
+P2D,5,Contactar a algún familiar/amigo
+P2D,6,Comprar/pagar artículos/servicios por Internet
+P2D,7,"Revisar alguna red social (Facebook, WhatsApp, etc)"
+P2D,8,Otro
+P2D,9,Ninguno
+P4A,1,Muy interesado
+P4A,2,M?s o menos interesado
+P4A,3,Poco interesado
+P4A,4,Nada interesado
+P4A,9,NS/NR
+P4,1,Si
+P4,2,No
+P5,98,No tiene el servicio
+P5,99,NS/NR
+P6,1,Si
+P6,2,No
+P7A,99,NS/NR
+P7B,99,NS/NR
+P8,1,Computadora de escritorio
+P8,2,Computadora portátil
+P8,3,Tablet
+P8,9,NS/NR
+P9,99,NS/NR
+P10,8,Menos de una vez por semana
+P10,9,No usa estos equipos
+P11A,1,Herramienta de trabajo
+P11A,2,Escuchar música o ver videos
+P11A,3,Juegos
+P11A,4,Conectarse a Internet
+P11A,5,Estudio
+P11A,6,Otro
+P11B,1,Herramienta de trabajo
+P11B,2,Escuchar música o ver videos
+P11B,3,Juegos
+P11B,4,Conectarse a Internet
+P11B,5,Estudio
+P11B,6,Otro
+P11C,1,Herramienta de trabajo
+P11C,2,Escuchar música o ver videos
+P11C,3,Juegos
+P11C,4,Conectarse a Internet
+P11C,5,Estudio
+P11C,6,Otro
+P11F,1,Herramienta de trabajo
+P11F,2,Escuchar música o ver videos
+P11F,3,Juegos
+P11F,4,Conectarse a Internet
+P11F,5,Estudio
+P11F,6,Otro
+P11G,1,Herramienta de trabajo
+P11G,2,Escuchar música o ver videos
+P11G,3,Juegos
+P11G,4,Conectarse a Internet
+P11G,5,Estudio
+P11G,6,Otro
+P12,1,Si
+P12,2,No
+P13A,99,NS/NR
+P13B,99,NS/NR
+P14,9,NS/NR
+P15A,1,Noticias
+P15A,2,Deportes
+P15A,3,Salud y educación
+P15A,4,"Entretenimiento (series, novelas, pel?culas, far?ndula, moda, concursos)"
+P15A,5,Otro
+P15A,6,No mira televisión
+P15B,1,Noticias
+P15B,2,Deportes
+P15B,3,Salud y educación
+P15B,4,"Entretenimiento (series, novelas, pel?culas, far?ndula, moda, concursos)"
+P15B,5,Otro
+P15B,6,No mira televisión
+P15C,1,Noticias
+P15C,2,Deportes
+P15C,3,Salud y educación
+P15C,4,"Entretenimiento (series, novelas, pel?culas, far?ndula, moda, concursos)"
+P15C,5,Otro
+P15C,6,No mira televisión
+P15E,1,Noticias
+P15E,2,Deportes
+P15E,3,Salud y educación
+P15E,4,"Entretenimiento (series, novelas, pel?culas, far?ndula, moda, concursos)"
+P15E,5,Otro
+P15E,6,No mira televisión
+P16,1,Si
+P16,2,No
+P17,1,Si
+P17,2,No
+P18,99,NS/NR
+P19,9,NS/NR
+P20,1,Si
+P20,2,No
+P21A,99,NS/NR
+P21B,99,NS/NR
+P22,99,NS/NR
+P23,1,Internet fijo
+P23,2,Módem
+P23,3,Ninguno
+P24,99,NS/NR
+P25,1,128 kbps
+P25,2,256 kbps
+P25,3,512 kbps
+P25,4,1 a 2 Mbps
+P25,5,De + de 2 a 3 Mbps
+P25,6,De + de 3 Mbps
+P25,9,NS/NR
+P27A,1,Contactar amigos o familiares
+P27A,2,Buscar información
+P27A,3,"Comprar, vender o permutar"
+P27A,4,Fines académicos
+P27A,5,Trabajo
+P27A,6,Ver noticias
+P27A,7,Descargar archivos
+P27A,8,Jugar
+P27A,9,Escuchar música o ver videos
+P27A,10,Redes sociales
+P27A,11,Correo electrónico
+P27A,12,Otro
+P27B,1,Contactar amigos o familiares
+P27B,2,Buscar información
+P27B,3,"Comprar, vender o permutar"
+P27B,4,Fines académicos
+P27B,5,Trabajo
+P27B,6,Ver noticias
+P27B,7,Descargar archivos
+P27B,8,Jugar
+P27B,9,Escuchar música o ver videos
+P27B,10,Redes sociales
+P27B,11,Correo electrónico
+P27B,12,Otro
+P27C,1,Contactar amigos o familiares
+P27C,2,Buscar información
+P27C,3,"Comprar, vender o permutar"
+P27C,4,Fines académicos
+P27C,5,Trabajo
+P27C,6,Ver noticias
+P27C,7,Descargar archivos
+P27C,8,Jugar
+P27C,9,Escuchar música o ver videos
+P27C,10,Redes sociales
+P27C,11,Correo electrónico
+P27C,12,Otro
+P27E,1,Contactar amigos o familiares
+P27E,2,Buscar información
+P27E,3,"Comprar, vender o permutar"
+P27E,4,Fines académicos
+P27E,5,Trabajo
+P27E,6,Ver noticias
+P27E,7,Descargar archivos
+P27E,8,Jugar
+P27E,9,Escuchar música o ver videos
+P27E,10,Redes sociales
+P27E,11,Correo electrónico
+P27E,12,Otro
+P27F,1,Contactar amigos o familiares
+P27F,2,Buscar información
+P27F,3,"Comprar, vender o permutar"
+P27F,4,Fines académicos
+P27F,5,Trabajo
+P27F,6,Ver noticias
+P27F,7,Descargar archivos
+P27F,8,Jugar
+P27F,9,Escuchar música o ver videos
+P27F,10,Redes sociales
+P27F,11,Correo electrónico
+P27F,12,Otro
+P27G,1,Contactar amigos o familiares
+P27G,2,Buscar información
+P27G,3,"Comprar, vender o permutar"
+P27G,4,Fines académicos
+P27G,5,Trabajo
+P27G,6,Ver noticias
+P27G,7,Descargar archivos
+P27G,8,Jugar
+P27G,9,Escuchar música o ver videos
+P27G,10,Redes sociales
+P27G,11,Correo electrónico
+P27G,12,Otro
+P28,1,Si
+P28,2,No
+P29A,99,NS/NR
+P29B,99,NS/NR
+P30,99,NS/NR
+P31A,1,Llamadas telefónicas
+P31A,2,Mensajes de texto SMS
+P31A,3,Escuchar música
+P31A,4,Ver videos
+P31A,5,Juegos
+P31A,6,Conectarse a Internet
+P31A,7,Sacar fotos
+P31A,8,Otro
+P31B,1,Llamadas telefónicas
+P31B,2,Mensajes de texto SMS
+P31B,3,Escuchar música
+P31B,4,Ver videos
+P31B,5,Juegos
+P31B,6,Conectarse a Internet
+P31B,7,Sacar fotos
+P31B,8,Otro
+P31C,1,Llamadas telefónicas
+P31C,2,Mensajes de texto SMS
+P31C,3,Escuchar música
+P31C,4,Ver videos
+P31C,5,Juegos
+P31C,6,Conectarse a Internet
+P31C,7,Sacar fotos
+P31C,8,Otro
+P31D,1,Llamadas telefónicas
+P31D,2,Mensajes de texto SMS
+P31D,3,Escuchar música
+P31D,4,Ver videos
+P31D,5,Juegos
+P31D,6,Conectarse a Internet
+P31D,7,Sacar fotos
+P31D,8,Otro
+P31E,1,Llamadas telefónicas
+P31E,2,Mensajes de texto SMS
+P31E,3,Escuchar música
+P31E,4,Ver videos
+P31E,5,Juegos
+P31E,6,Conectarse a Internet
+P31E,7,Sacar fotos
+P31E,8,Otro
+P31G,1,Llamadas telefónicas
+P31G,2,Mensajes de texto SMS
+P31G,3,Escuchar música
+P31G,4,Ver videos
+P31G,5,Juegos
+P31G,6,Conectarse a Internet
+P31G,7,Sacar fotos
+P31G,8,Otro
+P31H,1,Llamadas telefónicas
+P31H,2,Mensajes de texto SMS
+P31H,3,Escuchar música
+P31H,4,Ver videos
+P31H,5,Juegos
+P31H,6,Conectarse a Internet
+P31H,7,Sacar fotos
+P31H,8,Otro
+P32,1,Prepago
+P32,2,Pospago
+P32,3,Ambos
+P33,1,Tigo
+P33,2,Entel
+P33,3,Viva
+P33,4,Mio (Comteco)
+P34,99,Ns/Nr
+P36A,1,Android
+P36A,2,IOS (iPhone)
+P36A,3,Windows
+P36A,4,Otro
+P36A,9,NS/NR
+P37,1,Si
+P37,2,No
+P39B,1,Día
+P39B,2,Semana
+P39B,3,Mes
+P41A,1,Contactar amigos o familiares
+P41A,2,Buscar información
+P41A,3,Compras en Internet
+P41A,4,Fines académicos
+P41A,5,Trabajo
+P41A,6,Ver noticias
+P41A,7,Descargar archivos
+P41A,8,Jugar
+P41A,9,Escuchar música o ver videos
+P41A,10,Redes sociales
+P41A,11,Correo electrónico
+P41A,12,Otro
+P41B,1,Contactar amigos o familiares
+P41B,2,Buscar información
+P41B,3,Compras en Internet
+P41B,4,Fines académicos
+P41B,5,Trabajo
+P41B,6,Ver noticias
+P41B,7,Descargar archivos
+P41B,8,Jugar
+P41B,9,Escuchar música o ver videos
+P41B,10,Redes sociales
+P41B,11,Correo electrónico
+P41B,12,Otro
+P41C,1,Contactar amigos o familiares
+P41C,2,Buscar información
+P41C,3,Compras en Internet
+P41C,4,Fines académicos
+P41C,5,Trabajo
+P41C,6,Ver noticias
+P41C,7,Descargar archivos
+P41C,8,Jugar
+P41C,9,Escuchar música o ver videos
+P41C,10,Redes sociales
+P41C,11,Correo electrónico
+P41C,12,Otro
+P41D,1,Contactar amigos o familiares
+P41D,2,Buscar información
+P41D,3,Compras en Internet
+P41D,4,Fines académicos
+P41D,5,Trabajo
+P41D,6,Ver noticias
+P41D,7,Descargar archivos
+P41D,8,Jugar
+P41D,9,Escuchar música o ver videos
+P41D,10,Redes sociales
+P41D,11,Correo electrónico
+P41D,12,Otro
+P41E,1,Contactar amigos o familiares
+P41E,2,Buscar información
+P41E,3,Compras en Internet
+P41E,4,Fines académicos
+P41E,5,Trabajo
+P41E,6,Ver noticias
+P41E,7,Descargar archivos
+P41E,8,Jugar
+P41E,9,Escuchar música o ver videos
+P41E,10,Redes sociales
+P41E,11,Correo electrónico
+P41E,12,Otro
+P41G,1,Contactar amigos o familiares
+P41G,2,Buscar información
+P41G,3,Compras en Internet
+P41G,4,Fines académicos
+P41G,5,Trabajo
+P41G,6,Ver noticias
+P41G,7,Descargar archivos
+P41G,8,Jugar
+P41G,9,Escuchar música o ver videos
+P41G,10,Redes sociales
+P41G,11,Correo electrónico
+P41G,12,Otro
+P41H,1,Contactar amigos o familiares
+P41H,2,Buscar información
+P41H,3,Compras en Internet
+P41H,4,Fines académicos
+P41H,5,Trabajo
+P41H,6,Ver noticias
+P41H,7,Descargar archivos
+P41H,8,Jugar
+P41H,9,Escuchar música o ver videos
+P41H,10,Redes sociales
+P41H,11,Correo electrónico
+P41H,12,Otro
+P41I,1,Contactar amigos o familiares
+P41I,2,Buscar información
+P41I,3,Compras en Internet
+P41I,4,Fines académicos
+P41I,5,Trabajo
+P41I,6,Ver noticias
+P41I,7,Descargar archivos
+P41I,8,Jugar
+P41I,9,Escuchar música o ver videos
+P41I,10,Redes sociales
+P41I,11,Correo electrónico
+P41I,12,Otro
+P41J,1,Contactar amigos o familiares
+P41J,2,Buscar información
+P41J,3,Compras en Internet
+P41J,4,Fines académicos
+P41J,5,Trabajo
+P41J,6,Ver noticias
+P41J,7,Descargar archivos
+P41J,8,Jugar
+P41J,9,Escuchar música o ver videos
+P41J,10,Redes sociales
+P41J,11,Correo electrónico
+P41J,12,Otro
+P42A,1,En el trabajo
+P42A,2,En el Colegio
+P42A,3,En la Universidad
+P42A,4,Telecentro
+P42A,5,Cafe Internet
+P42A,6,"Restaurantes, cafes"
+P42A,7,Espacios públicos
+P42A,8,Casa de amigos/familiares
+P42A,9,Otro
+P42A,11,Ninguno
+P42B,1,En el trabajo
+P42B,2,En el Colegio
+P42B,3,En la Universidad
+P42B,4,Telecentro
+P42B,5,Cafe Internet
+P42B,6,"Restaurantes, cafes"
+P42B,7,Espacios públicos
+P42B,8,Casa de amigos/familiares
+P42B,9,Otro
+P42B,11,Ninguno
+P42C,1,En el trabajo
+P42C,2,En el Colegio
+P42C,3,En la Universidad
+P42C,4,Telecentro
+P42C,5,Cafe Internet
+P42C,6,"Restaurantes, cafes"
+P42C,7,Espacios públicos
+P42C,8,Casa de amigos/familiares
+P42C,9,Otro
+P42C,11,Ninguno
+P42E,1,En el trabajo
+P42E,2,En el Colegio
+P42E,3,En la Universidad
+P42E,4,Telecentro
+P42E,5,Cafe Internet
+P42E,6,"Restaurantes, cafes"
+P42E,7,Espacios públicos
+P42E,8,Casa de amigos/familiares
+P42E,9,Otro
+P42E,11,Ninguno
+P42F,1,En el trabajo
+P42F,2,En el Colegio
+P42F,3,En la Universidad
+P42F,4,Telecentro
+P42F,5,Cafe Internet
+P42F,6,"Restaurantes, cafes"
+P42F,7,Espacios públicos
+P42F,8,Casa de amigos/familiares
+P42F,9,Otro
+P42F,11,Ninguno
+P44A,97,Las 24 horas
+P44A,98,Cualquier momento
+P44A,99,No se conecta
+P44B,97,Las 24 horas
+P44B,98,Cualquier momento
+P44B,99,No se conecta
+P44C,97,Las 24 horas
+P44C,98,Cualquier momento
+P44C,99,No se conecta
+P44D,97,Las 24 horas
+P44D,98,Cualquier momento
+P44D,99,No se conecta
+P44E,97,Las 24 horas
+P44E,98,Cualquier momento
+P44E,99,No se conecta
+P44F,97,Las 24 horas
+P44F,98,Cualquier momento
+P44F,99,No se conecta
+P44G,97,Las 24 horas
+P44G,98,Cualquier momento
+P44G,99,No se conecta
+P44J,97,Las 24 horas
+P44J,98,Cualquier momento
+P44J,99,No se conecta
+P44H,97,Las 24 horas
+P44H,98,Cualquier momento
+P44H,99,No se conecta
+P44I,97,Las 24 horas
+P44I,98,Cualquier momento
+P44I,99,No se conecta
+P44K,99,No se conecta
+P44L,99,No se conecta
+P44M,99,No se conecta
+P44N,99,No se conecta
+P44O,99,No se conecta
+P44P,99,No se conecta
+P44Q,99,No se conecta
+P44R,99,No se conecta
+P44S,99,No se conecta
+P44T,99,No se conecta
+P44U,99,No se conecta
+P44V,99,No se conecta
+P44W,99,No se conecta
+P44X,99,No se conecta
+P45A,97,Las 24 horas
+P45A,98,Cualquier momento
+P45A,99,No se conecta
+P45B,99,No se conecta
+P45C,99,No se conecta
+P45D,99,No se conecta
+P45E,99,No se conecta
+P45F,99,No se conecta
+P45G,99,No se conecta
+P45H,99,No se conecta
+P45I,99,No se conecta
+P45J,99,No se conecta
+P45K,99,No se conecta
+P45L,99,No se conecta
+P45M,99,No se conecta
+P45N,99,No se conecta
+P45O,99,No se conecta
+P45P,99,No se conecta
+P45Q,99,No se conecta
+P45R,99,No se conecta
+P45S,99,No se conecta
+P45T,99,No se conecta
+P45U,99,No se conecta
+P45V,99,No se conecta
+P45W,99,No se conecta
+P45X,99,No se conecta
+P46A,1,Contactar amigos o familiares
+P46A,2,Buscar información
+P46A,3,Compras en Internet
+P46A,4,Fines académicos
+P46A,5,Trabajo
+P46A,6,Ver noticias
+P46A,7,Descargar archivos
+P46A,8,Jugar
+P46A,9,Escuchar música o ver videos
+P46A,10,Redes sociales
+P46A,11,Correo electrónico
+P46A,12,Otro
+P46B,1,Contactar amigos o familiares
+P46B,2,Buscar información
+P46B,3,Compras en Internet
+P46B,4,Fines académicos
+P46B,5,Trabajo
+P46B,6,Ver noticias
+P46B,7,Descargar archivos
+P46B,8,Jugar
+P46B,9,Escuchar música o ver videos
+P46B,10,Redes sociales
+P46B,11,Correo electrónico
+P46B,12,Otro
+P46C,1,Contactar amigos o familiares
+P46C,2,Buscar información
+P46C,3,Compras en Internet
+P46C,4,Fines académicos
+P46C,5,Trabajo
+P46C,6,Ver noticias
+P46C,7,Descargar archivos
+P46C,8,Jugar
+P46C,9,Escuchar música o ver videos
+P46C,10,Redes sociales
+P46C,11,Correo electrónico
+P46C,12,Otro
+P46E,1,Contactar amigos o familiares
+P46E,2,Buscar información
+P46E,3,Compras en Internet
+P46E,4,Fines académicos
+P46E,5,Trabajo
+P46E,6,Ver noticias
+P46E,7,Descargar archivos
+P46E,8,Jugar
+P46E,9,Escuchar música o ver videos
+P46E,10,Redes sociales
+P46E,11,Correo electrónico
+P46E,12,Otro
+P46F,1,Contactar amigos o familiares
+P46F,2,Buscar información
+P46F,3,Compras en Internet
+P46F,4,Fines académicos
+P46F,5,Trabajo
+P46F,6,Ver noticias
+P46F,7,Descargar archivos
+P46F,8,Jugar
+P46F,9,Escuchar música o ver videos
+P46F,10,Redes sociales
+P46F,11,Correo electrónico
+P46F,12,Otro
+P46G,1,Contactar amigos o familiares
+P46G,2,Buscar información
+P46G,3,Compras en Internet
+P46G,4,Fines académicos
+P46G,5,Trabajo
+P46G,6,Ver noticias
+P46G,7,Descargar archivos
+P46G,8,Jugar
+P46G,9,Escuchar música o ver videos
+P46G,10,Redes sociales
+P46G,11,Correo electrónico
+P46G,12,Otro
+P46H,1,Contactar amigos o familiares
+P46H,2,Buscar información
+P46H,3,Compras en Internet
+P46H,4,Fines académicos
+P46H,5,Trabajo
+P46H,6,Ver noticias
+P46H,7,Descargar archivos
+P46H,8,Jugar
+P46H,9,Escuchar música o ver videos
+P46H,10,Redes sociales
+P46H,11,Correo electrónico
+P46H,12,Otro
+P46I,1,Contactar amigos o familiares
+P46I,2,Buscar información
+P46I,3,Compras en Internet
+P46I,4,Fines académicos
+P46I,5,Trabajo
+P46I,6,Ver noticias
+P46I,7,Descargar archivos
+P46I,8,Jugar
+P46I,9,Escuchar música o ver videos
+P46I,10,Redes sociales
+P46I,11,Correo electrónico
+P46I,12,Otro
+P47A,1,"Noticias (periódicos, etc.)"
+P47A,2,Oferta de bienes o servicios
+P47A,3,Oportunidades laborales
+P47A,4,Servicios de salud
+P47A,5,Ciencia y/o tecnología
+P47A,6,Servicios del gobierno
+P47A,7,Entretenimiento/farándula
+P47A,8,Turismo
+P47A,9,Educativa
+P47A,10,Negocios
+P47A,11,Política
+P47A,12,Arte y cultura
+P47A,13,Otro
+P47B,1,"Noticias (periódicos, etc.)"
+P47B,2,Oferta de bienes o servicios
+P47B,3,Oportunidades laborales
+P47B,4,Servicios de salud
+P47B,5,Ciencia y/o tecnología
+P47B,6,Servicios del gobierno
+P47B,7,Entretenimiento/farándula
+P47B,8,Turismo
+P47B,9,Educativa
+P47B,10,Negocios
+P47B,11,Política
+P47B,12,Arte y cultura
+P47B,13,Otro
+P47C,1,"Noticias (periódicos, etc.)"
+P47C,2,Oferta de bienes o servicios
+P47C,3,Oportunidades laborales
+P47C,4,Servicios de salud
+P47C,5,Ciencia y/o tecnología
+P47C,6,Servicios del gobierno
+P47C,7,Entretenimiento/farándula
+P47C,8,Turismo
+P47C,9,Educativa
+P47C,10,Negocios
+P47C,11,Política
+P47C,12,Arte y cultura
+P47C,13,Otro
+P47D,1,"Noticias (periódicos, etc.)"
+P47D,2,Oferta de bienes o servicios
+P47D,3,Oportunidades laborales
+P47D,4,Servicios de salud
+P47D,5,Ciencia y/o tecnología
+P47D,6,Servicios del gobierno
+P47D,7,Entretenimiento/farándula
+P47D,8,Turismo
+P47D,9,Educativa
+P47D,10,Negocios
+P47D,11,Política
+P47D,12,Arte y cultura
+P47D,13,Otro
+P47E,1,"Noticias (periódicos, etc.)"
+P47E,2,Oferta de bienes o servicios
+P47E,3,Oportunidades laborales
+P47E,4,Servicios de salud
+P47E,5,Ciencia y/o tecnología
+P47E,6,Servicios del gobierno
+P47E,7,Entretenimiento/farándula
+P47E,8,Turismo
+P47E,9,Educativa
+P47E,10,Negocios
+P47E,11,Política
+P47E,12,Arte y cultura
+P47E,13,Otro
+P47G,1,"Noticias (periódicos, etc.)"
+P47G,2,Oferta de bienes o servicios
+P47G,3,Oportunidades laborales
+P47G,4,Servicios de salud
+P47G,5,Ciencia y/o tecnología
+P47G,6,Servicios del gobierno
+P47G,7,Entretenimiento/farándula
+P47G,8,Turismo
+P47G,9,Educativa
+P47G,10,Negocios
+P47G,11,Política
+P47G,12,Arte y cultura
+P47G,13,Otro
+P47H,1,"Noticias (periódicos, etc.)"
+P47H,2,Oferta de bienes o servicios
+P47H,3,Oportunidades laborales
+P47H,4,Servicios de salud
+P47H,5,Ciencia y/o tecnología
+P47H,6,Servicios del gobierno
+P47H,7,Entretenimiento/farándula
+P47H,8,Turismo
+P47H,9,Educativa
+P47H,10,Negocios
+P47H,11,Política
+P47H,12,Arte y cultura
+P47H,13,Otro
+P47I,1,"Noticias (periódicos, etc.)"
+P47I,2,Oferta de bienes o servicios
+P47I,3,Oportunidades laborales
+P47I,4,Servicios de salud
+P47I,5,Ciencia y/o tecnología
+P47I,6,Servicios del gobierno
+P47I,7,Entretenimiento/farándula
+P47I,8,Turismo
+P47I,9,Educativa
+P47I,10,Negocios
+P47I,11,Política
+P47I,12,Arte y cultura
+P47I,13,Otro
+P50,1,Si
+P50,2,No
+P50,9,NS/NR
+P51,1,Si
+P51,2,No
+P51,9,NS/NR
+P52,1,Si
+P52,2,No
+P52,9,NS/NR
+P53,1,Si
+P53,2,No
+P53,9,NS/NR
+P54,1,Si
+P54,2,No
+P54,9,NS/NR
+P55A,1,Claridad de la información
+P55A,2,Privacidad
+P55A,3,Trato cordial
+P55A,4,Rapidez
+P55A,5,Cantidad de requisitos
+P55A,6,Otro
+P55A,9,NS/NR
+P56,9,NS/NR
+P57,9,NS/NR
+P58A,1,Si
+P58A,2,No
+P58A,9,NS/NR
+P58B,1,Si
+P58B,2,No
+P58B,9,NS/NR
+P59A,1,Si
+P59A,2,No
+P59A,9,NS/NR
+P59B,1,Si
+P59B,2,No
+P59B,9,NS/NR
+P60A,1,Si
+P60A,2,No
+P60A,9,NS/NR
+P60B,1,Si
+P60B,2,No
+P60B,9,NS/NR
+P61A,1,Si
+P61A,2,No
+P61A,9,NS/NR
+P60C,1,Si
+P60C,2,No
+P60C,9,NS/NR
+P62A,1,Si
+P62A,2,No
+P62A,9,NS/NR
+P62B,1,Si
+P62B,2,No
+P62B,9,NS/NR
+P63A,1,Si
+P63A,2,No
+P63A,9,NS/NR
+P63B,1,Si
+P63B,2,No
+P63B,9,NS/NR
+P64A,1,Datos estadísticos
+P64A,2,Informaci?n general sobre la institución y su organización interna
+P64A,3,Actividades y proyectos de la institución
+P64A,4,"Libros, memorias, boletines y otras publicaciones"
+P64A,5,Requerimiento de personal
+P64A,6,Compras y contrataciones
+P64A,7,Tr?mites y requisitos
+P64A,8,Auditoría interna
+P64A,9,Información sobre las actividades de las autoridades
+P64A,11,Normativas que rigen las funciones de la entidad
+P64A,12,Otro
+P64A,99,NS/NR
+P64B,1,Datos estadísticos
+P64B,2,Informaci?n general sobre la institución y su organización interna
+P64B,3,Actividades y proyectos de la institución
+P64B,4,"Libros, memorias, boletines y otras publicaciones"
+P64B,5,Requerimiento de personal
+P64B,6,Compras y contrataciones
+P64B,7,Tr?mites y requisitos
+P64B,8,Auditoría interna
+P64B,9,Información sobre las actividades de las autoridades
+P64B,11,Normativas que rigen las funciones de la entidad
+P64B,12,Otro
+P64B,99,NS/NR
+P64C,1,Datos estadísticos
+P64C,2,Informaci?n general sobre la institución y su organización interna
+P64C,3,Actividades y proyectos de la institución
+P64C,4,"Libros, memorias, boletines y otras publicaciones"
+P64C,5,Requerimiento de personal
+P64C,6,Compras y contrataciones
+P64C,7,Tr?mites y requisitos
+P64C,8,Auditoría interna
+P64C,9,Información sobre las actividades de las autoridades
+P64C,11,Normativas que rigen las funciones de la entidad
+P64C,12,Otro
+P64C,99,NS/NR
+P64D,1,Datos estadísticos
+P64D,2,Informaci?n general sobre la institución y su organización interna
+P64D,3,Actividades y proyectos de la institución
+P64D,4,"Libros, memorias, boletines y otras publicaciones"
+P64D,5,Requerimiento de personal
+P64D,6,Compras y contrataciones
+P64D,7,Tr?mites y requisitos
+P64D,8,Auditoría interna
+P64D,9,Información sobre las actividades de las autoridades
+P64D,11,Normativas que rigen las funciones de la entidad
+P64D,12,Otro
+P64D,99,NS/NR
+P66,1,Sí
+P66,2,No
+P68,1,El Colegio
+P68,2,La Universidad
+P68,3,No usa/no usó
+P69,1,Si
+P69,2,No
+P71,1,En línea
+P71,2,Presencial
+P72A,1,Es más cómodo
+P72A,2,Permite profundizar en la materia
+P72A,3,Se acomoda a mis horarios
+P72A,4,Tiene mayor validez
+P72A,5,Me ahorra tiempo
+P72A,6,Se aprende mejor
+P72A,7,Otro
+P72A,8,NS/NR
+P72B,1,Es más cómodo
+P72B,2,Permite profundizar en la materia
+P72B,3,Se acomoda a mis horarios
+P72B,4,Tiene mayor validez
+P72B,5,Me ahorra tiempo
+P72B,6,Se aprende mejor
+P72B,7,Otro
+P72B,8,NS/NR
+P72C,1,Es más cómodo
+P72C,2,Permite profundizar en la materia
+P72C,3,Se acomoda a mis horarios
+P72C,4,Tiene mayor validez
+P72C,5,Me ahorra tiempo
+P72C,6,Se aprende mejor
+P72C,7,Otro
+P72C,8,NS/NR
+P72E,1,Es más cómodo
+P72E,2,Permite profundizar en la materia
+P72E,3,Se acomoda a mis horarios
+P72E,4,Tiene mayor validez
+P72E,5,Me ahorra tiempo
+P72E,6,Se aprende mejor
+P72E,7,Otro
+P72E,8,NS/NR
+P72F,1,Es más cómodo
+P72F,2,Permite profundizar en la materia
+P72F,3,Se acomoda a mis horarios
+P72F,4,Tiene mayor validez
+P72F,5,Me ahorra tiempo
+P72F,6,Se aprende mejor
+P72F,7,Otro
+P72F,8,NS/NR
+P73,1,Si
+P73,2,No
+P74A,1,Mucho
+P74A,2,Más o menos
+P74A,3,Muy poco
+P74A,4,No usa
+P74A,5,Otro
+P75,1,Si
+P75,2,No
+P76,1,Si
+P76,2,No
+P77,1,Si
+P77,2,No
+P78A,1,No poseo una tarjeta de débito o crédito
+P78A,2,No confío en las ofertas en Internet
+P78A,3,El costo del transporte y/o impuestos son altos
+P78A,4,No existen suficientes ofertas en/para Bolivia
+P78A,5,Pago elevado de comisiones
+P78A,6,Otro
+P78A,9,NS/NR
+P78B,1,No poseo una tarjeta de débito o crédito
+P78B,2,No confío en las ofertas en Internet
+P78B,3,El costo del transporte y/o impuestos son altos
+P78B,4,No existen suficientes ofertas en/para Bolivia
+P78B,5,Pago elevado de comisiones
+P78B,6,Otro
+P78B,9,NS/NR
+P78C,1,No poseo una tarjeta de débito o crédito
+P78C,2,No confío en las ofertas en Internet
+P78C,3,El costo del transporte y/o impuestos son altos
+P78C,4,No existen suficientes ofertas en/para Bolivia
+P78C,5,Pago elevado de comisiones
+P78C,6,Otro
+P78C,9,NS/NR
+P79,1,Nacionales
+P79,2,Internacionales
+P79,3,Ambas
+P80A,1,Facebook
+P80A,2,Whatsapp
+P80A,3,Sitios web
+P80A,4,Plataforma de compra/venta (Amazon/ebay)
+P80A,5,Otro
+P80A,9,NS/NR
+P80B,1,Facebook
+P80B,2,Whatsapp
+P80B,3,Sitios web
+P80B,4,Plataforma de compra/venta (Amazon/ebay)
+P80B,5,Otro
+P80B,9,NS/NR
+P80C,1,Facebook
+P80C,2,Whatsapp
+P80C,3,Sitios web
+P80C,4,Plataforma de compra/venta (Amazon/ebay)
+P80C,5,Otro
+P80C,9,NS/NR
+P81A,1,Tarjeta de crédito propia
+P81A,2,Tarjeta de crédito de amigo/familiar
+P81A,3,Tarjeta de débito
+P81A,4,Paypal
+P81A,5,Billetera electrónica
+P81A,6,Dep?sito/giro
+P81A,7,Pago en efectivo
+P81A,8,Otro
+P81B,1,Tarjeta de crédito propia
+P81B,2,Tarjeta de crédito de amigo/familiar
+P81B,3,Tarjeta de débito
+P81B,4,Paypal
+P81B,5,Billetera electrónica
+P81B,6,Dep?sito/giro
+P81B,7,Pago en efectivo
+P81B,8,Otro
+P81C,1,Tarjeta de crédito propia
+P81C,2,Tarjeta de crédito de amigo/familiar
+P81C,3,Tarjeta de débito
+P81C,4,Paypal
+P81C,5,Billetera electrónica
+P81C,6,Dep?sito/giro
+P81C,7,Pago en efectivo
+P81C,8,Otro
+P82A,1,Equipos electrónicos
+P82A,2,Libros físicos/electrónicos
+P82A,3,"Viajes (pasajes, hoteles)"
+P82A,4,Entradas a eventos
+P82A,5,Cursos
+P82A,6,Ropa y accesorios
+P82A,7,Art?culos para el hogar
+P82A,8,Art?culos para el cuidado personal
+P82A,9,Software
+P82A,10,Juegos
+P82A,11,M?sica o películas
+P82A,12,"Servicios de streaming (netflix, spotify)"
+P82A,13,Pago de anuncios publicitarios
+P82A,14,Servicios de hosting y dominio
+P82A,15,Otro
+P82B,1,Equipos electrónicos
+P82B,2,Libros físicos/electrónicos
+P82B,3,"Viajes (pasajes, hoteles)"
+P82B,4,Entradas a eventos
+P82B,5,Cursos
+P82B,6,Ropa y accesorios
+P82B,7,Art?culos para el hogar
+P82B,8,Art?culos para el cuidado personal
+P82B,9,Software
+P82B,10,Juegos
+P82B,11,M?sica o películas
+P82B,12,"Servicios de streaming (netflix, spotify)"
+P82B,13,Pago de anuncios publicitarios
+P82B,14,Servicios de hosting y dominio
+P82B,15,Otro
+P82C,1,Equipos electrónicos
+P82C,2,Libros físicos/electrónicos
+P82C,3,"Viajes (pasajes, hoteles)"
+P82C,4,Entradas a eventos
+P82C,5,Cursos
+P82C,6,Ropa y accesorios
+P82C,7,Art?culos para el hogar
+P82C,8,Art?culos para el cuidado personal
+P82C,9,Software
+P82C,10,Juegos
+P82C,11,M?sica o películas
+P82C,12,"Servicios de streaming (netflix, spotify)"
+P82C,13,Pago de anuncios publicitarios
+P82C,14,Servicios de hosting y dominio
+P82C,15,Otro
+P83A,1,Casa/oficina
+P83A,2,Punto de encuentro
+P83A,3,Establecimiento/tienda
+P83A,4,Oficina de correos
+P83A,5,Otro
+P83B,1,Casa/oficina
+P83B,2,Punto de encuentro
+P83B,3,Establecimiento/tienda
+P83B,4,Oficina de correos
+P83B,5,Otro
+P83C,1,Casa/oficina
+P83C,2,Punto de encuentro
+P83C,3,Establecimiento/tienda
+P83C,4,Oficina de correos
+P83C,5,Otro
+P84,99,Ns/Nr
+P85A,1,Falta de tiempo
+P85A,2,No existe el producto localmente
+P85A,3,Mejor precio
+P85A,4,Guardar anonimato
+P85A,5,Prefiero hacer mis compras en línea
+P85A,6,Comodidad
+P85A,7,Otro
+P85B,1,Falta de tiempo
+P85B,2,No existe el producto localmente
+P85B,3,Mejor precio
+P85B,4,Guardar anonimato
+P85B,5,Prefiero hacer mis compras en línea
+P85B,6,Comodidad
+P85B,7,Otro
+P85C,1,Falta de tiempo
+P85C,2,No existe el producto localmente
+P85C,3,Mejor precio
+P85C,4,Guardar anonimato
+P85C,5,Prefiero hacer mis compras en línea
+P85C,6,Comodidad
+P85C,7,Otro
+P86A,1,Si
+P86A,2,No
+P87,1,Local
+P87,2,Internacional
+P87,3,Ambas
+P88A,1,Facebook
+P88A,2,Whatsapp
+P88A,3,Sitios web
+P88A,4,Plataforma de compra/venta (ebay)
+P88A,5,Otro
+P88B,1,Facebook
+P88B,2,Whatsapp
+P88B,3,Sitios web
+P88B,4,Plataforma de compra/venta (ebay)
+P88B,5,Otro
+P88C,1,Facebook
+P88C,2,Whatsapp
+P88C,3,Sitios web
+P88C,4,Plataforma de compra/venta (ebay)
+P88C,5,Otro
+P89A,1,Tarjeta de crédito
+P89A,2,Tarjeta de débito
+P89A,3,Paypal
+P89A,4,Billetera electrónica
+P89A,5,Pago en efectivo
+P89A,6,"Depósito, giro"
+P89A,7,Otro
+P89B,1,Tarjeta de crédito
+P89B,2,Tarjeta de débito
+P89B,3,Paypal
+P89B,4,Billetera electrónica
+P89B,5,Pago en efectivo
+P89B,6,"Depósito, giro"
+P89B,7,Otro
+P89C,1,Tarjeta de crédito
+P89C,2,Tarjeta de débito
+P89C,3,Paypal
+P89C,4,Billetera electrónica
+P89C,5,Pago en efectivo
+P89C,6,"Depósito, giro"
+P89C,7,Otro
+P90A,1,Equipos electrónicos
+P90A,2,Libros
+P90A,3,"Viajes (pasajes, hoteles)"
+P90A,5,Cursos
+P90A,6,Ropa y accesorios
+P90A,7,Art?culos para el hogar
+P90A,8,Art?culos para el cuidado personal
+P90A,9,Software
+P90A,10,Juegos
+P90A,11,M?sica/películas
+P90A,14,Servicios de hosting y dominio
+P90A,15,Otro
+P90B,1,Equipos electrónicos
+P90B,2,Libros
+P90B,3,"Viajes (pasajes, hoteles)"
+P90B,5,Cursos
+P90B,6,Ropa y accesorios
+P90B,7,Art?culos para el hogar
+P90B,8,Art?culos para el cuidado personal
+P90B,9,Software
+P90B,10,Juegos
+P90B,11,M?sica/películas
+P90B,14,Servicios de hosting y dominio
+P90B,15,Otro
+P90C,1,Equipos electrónicos
+P90C,2,Libros
+P90C,3,"Viajes (pasajes, hoteles)"
+P90C,5,Cursos
+P90C,6,Ropa y accesorios
+P90C,7,Art?culos para el hogar
+P90C,8,Art?culos para el cuidado personal
+P90C,9,Software
+P90C,10,Juegos
+P90C,11,M?sica/películas
+P90C,14,Servicios de hosting y dominio
+P90C,15,Otro
+P91A,1,En un punto de encuentro
+P91A,2,En una tienda perteneciente al negocio
+P91A,3,Env?a por correo o courrier
+P91A,4,Entrega a domicilio
+P91A,5,Otro
+P91B,1,En un punto de encuentro
+P91B,2,En una tienda perteneciente al negocio
+P91B,3,Env?a por correo o courrier
+P91B,4,Entrega a domicilio
+P91B,5,Otro
+P91C,1,En un punto de encuentro
+P91C,2,En una tienda perteneciente al negocio
+P91C,3,Env?a por correo o courrier
+P91C,4,Entrega a domicilio
+P91C,5,Otro
+P92,9999,Ns/Nr
+P93A,1,Mayor alcance de compradores
+P93A,2,Facilidad de administración
+P93A,3,Mejores precios
+P93A,4,Rapidez
+P93A,5,Anonimato
+P93A,6,Otro
+P93B,1,Mayor alcance de compradores
+P93B,2,Facilidad de administración
+P93B,3,Mejores precios
+P93B,4,Rapidez
+P93B,5,Anonimato
+P93B,6,Otro
+P93C,1,Mayor alcance de compradores
+P93C,2,Facilidad de administración
+P93C,3,Mejores precios
+P93C,4,Rapidez
+P93C,5,Anonimato
+P93C,6,Otro
+P94,1,Si
+P94,2,No
+P95,1,Si
+P95,2,No
+P96,1,Si
+P96,2,No
+P97,1,Si
+P97,2,No
+P98A,1,Servicios de telefonía o Internet
+P98A,2,"Luz, tv cable, agua"
+P98A,3,Créditos bancarios
+P98A,4,Pasajes aéreos
+P98A,5,Entradas a espectáculos
+P98A,6,"Estudios, pensión escolar"
+P98A,7,Impuestos
+P98A,8,Otros
+P98B,1,Servicios de telefonía o Internet
+P98B,2,"Luz, tv cable, agua"
+P98B,3,Créditos bancarios
+P98B,4,Pasajes aéreos
+P98B,5,Entradas a espectáculos
+P98B,6,"Estudios, pensión escolar"
+P98B,7,Impuestos
+P98B,8,Otros
+P98C,1,Servicios de telefonía o Internet
+P98C,2,"Luz, tv cable, agua"
+P98C,3,Créditos bancarios
+P98C,4,Pasajes aéreos
+P98C,5,Entradas a espectáculos
+P98C,6,"Estudios, pensión escolar"
+P98C,7,Impuestos
+P98C,8,Otros
+P98E,1,Servicios de telefonía o Internet
+P98E,2,"Luz, tv cable, agua"
+P98E,3,Créditos bancarios
+P98E,4,Pasajes aéreos
+P98E,5,Entradas a espectáculos
+P98E,6,"Estudios, pensión escolar"
+P98E,7,Impuestos
+P98E,8,Otros
+P99,1,Si
+P99,2,No
+P100A,1,Facebook
+P100A,2,Twitter
+P100A,3,Whatsapp
+P100A,4,Telegram
+P100A,5,Instagram
+P100A,6,Youtube
+P100A,7,Skype
+P100A,8,Snapchat
+P100A,9,Line
+P100A,10,Otra
+P100B,1,Facebook
+P100B,2,Twitter
+P100B,3,Whatsapp
+P100B,4,Telegram
+P100B,5,Instagram
+P100B,6,Youtube
+P100B,7,Skype
+P100B,8,Snapchat
+P100B,9,Line
+P100B,10,Otra
+P100C,1,Facebook
+P100C,2,Twitter
+P100C,3,Whatsapp
+P100C,4,Telegram
+P100C,5,Instagram
+P100C,6,Youtube
+P100C,7,Skype
+P100C,8,Snapchat
+P100C,9,Line
+P100C,10,Otra
+P100D,1,Facebook
+P100D,2,Twitter
+P100D,3,Whatsapp
+P100D,4,Telegram
+P100D,5,Instagram
+P100D,6,Youtube
+P100D,7,Skype
+P100D,8,Snapchat
+P100D,9,Line
+P100D,10,Otra
+P100E,1,Facebook
+P100E,2,Twitter
+P100E,3,Whatsapp
+P100E,4,Telegram
+P100E,5,Instagram
+P100E,6,Youtube
+P100E,7,Skype
+P100E,8,Snapchat
+P100E,9,Line
+P100E,10,Otra
+P100G,1,Facebook
+P100G,2,Twitter
+P100G,3,Whatsapp
+P100G,4,Telegram
+P100G,5,Instagram
+P100G,6,Youtube
+P100G,7,Skype
+P100G,8,Snapchat
+P100G,9,Line
+P100G,10,Otra
+P100H,1,Facebook
+P100H,2,Twitter
+P100H,3,Whatsapp
+P100H,4,Telegram
+P100H,5,Instagram
+P100H,6,Youtube
+P100H,7,Skype
+P100H,8,Snapchat
+P100H,9,Line
+P100H,10,Otra
+P100I,1,Facebook
+P100I,2,Twitter
+P100I,3,Whatsapp
+P100I,4,Telegram
+P100I,5,Instagram
+P100I,6,Youtube
+P100I,7,Skype
+P100I,8,Snapchat
+P100I,9,Line
+P100I,10,Otra
+P101A,1,Conectarse con amigos/familiares
+P101A,2,Conocer gente
+P101A,3,Informarse sobre temas políticos
+P101A,4,Informarse de otras noticias
+P101A,5,"Compartir contenidos (noticias, memes, links, mensajes)"
+P101A,6,Participar en debates
+P101A,7,Ver videos/fotos
+P101A,8,Hacer negocios
+P101A,9,Apoyar alguna causa o demanda social
+P101A,10,Comprar o vender productos
+P101A,11,Seguir cuentas o páginas
+P101A,12,Otro
+P101B,1,Conectarse con amigos/familiares
+P101B,2,Conocer gente
+P101B,3,Informarse sobre temas políticos
+P101B,4,Informarse de otras noticias
+P101B,5,"Compartir contenidos (noticias, memes, links, mensajes)"
+P101B,6,Participar en debates
+P101B,7,Ver videos/fotos
+P101B,8,Hacer negocios
+P101B,9,Apoyar alguna causa o demanda social
+P101B,10,Comprar o vender productos
+P101B,11,Seguir cuentas o páginas
+P101B,12,Otro
+P101C,1,Conectarse con amigos/familiares
+P101C,2,Conocer gente
+P101C,3,Informarse sobre temas políticos
+P101C,4,Informarse de otras noticias
+P101C,5,"Compartir contenidos (noticias, memes, links, mensajes)"
+P101C,6,Participar en debates
+P101C,7,Ver videos/fotos
+P101C,8,Hacer negocios
+P101C,9,Apoyar alguna causa o demanda social
+P101C,10,Comprar o vender productos
+P101C,11,Seguir cuentas o páginas
+P101C,12,Otro
+P101D,1,Conectarse con amigos/familiares
+P101D,2,Conocer gente
+P101D,3,Informarse sobre temas políticos
+P101D,4,Informarse de otras noticias
+P101D,5,"Compartir contenidos (noticias, memes, links, mensajes)"
+P101D,6,Participar en debates
+P101D,7,Ver videos/fotos
+P101D,8,Hacer negocios
+P101D,9,Apoyar alguna causa o demanda social
+P101D,10,Comprar o vender productos
+P101D,11,Seguir cuentas o páginas
+P101D,12,Otro
+P103A,97,Las 24 horas
+P103A,98,Cualquier momento
+P103A,99,No se conecta
+P104A,97,Las 24 horas
+P104A,98,Cualquier momento
+P104A,99,No se conecta
+P105,1,Si
+P105,2,No
+P106A,1,Ecologista
+P106A,2,Derechos humanos
+P106A,3,Derechos de los animales
+P106A,4,Derechos de las mujeres
+P106A,5,Campaña electoral
+P106A,6,Otro
+P106B,1,Ecologista
+P106B,2,Derechos humanos
+P106B,3,Derechos de los animales
+P106B,4,Derechos de las mujeres
+P106B,5,Campaña electoral
+P106B,6,Otro
+P106C,1,Ecologista
+P106C,2,Derechos humanos
+P106C,3,Derechos de los animales
+P106C,4,Derechos de las mujeres
+P106C,5,Campaña electoral
+P106C,6,Otro
+P107A,1,Amigos
+P107A,2,Familia
+P107A,3,Compañeros de trabajo/estudio
+P107A,4,Público en general
+P107A,5,Periodistas
+P107A,6,Organizaciones políticas
+P107A,7,Gobierno
+P107A,8,No influyen
+P107A,9,Otro
+P107B,1,Amigos
+P107B,2,Familia
+P107B,3,Compañeros de trabajo/estudio
+P107B,4,Público en general
+P107B,5,Periodistas
+P107B,6,Organizaciones políticas
+P107B,7,Gobierno
+P107B,8,No influyen
+P107B,9,Otro
+P107C,1,Amigos
+P107C,2,Familia
+P107C,3,Compañeros de trabajo/estudio
+P107C,4,Público en general
+P107C,5,Periodistas
+P107C,6,Organizaciones políticas
+P107C,7,Gobierno
+P107C,8,No influyen
+P107C,9,Otro
+P108,1,Mucho
+P108,2,Más o menos
+P108,3,Poco
+P108,4,No confía
+P108,5,NS/NR
+P109,1,Si
+P109,2,No
+P110,1,Si
+P110,2,No
+P111,1,Mucho
+P111,2,Más o menos
+P111,3,Poco
+P111,4,No influyó
+P111,5,Otro
+P112,1,Sí
+P112,2,No
+P112,9,NS/NR
+P113,1,Sí
+P113,2,No
+P115A,1,Amistad
+P115A,2,Relación amorosa
+P115A,3,Laboral
+P115A,4,Política
+P115A,5,Otro
+P115B,1,Amistad
+P115B,2,Relación amorosa
+P115B,3,Laboral
+P115B,4,Política
+P115B,5,Otro
+P115C,1,Amistad
+P115C,2,Relación amorosa
+P115C,3,Laboral
+P115C,4,Política
+P115C,5,Otro
+P116,1,Si
+P116,2,No
+P117,1,Si
+P117,2,No
+P118A,1,Videojuegos
+P118A,2,"Animé, manga o comics"
+P118A,3,Software libre
+P118A,4,Tecnología
+P118A,5,Actividades políticas
+P118A,6,Cultura
+P118A,7,Actividad profesional o de estudio
+P118A,8,Deportes
+P118A,9,Educación
+P118A,10,Ecología/ medio ambiente
+P118A,11,Música
+P118A,12,Otros
+P118B,1,Videojuegos
+P118B,2,"Animé, manga o comics"
+P118B,3,Software libre
+P118B,4,Tecnología
+P118B,5,Actividades políticas
+P118B,6,Cultura
+P118B,7,Actividad profesional o de estudio
+P118B,8,Deportes
+P118B,9,Educación
+P118B,10,Ecología/ medio ambiente
+P118B,11,Música
+P118B,12,Otros
+P118C,1,Videojuegos
+P118C,2,"Animé, manga o comics"
+P118C,3,Software libre
+P118C,4,Tecnología
+P118C,5,Actividades políticas
+P118C,6,Cultura
+P118C,7,Actividad profesional o de estudio
+P118C,8,Deportes
+P118C,9,Educación
+P118C,10,Ecología/ medio ambiente
+P118C,11,Música
+P118C,12,Otros
+P118D,1,Videojuegos
+P118D,2,"Animé, manga o comics"
+P118D,3,Software libre
+P118D,4,Tecnología
+P118D,5,Actividades políticas
+P118D,6,Cultura
+P118D,7,Actividad profesional o de estudio
+P118D,8,Deportes
+P118D,9,Educación
+P118D,10,Ecología/ medio ambiente
+P118D,11,Música
+P118D,12,Otros
+P118E,1,Videojuegos
+P118E,2,"Animé, manga o comics"
+P118E,3,Software libre
+P118E,4,Tecnología
+P118E,5,Actividades políticas
+P118E,6,Cultura
+P118E,7,Actividad profesional o de estudio
+P118E,8,Deportes
+P118E,9,Educación
+P118E,10,Ecología/ medio ambiente
+P118E,11,Música
+P118E,12,Otros
+P118G,1,Videojuegos
+P118G,2,"Animé, manga o comics"
+P118G,3,Software libre
+P118G,4,Tecnología
+P118G,5,Actividades políticas
+P118G,6,Cultura
+P118G,7,Actividad profesional o de estudio
+P118G,8,Deportes
+P118G,9,Educación
+P118G,10,Ecología/ medio ambiente
+P118G,11,Música
+P118G,12,Otros
+P118H,1,Videojuegos
+P118H,2,"Animé, manga o comics"
+P118H,3,Software libre
+P118H,4,Tecnología
+P118H,5,Actividades políticas
+P118H,6,Cultura
+P118H,7,Actividad profesional o de estudio
+P118H,8,Deportes
+P118H,9,Educación
+P118H,10,Ecología/ medio ambiente
+P118H,11,Música
+P118H,12,Otros
+P118I,1,Videojuegos
+P118I,2,"Animé, manga o comics"
+P118I,3,Software libre
+P118I,4,Tecnología
+P118I,5,Actividades políticas
+P118I,6,Cultura
+P118I,7,Actividad profesional o de estudio
+P118I,8,Deportes
+P118I,9,Educación
+P118I,10,Ecología/ medio ambiente
+P118I,11,Música
+P118I,12,Otros
+P119,9,Menos de 1 vez
+P120,1,Si
+P120,2,No
+P121A,1,Correo electrónico
+P121A,2,Facebook
+P121A,3,Whatsapp
+P121A,4,Telegram
+P121A,5,Twitter
+P121A,6,Sitios web
+P121A,7,Otro
+P121B,1,Correo electrónico
+P121B,2,Facebook
+P121B,3,Whatsapp
+P121B,4,Telegram
+P121B,5,Twitter
+P121B,6,Sitios web
+P121B,7,Otro
+P121C,1,Correo electrónico
+P121C,2,Facebook
+P121C,3,Whatsapp
+P121C,4,Telegram
+P121C,5,Twitter
+P121C,6,Sitios web
+P121C,7,Otro
+P121E,1,Correo electrónico
+P121E,2,Facebook
+P121E,3,Whatsapp
+P121E,4,Telegram
+P121E,5,Twitter
+P121E,6,Sitios web
+P121E,7,Otro
+P121F,1,Correo electrónico
+P121F,2,Facebook
+P121F,3,Whatsapp
+P121F,4,Telegram
+P121F,5,Twitter
+P121F,6,Sitios web
+P121F,7,Otro
+P121G,1,Correo electrónico
+P121G,2,Facebook
+P121G,3,Whatsapp
+P121G,4,Telegram
+P121G,5,Twitter
+P121G,6,Sitios web
+P121G,7,Otro
+P122,1,Si
+P122,2,No
+P124A,6,No realiza actividad
+P124A,9,NS/NR
+P124B,6,No realiza actividad
+P124B,9,NS/NR
+P124C,6,No realiza actividad
+P124C,9,NS/NR
+P124D,6,No realiza actividad
+P124D,9,NS/NR
+P124E,6,No realiza actividad
+P124E,9,NS/NR
+P125,1,Si
+P125,2,No
+P126,98,Mismo día
+P126,99,Ns/Nr
+P127,1,Si
+P127,2,No
+P128A,1,Promocionar su actividad económica
+P128A,2,Compartir información
+P128A,3,Compartir música/videos
+P128A,4,Publicar artículos o actividades propias
+P128A,5,Otro
+P128B,1,Promocionar su actividad económica
+P128B,2,Compartir información
+P128B,3,Compartir música/videos
+P128B,4,Publicar artículos o actividades propias
+P128B,5,Otro
+P128C,1,Promocionar su actividad económica
+P128C,2,Compartir información
+P128C,3,Compartir música/videos
+P128C,4,Publicar artículos o actividades propias
+P128C,5,Otro
+P129A,1,Tv
+P129A,2,Radio
+P129A,3,Periódicos impresos
+P129A,4,Periódicos digitales
+P129A,5,Páginas web
+P129A,6,Redes sociales
+P129A,7,Charlas con amigos
+P129A,8,Otro
+P129A,9,NS/NR
+P129B,1,Tv
+P129B,2,Radio
+P129B,3,Periódicos impresos
+P129B,4,Periódicos digitales
+P129B,5,Páginas web
+P129B,6,Redes sociales
+P129B,7,Charlas con amigos
+P129B,8,Otro
+P129B,9,NS/NR
+P129C,1,Tv
+P129C,2,Radio
+P129C,3,Periódicos impresos
+P129C,4,Periódicos digitales
+P129C,5,Páginas web
+P129C,6,Redes sociales
+P129C,7,Charlas con amigos
+P129C,8,Otro
+P129C,9,NS/NR
+P130A,1,Tv
+P130A,2,Radio
+P130A,3,Periódicos impresos
+P130A,4,Periódicos digitales
+P130A,5,Páginas web
+P130A,6,Redes sociales
+P130A,7,Charlas con amigos
+P130A,8,Otro
+P130A,9,NS/NR
+P130B,1,Tv
+P130B,2,Radio
+P130B,3,Periódicos impresos
+P130B,4,Periódicos digitales
+P130B,5,Páginas web
+P130B,6,Redes sociales
+P130B,7,Charlas con amigos
+P130B,8,Otro
+P130B,9,NS/NR
+P130C,1,Tv
+P130C,2,Radio
+P130C,3,Periódicos impresos
+P130C,4,Periódicos digitales
+P130C,5,Páginas web
+P130C,6,Redes sociales
+P130C,7,Charlas con amigos
+P130C,8,Otro
+P130C,9,NS/NR
+P131A,1,Tv
+P131A,2,Radio
+P131A,3,Periódicos impresos
+P131A,4,Periódicos digitales
+P131A,5,Páginas web
+P131A,6,Redes sociales
+P131A,7,Charlas con amigos
+P131A,8,Otro
+P131A,9,NS/NR
+P131B,1,Tv
+P131B,2,Radio
+P131B,3,Periódicos impresos
+P131B,4,Periódicos digitales
+P131B,5,Páginas web
+P131B,6,Redes sociales
+P131B,7,Charlas con amigos
+P131B,8,Otro
+P131B,9,NS/NR
+P131C,1,Tv
+P131C,2,Radio
+P131C,3,Periódicos impresos
+P131C,4,Periódicos digitales
+P131C,5,Páginas web
+P131C,6,Redes sociales
+P131C,7,Charlas con amigos
+P131C,8,Otro
+P131C,9,NS/NR
+P132A,1,Tv
+P132A,2,Radio
+P132A,3,Periódicos impresos
+P132A,4,Periódicos digitales
+P132A,5,Páginas web
+P132A,6,Redes sociales
+P132A,7,Charlas con amigos
+P132A,8,Otro
+P132A,9,NS/NR
+P132B,1,Tv
+P132B,2,Radio
+P132B,3,Periódicos impresos
+P132B,4,Periódicos digitales
+P132B,5,Páginas web
+P132B,6,Redes sociales
+P132B,7,Charlas con amigos
+P132B,8,Otro
+P132B,9,NS/NR
+P132C,1,Tv
+P132C,2,Radio
+P132C,3,Periódicos impresos
+P132C,4,Periódicos digitales
+P132C,5,Páginas web
+P132C,6,Redes sociales
+P132C,7,Charlas con amigos
+P132C,8,Otro
+P132C,9,NS/NR
+P133A,1,Tv
+P133A,2,Radio
+P133A,3,Periódicos impresos
+P133A,4,Periódicos digitales
+P133A,5,Páginas web
+P133A,6,Redes sociales
+P133A,7,Charlas con amigos
+P133A,8,Otro
+P133A,9,NS/NR
+P133B,1,Tv
+P133B,2,Radio
+P133B,3,Periódicos impresos
+P133B,4,Periódicos digitales
+P133B,5,Páginas web
+P133B,6,Redes sociales
+P133B,7,Charlas con amigos
+P133B,8,Otro
+P133B,9,NS/NR
+P133C,1,Tv
+P133C,2,Radio
+P133C,3,Periódicos impresos
+P133C,4,Periódicos digitales
+P133C,5,Páginas web
+P133C,6,Redes sociales
+P133C,7,Charlas con amigos
+P133C,8,Otro
+P133C,9,NS/NR
+P134,1,Tv
+P134,2,Radio
+P134,3,Periódicos impresos
+P134,4,Periódicos digitales
+P134,5,Páginas web
+P134,6,Redes sociales
+P134,7,Ninguno
+P134,9,NS/NR
+P135,1,Tv
+P135,2,Radio
+P135,3,Periódicos impresos
+P135,4,Periódicos digitales
+P135,5,Páginas web
+P135,6,Redes sociales
+P135,7,Ninguno
+P135,9,NS/NR
+P136,1,Tv
+P136,2,Radio
+P136,3,Periódicos impresos
+P136,4,Periódicos digitales
+P136,5,Páginas web
+P136,6,Redes sociales
+P136,7,Ninguno
+P136,9,NS/NR
+P137,1,Tv
+P137,2,Radio
+P137,3,Periódicos impresos
+P137,4,Periódicos digitales
+P137,5,Páginas web
+P137,6,Redes sociales
+P137,7,Ninguno
+P137,9,NS/NR
+P138,1,Tv
+P138,2,Radio
+P138,3,Periódicos impresos
+P138,4,Periódicos digitales
+P138,5,Páginas web
+P138,6,Redes sociales
+P138,7,Ninguno
+P138,9,NS/NR
+P139,1,Tv
+P139,2,Radio
+P139,3,Periódicos impresos
+P139,4,Periódicos digitales
+P139,5,Páginas web
+P139,6,Redes sociales
+P139,7,Ninguno
+P139,9,NS/NR
+P140,1,Tv
+P140,2,Radio
+P140,3,Periódicos impresos
+P140,4,Periódicos digitales
+P140,5,Páginas web
+P140,6,Redes sociales
+P140,7,Ninguno
+P140,9,NS/NR
+P140A,1,Si
+P140A,2,No
+P140A,9,NS/NR
+P140B,1,Si
+P140B,2,No
+P140B,9,NS/NR
+P140C,1,Si
+P140C,2,No
+P140C,9,NS/NR
+P140D,1,Si
+P140D,2,No
+P140D,9,NS/NR
+P141,1,Si
+P141,2,No
+P141,9,NS/NR
+P142,1,Si
+P142,2,No
+P142,9,NS/NR
+P143,99,Ns/Nr
+P144,99,Ns/Nr
+P145,1,Si
+P145,2,No
+P146A,1,Usó un antivirus
+P146A,2,No hizo nada
+P146A,3,Contactar a un técnico
+P146A,4,Cambiar o actualizar antivirus
+P146A,5,Preguntar a alguien
+P146B,1,Usó un antivirus
+P146B,2,No hizo nada
+P146B,3,Contactar a un técnico
+P146B,4,Cambiar o actualizar antivirus
+P146B,5,Preguntar a alguien
+P146C,1,Usó un antivirus
+P146C,2,No hizo nada
+P146C,3,Contactar a un técnico
+P146C,4,Cambiar o actualizar antivirus
+P146C,5,Preguntar a alguien
+P147,1,Si
+P147,2,No
+P148,1,Hombre
+P148,2,Mujer
+P149,1,Primaria o menos
+P149,2,Secundaria incompleta
+P149,3,Secundaria completa
+P149,4,T?cnico
+P149,5,"Educ. terciaria (FFAA, Policía, Normal)"
+P149,6,Universidad incompleta
+P149,7,Universidad completa
+P149,8,Posgrado
+P150,1,Soltero
+P150,2,Casado/conviviente
+P150,3,Separado/divorciado
+P150,4,Viudo
+P151,1,Castellano
+P151,2,Aymara
+P151,3,Quechua
+P151,4,Guaraní
+P151,5,Otro nativo
+P151,6,Otro
+P151A,1,Castellano
+P151A,2,Aymara
+P151A,3,Quechua
+P151A,4,Guaraní
+P151A,5,Otro nativo
+P151A,6,Otro
+P151B,1,Castellano
+P151B,2,Aymara
+P151B,3,Quechua
+P151B,4,Guaraní
+P151B,5,Otro nativo
+P151B,6,Otro
+P152,1,Asalariado
+P152,2,Cuenta propia
+P152,3,Negocio propio
+P152,4,Profesional indep.
+P152,5,Empleador
+P152,6,Estudiante
+P152,7,Ama de casa
+P152,8,Rentista/jubilado
+P152,9,"Sin empleo, buscando"
+P152,10,"Sin empleo, no busca"
+P153,1,Primaria o menos
+P153,2,Secundaria incompleta
+P153,3,Secundaria completa
+P153,4,Técnico
+P153,5,"Educ. terciaria (FFAA, Policía, Normal)"
+P153,6,Universidad incompleta
+P153,7,Universidad completa
+P153,8,Posgrado
+P154A,1,En empleo/trabajo permanente y estable
+P154A,2,A veces tiene trabajo y a veces no
+P154A,3,La mayor parte del tiempo no tiene trabajo
+P154A,4,No tiene trabajo
+P154A,5,Otro
+P155,1,Hasta 1400 Bs.
+P155,2,1.401-3.500 Bs.
+P155,3,3.501-5.000 Bs.
+P155,4,5.001-7.000 Bs.
+P155,5,7.001-10.000 Bs.
+P155,6,10.000-14.000Bs.
+P155,7,14.000-21.000Bs.
+P155,8,Más de 21.000 Bs.
+P156A,1,Si
+P156A,2,No
+P156B,1,Si
+P156B,2,No
+P156C,1,Si
+P156C,2,No
+P156D,1,Si
+P156D,2,No
+P156E,1,Si
+P156E,2,No
+P156F,1,Si
+P156F,2,No
+P156G,1,Si
+P156G,2,No
+P156H,1,Si
+P156H,2,No
+P156J,1,Si
+P156J,2,No
+P156K,1,Si
+P156K,2,No
+P158,1,La Paz
+P158,2,Chuquisaca
+P158,3,Cochabamba
+P158,4,Santa Cruz
+P158,5,Oruro
+P158,6,Potosí
+P158,7,Tarija
+P158,8,Beni
+P158,9,Pando
+P159,1,Ciudad Capital
+P159,2,Ciudades intermedias
+P159,3,Localidades Rurales de menos de 2.000 hab
+CodP160,1,Agua Clara
+CodP160,2,Agua Rica
+CodP160,3,Amaya Pampa
+CodP160,4,Anamal
+CodP160,5,Avaroa
+CodP160,6,Avaroa (La Paz)
+CodP160,7,Cachichira
+CodP160,8,Cala Cala
+CodP160,9,Camargo
+CodP160,10,Camiri
+CodP160,11,Caranavi
+CodP160,12,Carapari
+CodP160,13,Chajra Khasa
+CodP160,14,Challapata
+CodP160,15,Chayanta
+CodP160,16,Cobija
+CodP160,17,Cochabamba
+CodP160,18,Colomi
+CodP160,19,Colquencha
+CodP160,20,Comarapa
+CodP160,21,Cotoca
+CodP160,22,Cruce Culta
+CodP160,23,Dorado Grande
+CodP160,24,El Alto
+CodP160,25,El Carmen Rivero
+CodP160,26,El Común
+CodP160,27,Fátima
+CodP160,28,Huasa Cañada
+CodP160,29,Huañacahua
+CodP160,30,Irpa Irpa
+CodP160,31,Ixiamas
+CodP160,32,Jatuquira
+CodP160,33,La Paz
+CodP160,34,La Plateada
+CodP160,35,Lagunillas
+CodP160,36,Llallaguita
+CodP160,37,Los Sotos
+CodP160,38,Machac Huyo
+CodP160,39,Mallku Originario
+CodP160,40,Mineros
+CodP160,41,Molinos
+CodP160,42,Nueva Esperanza
+CodP160,43,Oploca
+CodP160,44,Oruro
+CodP160,45,Papagayo
+CodP160,46,Pata Pata
+CodP160,47,Pata Pata/ Chuchini
+CodP160,48,Patacamaya
+CodP160,49,Piedritas
+CodP160,50,Porvenir
+CodP160,51,Potosi
+CodP160,52,Potosí
+CodP160,53,Pueblo Nuevo
+CodP160,54,Puerto Quijarro
+CodP160,55,Pulacayo
+CodP160,56,Punata
+CodP160,57,Quebrada León
+CodP160,58,Quime
+CodP160,59,Riberalta
+CodP160,60,Roboré
+CodP160,61,Rurrenabaque
+CodP160,62,San Benito
+CodP160,63,San Borja
+CodP160,64,San Ignacio
+CodP160,65,San Juan Yapacani
+CodP160,66,San Miguel de Kataty
+CodP160,67,San Pedro
+CodP160,68,San Ramon (Sta)
+CodP160,69,San Ramón (Beni)
+CodP160,70,Santa Cruz
+CodP160,71,Santa Fé de Yapacani
+CodP160,72,Santa Rita
+CodP160,73,Santa Rosa
+CodP160,74,Santiago de Huari
+CodP160,75,Sauce Rancho
+CodP160,76,Shinahota
+CodP160,77,Sipe Sipe
+CodP160,78,Sucre
+CodP160,79,Sunchu Pampa
+CodP160,80,Taratuma
+CodP160,81,Tarija
+CodP160,82,Tres Cruces
+CodP160,83,Trinidad
+CodP160,84,Tumarapi
+CodP160,85,Tupiza
+CodP160,86,Uyuni
+CodP160,87,Valle Grande
+CodP160,88,Villa Busch
+CodP160,89,Villa Rojas
+CodP160,90,Villa Viluyo
+CodP160,91,Villomilla/ Villcabamba
+CodP160,92,Vinto
+CodP160,93,Vinto Cancha Grande
+CodP160,94,Vivicha
+CodP160,95,Warnes
+CodP160,96,Yacuiba
+CodP160,97,Zapatera
+Nse,1,Bajo Extremo
+Nse,2,Medio Bajo
+Nse,3,Medio Típico
+Nse,4,Medio Alto
+Nse,5,Alto

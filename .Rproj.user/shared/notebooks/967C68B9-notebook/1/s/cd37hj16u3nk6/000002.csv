@@ -1,0 +1,4 @@
+"0","base_r <- read.csv(""base-5536-bdfinalcorregido.csv"")"
+"2","Error in read.table(file = file, header = header, sep = sep, quote = quote,  : 
+  more columns than column names
+"

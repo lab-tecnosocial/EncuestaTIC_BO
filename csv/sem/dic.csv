@@ -1,0 +1,2499 @@
+variable,value,label,meta
+NUMBOL,NA,Número de Boleta,varlab
+Tipo,NA,Tipo de entrevistado,varlab
+Tipo,1,INTER,NA
+Tipo,2,NO INTER,NA
+P1,NA,1. ¿Me podría decir su edad por favor?,varlab
+P2,NA,2. ¿Usted ha navegado por Internet o se ha conectado a alguna red social a través de Internet?,varlab
+P2,1,Si,NA
+P2,2,No,NA
+P3,NA,3. ¿Cuándo fue la última vez que navegó en Internet o estuvo conectado a las redes sociales?,varlab
+P3,1,Hace 7 días o menos,NA
+P3,2,Entre 8 a 15 días,NA
+P3,3,Entre 16 a 30 días,NA
+P3,4,Hace más de 30 días,NA
+P1A,NA,1a. ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?,varlab
+P1A,1,No existe el servicio en el barrio/localidad,NA
+P1A,2,El costo del servicio alto,NA
+P1A,3,No tiene equipos para conectarse,NA
+P1A,4,No sabe qué es Internet,NA
+P1A,5,No sabe cómo usar Internet,NA
+P1A,6,No está interesado en Internet,NA
+P1A,7,El contenido de Internet es malo,NA
+P1A,8,Otro,NA
+P1B,NA,1a. ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?,varlab
+P1B,1,No existe el servicio en el barrio/localidad,NA
+P1B,2,El costo del servicio alto,NA
+P1B,3,No tiene equipos para conectarse,NA
+P1B,4,No sabe qué es Internet,NA
+P1B,5,No sabe cómo usar Internet,NA
+P1B,6,No está interesado en Internet,NA
+P1B,7,El contenido de Internet es malo,NA
+P1B,8,Otro,NA
+P1C,NA,1a. ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?,varlab
+P1C,1,No existe el servicio en el barrio/localidad,NA
+P1C,2,El costo del servicio alto,NA
+P1C,3,No tiene equipos para conectarse,NA
+P1C,4,No sabe qué es Internet,NA
+P1C,5,No sabe cómo usar Internet,NA
+P1C,6,No está interesado en Internet,NA
+P1C,7,El contenido de Internet es malo,NA
+P1C,8,Otro,NA
+P1D,NA,1a. ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?,varlab
+P1D,1,No existe el servicio en el barrio/localidad,NA
+P1D,2,El costo del servicio alto,NA
+P1D,3,No tiene equipos para conectarse,NA
+P1D,4,No sabe qué es Internet,NA
+P1D,5,No sabe cómo usar Internet,NA
+P1D,6,No está interesado en Internet,NA
+P1D,7,El contenido de Internet es malo,NA
+P1D,8,Otro,NA
+P1E,NA,1a. Otro,varlab
+P2A,NA,"2a. En los últimos 6 meses, ¿Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",varlab
+P2A,1,Obtener información,NA
+P2A,2,Descargar/imprimir documentos,NA
+P2A,3,Obtener algún formulario,NA
+P2A,4,Enviar/recibir correo electrónico,NA
+P2A,5,Contactar a algún familiar/amigo,NA
+P2A,6,Comprar/pagar artículos/servicios por Internet,NA
+P2A,7,"Revisar alguna red social (Facebook, WhatsApp, etc)",NA
+P2A,8,Otro,NA
+P2A,9,Ninguno,NA
+P2B,NA,"2a. En los últimos 6 meses, ¿Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",varlab
+P2B,1,Obtener información,NA
+P2B,2,Descargar/imprimir documentos,NA
+P2B,3,Obtener algún formulario,NA
+P2B,4,Enviar/recibir correo electrónico,NA
+P2B,5,Contactar a algún familiar/amigo,NA
+P2B,6,Comprar/pagar artículos/servicios por Internet,NA
+P2B,7,"Revisar alguna red social (Facebook, WhatsApp, etc)",NA
+P2B,8,Otro,NA
+P2B,9,Ninguno,NA
+P2C,NA,"2a. En los últimos 6 meses, ¿Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",varlab
+P2C,1,Obtener información,NA
+P2C,2,Descargar/imprimir documentos,NA
+P2C,3,Obtener algún formulario,NA
+P2C,4,Enviar/recibir correo electrónico,NA
+P2C,5,Contactar a algún familiar/amigo,NA
+P2C,6,Comprar/pagar artículos/servicios por Internet,NA
+P2C,7,"Revisar alguna red social (Facebook, WhatsApp, etc)",NA
+P2C,8,Otro,NA
+P2C,9,Ninguno,NA
+P2D,NA,"2a. En los últimos 6 meses, ¿Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",varlab
+P2D,1,Obtener información,NA
+P2D,2,Descargar/imprimir documentos,NA
+P2D,3,Obtener algún formulario,NA
+P2D,4,Enviar/recibir correo electrónico,NA
+P2D,5,Contactar a algún familiar/amigo,NA
+P2D,6,Comprar/pagar artículos/servicios por Internet,NA
+P2D,7,"Revisar alguna red social (Facebook, WhatsApp, etc)",NA
+P2D,8,Otro,NA
+P2D,9,Ninguno,NA
+P2E,NA,2a. Otro,varlab
+P3A,NA,3a. ¿Más o menos cuántas veces ha solicitado esta ayuda en el último mes?,varlab
+P4A,NA,"4a. ¿Si tuviera acceso a Internet, usted estaría... ?.... usar Internet?",varlab
+P4A,1,Muy interesado,NA
+P4A,2,M?s o menos interesado,NA
+P4A,3,Poco interesado,NA
+P4A,4,Nada interesado,NA
+P4A,9,NS/NR,NA
+P4,NA,4. ¿Tiene teléfono fijo en su casa?,varlab
+P4,1,Si,NA
+P4,2,No,NA
+P5,NA,5. ¿Cuánto pagan al mes por este servicio?,varlab
+P5,98,No tiene el servicio,NA
+P5,99,NS/NR,NA
+P6,NA,"6. ¿Tiene computadora de escritorio, computadora portátil o tablet en su casa?",varlab
+P6,1,Si,NA
+P6,2,No,NA
+P7A,NA,7. ¿Cuándo fue la última vez que en su casa compraron alguno de estos equipos? (MESES),varlab
+P7A,99,NS/NR,NA
+P7B,NA,7. ¿Cuándo fue la última vez que en su casa compraron alguno de estos equipos? (AÑOS),varlab
+P7B,99,NS/NR,NA
+P8,NA,"8. Y la última vez ¿Compraron una computadora de escritorio, una computadora portátil o una táblet?",varlab
+P8,1,Computadora de escritorio,NA
+P8,2,Computadora portátil,NA
+P8,3,Tablet,NA
+P8,9,NS/NR,NA
+P9,NA,9. ¿Cuánto pagaron aproximadamente por ese equipo?,varlab
+P9,99,NS/NR,NA
+P10,NA,"10. ¿Más o menos cuántos días a la semana usa computadora de escritorio, computadora portátil o tablet?",varlab
+P10,8,Menos de una vez por semana,NA
+P10,9,No usa estos equipos,NA
+P11A,NA,11. ¿Qué usos le da usted a estos equipos?,varlab
+P11A,1,Herramienta de trabajo,NA
+P11A,2,Escuchar música o ver videos,NA
+P11A,3,Juegos,NA
+P11A,4,Conectarse a Internet,NA
+P11A,5,Estudio,NA
+P11A,6,Otro,NA
+P11B,NA,11. ¿Qué usos le da usted a estos equipos?,varlab
+P11B,1,Herramienta de trabajo,NA
+P11B,2,Escuchar música o ver videos,NA
+P11B,3,Juegos,NA
+P11B,4,Conectarse a Internet,NA
+P11B,5,Estudio,NA
+P11B,6,Otro,NA
+P11C,NA,11. ¿Qué usos le da usted a estos equipos?,varlab
+P11C,1,Herramienta de trabajo,NA
+P11C,2,Escuchar música o ver videos,NA
+P11C,3,Juegos,NA
+P11C,4,Conectarse a Internet,NA
+P11C,5,Estudio,NA
+P11C,6,Otro,NA
+P11F,NA,11. ¿Qué usos le da usted a estos equipos?,varlab
+P11F,1,Herramienta de trabajo,NA
+P11F,2,Escuchar música o ver videos,NA
+P11F,3,Juegos,NA
+P11F,4,Conectarse a Internet,NA
+P11F,5,Estudio,NA
+P11F,6,Otro,NA
+P11G,NA,11. ¿Qué usos le da usted a estos equipos?,varlab
+P11G,1,Herramienta de trabajo,NA
+P11G,2,Escuchar música o ver videos,NA
+P11G,3,Juegos,NA
+P11G,4,Conectarse a Internet,NA
+P11G,5,Estudio,NA
+P11G,6,Otro,NA
+P11D,NA,11. Otro,varlab
+P12,NA,12. ¿Tiene televisor en su casa?,varlab
+P12,1,Si,NA
+P12,2,No,NA
+P13A,NA,13. ¿Cuándo fue la última vez que en su casa compraron un televisor? (MESES),varlab
+P13A,99,NS/NR,NA
+P13B,NA,13. ¿Cuándo fue la última vez que en su casa compraron un televisor? (AÑOS),varlab
+P13B,99,NS/NR,NA
+P14,NA,14. ¿Cuánto pagaron aproximadamente por ese televisor?,varlab
+P14,9,NS/NR,NA
+P15A,NA,15. ¿Qué tipo de programas son los que más le gusta mirar en televisión?,varlab
+P15A,1,Noticias,NA
+P15A,2,Deportes,NA
+P15A,3,Salud y educación,NA
+P15A,4,"Entretenimiento (series, novelas, pel?culas, far?ndula, moda, concursos)",NA
+P15A,5,Otro,NA
+P15A,6,No mira televisión,NA
+P15B,NA,15. ¿Qué tipo de programas son los que más le gusta mirar en televisión?,varlab
+P15B,1,Noticias,NA
+P15B,2,Deportes,NA
+P15B,3,Salud y educación,NA
+P15B,4,"Entretenimiento (series, novelas, pel?culas, far?ndula, moda, concursos)",NA
+P15B,5,Otro,NA
+P15B,6,No mira televisión,NA
+P15C,NA,15. ¿Qué tipo de programas son los que más le gusta mirar en televisión?,varlab
+P15C,1,Noticias,NA
+P15C,2,Deportes,NA
+P15C,3,Salud y educación,NA
+P15C,4,"Entretenimiento (series, novelas, pel?culas, far?ndula, moda, concursos)",NA
+P15C,5,Otro,NA
+P15C,6,No mira televisión,NA
+P15E,NA,15. ¿Qué tipo de programas son los que más le gusta mirar en televisión?,varlab
+P15E,1,Noticias,NA
+P15E,2,Deportes,NA
+P15E,3,Salud y educación,NA
+P15E,4,"Entretenimiento (series, novelas, pel?culas, far?ndula, moda, concursos)",NA
+P15E,5,Otro,NA
+P15E,6,No mira televisión,NA
+P15D,NA,15. Otro,varlab
+P16,NA,16. ¿En su casa usted tiene servicio de TV Cable?,varlab
+P16,1,Si,NA
+P16,2,No,NA
+P17,NA,17. ¿En su casa usted tiene servicio de TV Satelital?,varlab
+P17,1,Si,NA
+P17,2,No,NA
+P18,NA,18. ¿Cuánto pagan al mes por este servicio de Tv cable/Tv satelital?,varlab
+P18,99,NS/NR,NA
+P19,NA,"19. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio?",varlab
+P19,9,NS/NR,NA
+P20,NA,20. ¿Tiene radio en su casa?,varlab
+P20,1,Si,NA
+P20,2,No,NA
+P21A,NA,21. ¿Cuándo fue la última vez que compraron una radio en su casa? (MESES),varlab
+P21A,99,NS/NR,NA
+P21B,NA,21. ¿Cuándo fue la última vez que compraron una radio en su casa? (AÑOS),varlab
+P21B,99,NS/NR,NA
+P22,NA,22. ¿Cuánto pagaron aproximadamente?,varlab
+P22,99,NS/NR,NA
+P23,NA,23. ¿Tiene Internet fijo en su casa?,varlab
+P23,1,Internet fijo,NA
+P23,2,Módem,NA
+P23,3,Ninguno,NA
+P24,NA,24. ¿Cuánto pagan al mes por este servicio?,varlab
+P24,99,NS/NR,NA
+P25,NA,25. ¿De qué velocidad es el plan que contrataron?,varlab
+P25,1,128 kbps,NA
+P25,2,256 kbps,NA
+P25,3,512 kbps,NA
+P25,4,1 a 2  Mbps,NA
+P25,5,De + de 2 a 3 Mbps,NA
+P25,6,De + de 3 Mbps,NA
+P25,9,NS/NR,NA
+P26,NA,"26. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio de Internet fijo?",varlab
+P27A,NA,27. ¿Para qué usa mayormente esta conexión a Internet?,varlab
+P27A,1,Contactar amigos o familiares,NA
+P27A,2,Buscar información,NA
+P27A,3,"Comprar, vender o permutar",NA
+P27A,4,Fines académicos,NA
+P27A,5,Trabajo,NA
+P27A,6,Ver noticias,NA
+P27A,7,Descargar archivos,NA
+P27A,8,Jugar,NA
+P27A,9,Escuchar música o ver videos,NA
+P27A,10,Redes sociales,NA
+P27A,11,Correo electrónico,NA
+P27A,12,Otro,NA
+P27B,NA,27. ¿Para qué usa mayormente esta conexión a Internet?,varlab
+P27B,1,Contactar amigos o familiares,NA
+P27B,2,Buscar información,NA
+P27B,3,"Comprar, vender o permutar",NA
+P27B,4,Fines académicos,NA
+P27B,5,Trabajo,NA
+P27B,6,Ver noticias,NA
+P27B,7,Descargar archivos,NA
+P27B,8,Jugar,NA
+P27B,9,Escuchar música o ver videos,NA
+P27B,10,Redes sociales,NA
+P27B,11,Correo electrónico,NA
+P27B,12,Otro,NA
+P27C,NA,27. ¿Para qué usa mayormente esta conexión a Internet?,varlab
+P27C,1,Contactar amigos o familiares,NA
+P27C,2,Buscar información,NA
+P27C,3,"Comprar, vender o permutar",NA
+P27C,4,Fines académicos,NA
+P27C,5,Trabajo,NA
+P27C,6,Ver noticias,NA
+P27C,7,Descargar archivos,NA
+P27C,8,Jugar,NA
+P27C,9,Escuchar música o ver videos,NA
+P27C,10,Redes sociales,NA
+P27C,11,Correo electrónico,NA
+P27C,12,Otro,NA
+P27E,NA,27. ¿Para qué usa mayormente esta conexión a Internet?,varlab
+P27E,1,Contactar amigos o familiares,NA
+P27E,2,Buscar información,NA
+P27E,3,"Comprar, vender o permutar",NA
+P27E,4,Fines académicos,NA
+P27E,5,Trabajo,NA
+P27E,6,Ver noticias,NA
+P27E,7,Descargar archivos,NA
+P27E,8,Jugar,NA
+P27E,9,Escuchar música o ver videos,NA
+P27E,10,Redes sociales,NA
+P27E,11,Correo electrónico,NA
+P27E,12,Otro,NA
+P27F,NA,27. ¿Para qué usa mayormente esta conexión a Internet?,varlab
+P27F,1,Contactar amigos o familiares,NA
+P27F,2,Buscar información,NA
+P27F,3,"Comprar, vender o permutar",NA
+P27F,4,Fines académicos,NA
+P27F,5,Trabajo,NA
+P27F,6,Ver noticias,NA
+P27F,7,Descargar archivos,NA
+P27F,8,Jugar,NA
+P27F,9,Escuchar música o ver videos,NA
+P27F,10,Redes sociales,NA
+P27F,11,Correo electrónico,NA
+P27F,12,Otro,NA
+P27G,NA,27. ¿Para qué usa mayormente esta conexión a Internet?,varlab
+P27G,1,Contactar amigos o familiares,NA
+P27G,2,Buscar información,NA
+P27G,3,"Comprar, vender o permutar",NA
+P27G,4,Fines académicos,NA
+P27G,5,Trabajo,NA
+P27G,6,Ver noticias,NA
+P27G,7,Descargar archivos,NA
+P27G,8,Jugar,NA
+P27G,9,Escuchar música o ver videos,NA
+P27G,10,Redes sociales,NA
+P27G,11,Correo electrónico,NA
+P27G,12,Otro,NA
+P27D,NA,27. Otro,varlab
+P28,NA,28. ¿Tiene celular?,varlab
+P28,1,Si,NA
+P28,2,No,NA
+P29A,NA,29. ¿Cuándo fue la última vez que compró o que le compraron un celular? (MESES),varlab
+P29A,99,NS/NR,NA
+P29B,NA,29. ¿Cuándo fue la última vez que compró o que le compraron un celular? (AÑOS),varlab
+P29B,99,NS/NR,NA
+P30,NA,30. ¿Cuánto pagó o pagaron aproximadamente la última vez?,varlab
+P30,99,NS/NR,NA
+P31A,NA,31. ¿Qué usos le da a su celular?,varlab
+P31A,1,Llamadas telefónicas,NA
+P31A,2,Mensajes de texto SMS,NA
+P31A,3,Escuchar música,NA
+P31A,4,Ver videos,NA
+P31A,5,Juegos,NA
+P31A,6,Conectarse a Internet,NA
+P31A,7,Sacar fotos,NA
+P31A,8,Otro,NA
+P31B,NA,31. ¿Qué usos le da a su celular?,varlab
+P31B,1,Llamadas telefónicas,NA
+P31B,2,Mensajes de texto SMS,NA
+P31B,3,Escuchar música,NA
+P31B,4,Ver videos,NA
+P31B,5,Juegos,NA
+P31B,6,Conectarse a Internet,NA
+P31B,7,Sacar fotos,NA
+P31B,8,Otro,NA
+P31C,NA,31. ¿Qué usos le da a su celular?,varlab
+P31C,1,Llamadas telefónicas,NA
+P31C,2,Mensajes de texto SMS,NA
+P31C,3,Escuchar música,NA
+P31C,4,Ver videos,NA
+P31C,5,Juegos,NA
+P31C,6,Conectarse a Internet,NA
+P31C,7,Sacar fotos,NA
+P31C,8,Otro,NA
+P31D,NA,31. ¿Qué usos le da a su celular?,varlab
+P31D,1,Llamadas telefónicas,NA
+P31D,2,Mensajes de texto SMS,NA
+P31D,3,Escuchar música,NA
+P31D,4,Ver videos,NA
+P31D,5,Juegos,NA
+P31D,6,Conectarse a Internet,NA
+P31D,7,Sacar fotos,NA
+P31D,8,Otro,NA
+P31E,NA,31. ¿Qué usos le da a su celular?,varlab
+P31E,1,Llamadas telefónicas,NA
+P31E,2,Mensajes de texto SMS,NA
+P31E,3,Escuchar música,NA
+P31E,4,Ver videos,NA
+P31E,5,Juegos,NA
+P31E,6,Conectarse a Internet,NA
+P31E,7,Sacar fotos,NA
+P31E,8,Otro,NA
+P31G,NA,31. ¿Qué usos le da a su celular?,varlab
+P31G,1,Llamadas telefónicas,NA
+P31G,2,Mensajes de texto SMS,NA
+P31G,3,Escuchar música,NA
+P31G,4,Ver videos,NA
+P31G,5,Juegos,NA
+P31G,6,Conectarse a Internet,NA
+P31G,7,Sacar fotos,NA
+P31G,8,Otro,NA
+P31H,NA,31. ¿Qué usos le da a su celular?,varlab
+P31H,1,Llamadas telefónicas,NA
+P31H,2,Mensajes de texto SMS,NA
+P31H,3,Escuchar música,NA
+P31H,4,Ver videos,NA
+P31H,5,Juegos,NA
+P31H,6,Conectarse a Internet,NA
+P31H,7,Sacar fotos,NA
+P31H,8,Otro,NA
+P31F,NA,31. Otro,varlab
+P32,NA,32. ¿En su celular tiene el servicio de prepago o de pospago?,varlab
+P32,1,Prepago,NA
+P32,2,Pospago,NA
+P32,3,Ambos,NA
+P33,NA,33. ¿De qué empresa tiene este servicio?,varlab
+P33,1,Tigo,NA
+P33,2,Entel,NA
+P33,3,Viva,NA
+P33,4,Mio (Comteco),NA
+P34,NA,34. ¿Cuánto gasta en promedio al mes por el servicio de llamadas telefónicas y mensajes de texto?,varlab
+P34,99,Ns/Nr,NA
+P35,NA,"35. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría al servicio de....?",varlab
+P36A,NA,36. ¿Qué sistema operativo tiene su celular?,varlab
+P36A,1,Android,NA
+P36A,2,IOS (iPhone),NA
+P36A,3,Windows,NA
+P36A,4,Otro,NA
+P36A,9,NS/NR,NA
+P36B,NA,36. Otro,varlab
+P37,NA,37. ¿Usted tiene Internet en su celular?,varlab
+P37,1,Si,NA
+P37,2,No,NA
+P38,NA,38. ¿Cuánto paga al mes en promedio por el servicio de Internet?,varlab
+P39A,NA,39. ¿Más o menos cuántos megas consume en promedio? (CANTIDAD),varlab
+P39B,NA,39. ¿Más o menos cuántos megas consume en promedio? (TIEMPO),varlab
+P39B,1,Día,NA
+P39B,2,Semana,NA
+P39B,3,Mes,NA
+P40,NA,"40. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio?",varlab
+P41A,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41A,1,Contactar amigos o familiares,NA
+P41A,2,Buscar información,NA
+P41A,3,Compras en Internet,NA
+P41A,4,Fines académicos,NA
+P41A,5,Trabajo,NA
+P41A,6,Ver noticias,NA
+P41A,7,Descargar archivos,NA
+P41A,8,Jugar,NA
+P41A,9,Escuchar música o ver videos,NA
+P41A,10,Redes sociales,NA
+P41A,11,Correo electrónico,NA
+P41A,12,Otro,NA
+P41B,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41B,1,Contactar amigos o familiares,NA
+P41B,2,Buscar información,NA
+P41B,3,Compras en Internet,NA
+P41B,4,Fines académicos,NA
+P41B,5,Trabajo,NA
+P41B,6,Ver noticias,NA
+P41B,7,Descargar archivos,NA
+P41B,8,Jugar,NA
+P41B,9,Escuchar música o ver videos,NA
+P41B,10,Redes sociales,NA
+P41B,11,Correo electrónico,NA
+P41B,12,Otro,NA
+P41C,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41C,1,Contactar amigos o familiares,NA
+P41C,2,Buscar información,NA
+P41C,3,Compras en Internet,NA
+P41C,4,Fines académicos,NA
+P41C,5,Trabajo,NA
+P41C,6,Ver noticias,NA
+P41C,7,Descargar archivos,NA
+P41C,8,Jugar,NA
+P41C,9,Escuchar música o ver videos,NA
+P41C,10,Redes sociales,NA
+P41C,11,Correo electrónico,NA
+P41C,12,Otro,NA
+P41D,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41D,1,Contactar amigos o familiares,NA
+P41D,2,Buscar información,NA
+P41D,3,Compras en Internet,NA
+P41D,4,Fines académicos,NA
+P41D,5,Trabajo,NA
+P41D,6,Ver noticias,NA
+P41D,7,Descargar archivos,NA
+P41D,8,Jugar,NA
+P41D,9,Escuchar música o ver videos,NA
+P41D,10,Redes sociales,NA
+P41D,11,Correo electrónico,NA
+P41D,12,Otro,NA
+P41E,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41E,1,Contactar amigos o familiares,NA
+P41E,2,Buscar información,NA
+P41E,3,Compras en Internet,NA
+P41E,4,Fines académicos,NA
+P41E,5,Trabajo,NA
+P41E,6,Ver noticias,NA
+P41E,7,Descargar archivos,NA
+P41E,8,Jugar,NA
+P41E,9,Escuchar música o ver videos,NA
+P41E,10,Redes sociales,NA
+P41E,11,Correo electrónico,NA
+P41E,12,Otro,NA
+P41G,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41G,1,Contactar amigos o familiares,NA
+P41G,2,Buscar información,NA
+P41G,3,Compras en Internet,NA
+P41G,4,Fines académicos,NA
+P41G,5,Trabajo,NA
+P41G,6,Ver noticias,NA
+P41G,7,Descargar archivos,NA
+P41G,8,Jugar,NA
+P41G,9,Escuchar música o ver videos,NA
+P41G,10,Redes sociales,NA
+P41G,11,Correo electrónico,NA
+P41G,12,Otro,NA
+P41H,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41H,1,Contactar amigos o familiares,NA
+P41H,2,Buscar información,NA
+P41H,3,Compras en Internet,NA
+P41H,4,Fines académicos,NA
+P41H,5,Trabajo,NA
+P41H,6,Ver noticias,NA
+P41H,7,Descargar archivos,NA
+P41H,8,Jugar,NA
+P41H,9,Escuchar música o ver videos,NA
+P41H,10,Redes sociales,NA
+P41H,11,Correo electrónico,NA
+P41H,12,Otro,NA
+P41I,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41I,1,Contactar amigos o familiares,NA
+P41I,2,Buscar información,NA
+P41I,3,Compras en Internet,NA
+P41I,4,Fines académicos,NA
+P41I,5,Trabajo,NA
+P41I,6,Ver noticias,NA
+P41I,7,Descargar archivos,NA
+P41I,8,Jugar,NA
+P41I,9,Escuchar música o ver videos,NA
+P41I,10,Redes sociales,NA
+P41I,11,Correo electrónico,NA
+P41I,12,Otro,NA
+P41J,NA,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,varlab
+P41J,1,Contactar amigos o familiares,NA
+P41J,2,Buscar información,NA
+P41J,3,Compras en Internet,NA
+P41J,4,Fines académicos,NA
+P41J,5,Trabajo,NA
+P41J,6,Ver noticias,NA
+P41J,7,Descargar archivos,NA
+P41J,8,Jugar,NA
+P41J,9,Escuchar música o ver videos,NA
+P41J,10,Redes sociales,NA
+P41J,11,Correo electrónico,NA
+P41J,12,Otro,NA
+P41F,NA,41. Otro,varlab
+P42A,NA,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",varlab
+P42A,1,En el trabajo,NA
+P42A,2,En el Colegio,NA
+P42A,3,En la Universidad,NA
+P42A,4,Telecentro,NA
+P42A,5,Cafe Internet,NA
+P42A,6,"Restaurantes, cafes",NA
+P42A,7,Espacios públicos,NA
+P42A,8,Casa de amigos/familiares,NA
+P42A,9,Otro,NA
+P42A,11,Ninguno,NA
+P42B,NA,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",varlab
+P42B,1,En el trabajo,NA
+P42B,2,En el Colegio,NA
+P42B,3,En la Universidad,NA
+P42B,4,Telecentro,NA
+P42B,5,Cafe Internet,NA
+P42B,6,"Restaurantes, cafes",NA
+P42B,7,Espacios públicos,NA
+P42B,8,Casa de amigos/familiares,NA
+P42B,9,Otro,NA
+P42B,11,Ninguno,NA
+P42C,NA,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",varlab
+P42C,1,En el trabajo,NA
+P42C,2,En el Colegio,NA
+P42C,3,En la Universidad,NA
+P42C,4,Telecentro,NA
+P42C,5,Cafe Internet,NA
+P42C,6,"Restaurantes, cafes",NA
+P42C,7,Espacios públicos,NA
+P42C,8,Casa de amigos/familiares,NA
+P42C,9,Otro,NA
+P42C,11,Ninguno,NA
+P42E,NA,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",varlab
+P42E,1,En el trabajo,NA
+P42E,2,En el Colegio,NA
+P42E,3,En la Universidad,NA
+P42E,4,Telecentro,NA
+P42E,5,Cafe Internet,NA
+P42E,6,"Restaurantes, cafes",NA
+P42E,7,Espacios públicos,NA
+P42E,8,Casa de amigos/familiares,NA
+P42E,9,Otro,NA
+P42E,11,Ninguno,NA
+P42F,NA,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",varlab
+P42F,1,En el trabajo,NA
+P42F,2,En el Colegio,NA
+P42F,3,En la Universidad,NA
+P42F,4,Telecentro,NA
+P42F,5,Cafe Internet,NA
+P42F,6,"Restaurantes, cafes",NA
+P42F,7,Espacios públicos,NA
+P42F,8,Casa de amigos/familiares,NA
+P42F,9,Otro,NA
+P42F,11,Ninguno,NA
+P42D,NA,42. Otro,varlab
+P43,NA,"43. ¿En promedio, cuántos días a la semana utiliza Internet (ya sea fijo o móvil)?",varlab
+P44A,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44A,97,Las 24 horas,NA
+P44A,98,Cualquier momento,NA
+P44A,99,No se conecta,NA
+P44B,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44B,97,Las 24 horas,NA
+P44B,98,Cualquier momento,NA
+P44B,99,No se conecta,NA
+P44C,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44C,97,Las 24 horas,NA
+P44C,98,Cualquier momento,NA
+P44C,99,No se conecta,NA
+P44D,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44D,97,Las 24 horas,NA
+P44D,98,Cualquier momento,NA
+P44D,99,No se conecta,NA
+P44E,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44E,97,Las 24 horas,NA
+P44E,98,Cualquier momento,NA
+P44E,99,No se conecta,NA
+P44F,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44F,97,Las 24 horas,NA
+P44F,98,Cualquier momento,NA
+P44F,99,No se conecta,NA
+P44G,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44G,97,Las 24 horas,NA
+P44G,98,Cualquier momento,NA
+P44G,99,No se conecta,NA
+P44J,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44J,97,Las 24 horas,NA
+P44J,98,Cualquier momento,NA
+P44J,99,No se conecta,NA
+P44H,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44H,97,Las 24 horas,NA
+P44H,98,Cualquier momento,NA
+P44H,99,No se conecta,NA
+P44I,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44I,97,Las 24 horas,NA
+P44I,98,Cualquier momento,NA
+P44I,99,No se conecta,NA
+P44K,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44K,99,No se conecta,NA
+P44L,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44L,99,No se conecta,NA
+P44M,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44M,99,No se conecta,NA
+P44N,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44N,99,No se conecta,NA
+P44O,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44O,99,No se conecta,NA
+P44P,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44P,99,No se conecta,NA
+P44Q,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44Q,99,No se conecta,NA
+P44R,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44R,99,No se conecta,NA
+P44S,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44S,99,No se conecta,NA
+P44T,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44T,99,No se conecta,NA
+P44U,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44U,99,No se conecta,NA
+P44V,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44V,99,No se conecta,NA
+P44W,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44W,99,No se conecta,NA
+P44X,NA,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",varlab
+P44X,99,No se conecta,NA
+P45A,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45A,97,Las 24 horas,NA
+P45A,98,Cualquier momento,NA
+P45A,99,No se conecta,NA
+P45B,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45B,99,No se conecta,NA
+P45C,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45C,99,No se conecta,NA
+P45D,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45D,99,No se conecta,NA
+P45E,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45E,99,No se conecta,NA
+P45F,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45F,99,No se conecta,NA
+P45G,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45G,99,No se conecta,NA
+P45H,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45H,99,No se conecta,NA
+P45I,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45I,99,No se conecta,NA
+P45J,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45J,99,No se conecta,NA
+P45K,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45K,99,No se conecta,NA
+P45L,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45L,99,No se conecta,NA
+P45M,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45M,99,No se conecta,NA
+P45N,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45N,99,No se conecta,NA
+P45O,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45O,99,No se conecta,NA
+P45P,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45P,99,No se conecta,NA
+P45Q,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45Q,99,No se conecta,NA
+P45R,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45R,99,No se conecta,NA
+P45S,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45S,99,No se conecta,NA
+P45T,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45T,99,No se conecta,NA
+P45U,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45U,99,No se conecta,NA
+P45V,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45V,99,No se conecta,NA
+P45W,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45W,99,No se conecta,NA
+P45X,NA,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",varlab
+P45X,99,No se conecta,NA
+P46A,NA,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,varlab
+P46A,1,Contactar amigos o familiares,NA
+P46A,2,Buscar información,NA
+P46A,3,Compras en Internet,NA
+P46A,4,Fines académicos,NA
+P46A,5,Trabajo,NA
+P46A,6,Ver noticias,NA
+P46A,7,Descargar archivos,NA
+P46A,8,Jugar,NA
+P46A,9,Escuchar música o ver videos,NA
+P46A,10,Redes sociales,NA
+P46A,11,Correo electrónico,NA
+P46A,12,Otro,NA
+P46B,NA,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,varlab
+P46B,1,Contactar amigos o familiares,NA
+P46B,2,Buscar información,NA
+P46B,3,Compras en Internet,NA
+P46B,4,Fines académicos,NA
+P46B,5,Trabajo,NA
+P46B,6,Ver noticias,NA
+P46B,7,Descargar archivos,NA
+P46B,8,Jugar,NA
+P46B,9,Escuchar música o ver videos,NA
+P46B,10,Redes sociales,NA
+P46B,11,Correo electrónico,NA
+P46B,12,Otro,NA
+P46C,NA,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,varlab
+P46C,1,Contactar amigos o familiares,NA
+P46C,2,Buscar información,NA
+P46C,3,Compras en Internet,NA
+P46C,4,Fines académicos,NA
+P46C,5,Trabajo,NA
+P46C,6,Ver noticias,NA
+P46C,7,Descargar archivos,NA
+P46C,8,Jugar,NA
+P46C,9,Escuchar música o ver videos,NA
+P46C,10,Redes sociales,NA
+P46C,11,Correo electrónico,NA
+P46C,12,Otro,NA
+P46E,NA,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,varlab
+P46E,1,Contactar amigos o familiares,NA
+P46E,2,Buscar información,NA
+P46E,3,Compras en Internet,NA
+P46E,4,Fines académicos,NA
+P46E,5,Trabajo,NA
+P46E,6,Ver noticias,NA
+P46E,7,Descargar archivos,NA
+P46E,8,Jugar,NA
+P46E,9,Escuchar música o ver videos,NA
+P46E,10,Redes sociales,NA
+P46E,11,Correo electrónico,NA
+P46E,12,Otro,NA
+P46F,NA,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,varlab
+P46F,1,Contactar amigos o familiares,NA
+P46F,2,Buscar información,NA
+P46F,3,Compras en Internet,NA
+P46F,4,Fines académicos,NA
+P46F,5,Trabajo,NA
+P46F,6,Ver noticias,NA
+P46F,7,Descargar archivos,NA
+P46F,8,Jugar,NA
+P46F,9,Escuchar música o ver videos,NA
+P46F,10,Redes sociales,NA
+P46F,11,Correo electrónico,NA
+P46F,12,Otro,NA
+P46G,NA,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,varlab
+P46G,1,Contactar amigos o familiares,NA
+P46G,2,Buscar información,NA
+P46G,3,Compras en Internet,NA
+P46G,4,Fines académicos,NA
+P46G,5,Trabajo,NA
+P46G,6,Ver noticias,NA
+P46G,7,Descargar archivos,NA
+P46G,8,Jugar,NA
+P46G,9,Escuchar música o ver videos,NA
+P46G,10,Redes sociales,NA
+P46G,11,Correo electrónico,NA
+P46G,12,Otro,NA
+P46H,NA,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,varlab
+P46H,1,Contactar amigos o familiares,NA
+P46H,2,Buscar información,NA
+P46H,3,Compras en Internet,NA
+P46H,4,Fines académicos,NA
+P46H,5,Trabajo,NA
+P46H,6,Ver noticias,NA
+P46H,7,Descargar archivos,NA
+P46H,8,Jugar,NA
+P46H,9,Escuchar música o ver videos,NA
+P46H,10,Redes sociales,NA
+P46H,11,Correo electrónico,NA
+P46H,12,Otro,NA
+P46I,NA,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,varlab
+P46I,1,Contactar amigos o familiares,NA
+P46I,2,Buscar información,NA
+P46I,3,Compras en Internet,NA
+P46I,4,Fines académicos,NA
+P46I,5,Trabajo,NA
+P46I,6,Ver noticias,NA
+P46I,7,Descargar archivos,NA
+P46I,8,Jugar,NA
+P46I,9,Escuchar música o ver videos,NA
+P46I,10,Redes sociales,NA
+P46I,11,Correo electrónico,NA
+P46I,12,Otro,NA
+P46D,NA,46. Otro,varlab
+P47A,NA,47. ¿Qué tipo de información busca en Internet?,varlab
+P47A,1,"Noticias (periódicos, etc.)",NA
+P47A,2,Oferta de bienes o servicios,NA
+P47A,3,Oportunidades laborales,NA
+P47A,4,Servicios de salud,NA
+P47A,5,Ciencia y/o tecnología,NA
+P47A,6,Servicios del gobierno,NA
+P47A,7,Entretenimiento/farándula,NA
+P47A,8,Turismo,NA
+P47A,9,Educativa,NA
+P47A,10,Negocios,NA
+P47A,11,Política,NA
+P47A,12,Arte y cultura,NA
+P47A,13,Otro,NA
+P47B,NA,47. ¿Qué tipo de información busca en Internet?,varlab
+P47B,1,"Noticias (periódicos, etc.)",NA
+P47B,2,Oferta de bienes o servicios,NA
+P47B,3,Oportunidades laborales,NA
+P47B,4,Servicios de salud,NA
+P47B,5,Ciencia y/o tecnología,NA
+P47B,6,Servicios del gobierno,NA
+P47B,7,Entretenimiento/farándula,NA
+P47B,8,Turismo,NA
+P47B,9,Educativa,NA
+P47B,10,Negocios,NA
+P47B,11,Política,NA
+P47B,12,Arte y cultura,NA
+P47B,13,Otro,NA
+P47C,NA,47. ¿Qué tipo de información busca en Internet?,varlab
+P47C,1,"Noticias (periódicos, etc.)",NA
+P47C,2,Oferta de bienes o servicios,NA
+P47C,3,Oportunidades laborales,NA
+P47C,4,Servicios de salud,NA
+P47C,5,Ciencia y/o tecnología,NA
+P47C,6,Servicios del gobierno,NA
+P47C,7,Entretenimiento/farándula,NA
+P47C,8,Turismo,NA
+P47C,9,Educativa,NA
+P47C,10,Negocios,NA
+P47C,11,Política,NA
+P47C,12,Arte y cultura,NA
+P47C,13,Otro,NA
+P47D,NA,47. ¿Qué tipo de información busca en Internet?,varlab
+P47D,1,"Noticias (periódicos, etc.)",NA
+P47D,2,Oferta de bienes o servicios,NA
+P47D,3,Oportunidades laborales,NA
+P47D,4,Servicios de salud,NA
+P47D,5,Ciencia y/o tecnología,NA
+P47D,6,Servicios del gobierno,NA
+P47D,7,Entretenimiento/farándula,NA
+P47D,8,Turismo,NA
+P47D,9,Educativa,NA
+P47D,10,Negocios,NA
+P47D,11,Política,NA
+P47D,12,Arte y cultura,NA
+P47D,13,Otro,NA
+P47E,NA,47. ¿Qué tipo de información busca en Internet?,varlab
+P47E,1,"Noticias (periódicos, etc.)",NA
+P47E,2,Oferta de bienes o servicios,NA
+P47E,3,Oportunidades laborales,NA
+P47E,4,Servicios de salud,NA
+P47E,5,Ciencia y/o tecnología,NA
+P47E,6,Servicios del gobierno,NA
+P47E,7,Entretenimiento/farándula,NA
+P47E,8,Turismo,NA
+P47E,9,Educativa,NA
+P47E,10,Negocios,NA
+P47E,11,Política,NA
+P47E,12,Arte y cultura,NA
+P47E,13,Otro,NA
+P47G,NA,47. ¿Qué tipo de información busca en Internet?,varlab
+P47G,1,"Noticias (periódicos, etc.)",NA
+P47G,2,Oferta de bienes o servicios,NA
+P47G,3,Oportunidades laborales,NA
+P47G,4,Servicios de salud,NA
+P47G,5,Ciencia y/o tecnología,NA
+P47G,6,Servicios del gobierno,NA
+P47G,7,Entretenimiento/farándula,NA
+P47G,8,Turismo,NA
+P47G,9,Educativa,NA
+P47G,10,Negocios,NA
+P47G,11,Política,NA
+P47G,12,Arte y cultura,NA
+P47G,13,Otro,NA
+P47H,NA,47. ¿Qué tipo de información busca en Internet?,varlab
+P47H,1,"Noticias (periódicos, etc.)",NA
+P47H,2,Oferta de bienes o servicios,NA
+P47H,3,Oportunidades laborales,NA
+P47H,4,Servicios de salud,NA
+P47H,5,Ciencia y/o tecnología,NA
+P47H,6,Servicios del gobierno,NA
+P47H,7,Entretenimiento/farándula,NA
+P47H,8,Turismo,NA
+P47H,9,Educativa,NA
+P47H,10,Negocios,NA
+P47H,11,Política,NA
+P47H,12,Arte y cultura,NA
+P47H,13,Otro,NA
+P47I,NA,47. ¿Qué tipo de información busca en Internet?,varlab
+P47I,1,"Noticias (periódicos, etc.)",NA
+P47I,2,Oferta de bienes o servicios,NA
+P47I,3,Oportunidades laborales,NA
+P47I,4,Servicios de salud,NA
+P47I,5,Ciencia y/o tecnología,NA
+P47I,6,Servicios del gobierno,NA
+P47I,7,Entretenimiento/farándula,NA
+P47I,8,Turismo,NA
+P47I,9,Educativa,NA
+P47I,10,Negocios,NA
+P47I,11,Política,NA
+P47I,12,Arte y cultura,NA
+P47I,13,Otro,NA
+P47F,NA,47. Otro,varlab
+P48A,NA,48. ¿Cuáles son las tres páginas web nacionales que más visita?,varlab
+P48B,NA,48. ¿Cuáles son las tres páginas web nacionales que más visita?,varlab
+P48C,NA,48. ¿Cuáles son las tres páginas web nacionales que más visita?,varlab
+P49A,NA,49. ¿Cuáles son las tres páginas web internacionales que más visita?,varlab
+P49B,NA,49. ¿Cuáles son las tres páginas web internacionales que más visita?,varlab
+P49C,NA,49. ¿Cuáles son las tres páginas web internacionales que más visita?,varlab
+P50,NA,50. Recabar información o requisitos/formularios sobre trámites en el sector público,varlab
+P50,1,Si,NA
+P50,2,No,NA
+P50,9,NS/NR,NA
+P51,NA,51. Completar y enviar formularios de trámites en el sector público,varlab
+P51,1,Si,NA
+P51,2,No,NA
+P51,9,NS/NR,NA
+P52,NA,"52. Realizar sugerencias, consultas, solicitudes o reclamos a organismos del Estado",varlab
+P52,1,Si,NA
+P52,2,No,NA
+P52,9,NS/NR,NA
+P53,NA,53. Buscar información sobre las entidades del Estado,varlab
+P53,1,Si,NA
+P53,2,No,NA
+P53,9,NS/NR,NA
+P54,NA,54. Realizar trámites completamente a través de Internet,varlab
+P54,1,Si,NA
+P54,2,No,NA
+P54,9,NS/NR,NA
+P55A,NA,"55. En su criterio, ¿Cuál de las siguientes características es la más importante en la realización de trámites en instituciones públicas?",varlab
+P55A,1,Claridad de la información,NA
+P55A,2,Privacidad,NA
+P55A,3,Trato cordial,NA
+P55A,4,Rapidez,NA
+P55A,5,Cantidad de requisitos,NA
+P55A,6,Otro,NA
+P55A,9,NS/NR,NA
+P55B,NA,55. Otro,varlab
+P56,NA,56. La realización de trámites en las instituciones públicas?,varlab
+P56,9,NS/NR,NA
+P57,NA,57. Los servicios que presta el Estado a través de Internet?,varlab
+P57,9,NS/NR,NA
+P58A,NA,58. Del Gobierno Nacional,varlab
+P58A,1,Si,NA
+P58A,2,No,NA
+P58A,9,NS/NR,NA
+P58B,NA,58. ¿Usualmente realiza trámites en estas páginas web?,varlab
+P58B,1,Si,NA
+P58B,2,No,NA
+P58B,9,NS/NR,NA
+P59A,NA,59. Del Gobierno Municipal,varlab
+P59A,1,Si,NA
+P59A,2,No,NA
+P59A,9,NS/NR,NA
+P59B,NA,59. ¿Usualmente realiza trámites en estas páginas web?,varlab
+P59B,1,Si,NA
+P59B,2,No,NA
+P59B,9,NS/NR,NA
+P60A,NA,60. De la Gobernación (Prefectura),varlab
+P60A,1,Si,NA
+P60A,2,No,NA
+P60A,9,NS/NR,NA
+P60B,NA,60. ¿Usualmente realiza trámites en estas páginas web?,varlab
+P60B,1,Si,NA
+P60B,2,No,NA
+P60B,9,NS/NR,NA
+P61A,NA,61. Del Poder Judicial,varlab
+P61A,1,Si,NA
+P61A,2,No,NA
+P61A,9,NS/NR,NA
+P60C,NA,61. ¿Usualmente realiza trámites en estas páginas web?,varlab
+P60C,1,Si,NA
+P60C,2,No,NA
+P60C,9,NS/NR,NA
+P62A,NA,62. Del Tribunal Supremo Electoral,varlab
+P62A,1,Si,NA
+P62A,2,No,NA
+P62A,9,NS/NR,NA
+P62B,NA,62. ¿Usualmente realiza trámites en estas páginas web?,varlab
+P62B,1,Si,NA
+P62B,2,No,NA
+P62B,9,NS/NR,NA
+P63A,NA,63. De las Universidades,varlab
+P63A,1,Si,NA
+P63A,2,No,NA
+P63A,9,NS/NR,NA
+P63B,NA,63. ¿Usualmente realiza trámites en estas páginas web?,varlab
+P63B,1,Si,NA
+P63B,2,No,NA
+P63B,9,NS/NR,NA
+P64A,NA,"64. ¿Según su opinión, qué información de las instituciones públicas debería estar disponible en Internet en primer lugar?",varlab
+P64A,1,Datos estadísticos,NA
+P64A,2,Informaci?n general sobre la institución y su organización interna,NA
+P64A,3,Actividades y proyectos de la institución,NA
+P64A,4,"Libros, memorias, boletines y otras publicaciones",NA
+P64A,5,Requerimiento de personal,NA
+P64A,6,Compras y contrataciones,NA
+P64A,7,Tr?mites y requisitos,NA
+P64A,8,Auditoría interna,NA
+P64A,9,Información sobre las actividades de las autoridades,NA
+P64A,11,Normativas que rigen las funciones de la entidad,NA
+P64A,12,Otro,NA
+P64A,99,NS/NR,NA
+P64B,NA,"64. ¿Según su opinión, qué información de las instituciones públicas debería estar disponible en Internet en en segundo lugar?",varlab
+P64B,1,Datos estadísticos,NA
+P64B,2,Informaci?n general sobre la institución y su organización interna,NA
+P64B,3,Actividades y proyectos de la institución,NA
+P64B,4,"Libros, memorias, boletines y otras publicaciones",NA
+P64B,5,Requerimiento de personal,NA
+P64B,6,Compras y contrataciones,NA
+P64B,7,Tr?mites y requisitos,NA
+P64B,8,Auditoría interna,NA
+P64B,9,Información sobre las actividades de las autoridades,NA
+P64B,11,Normativas que rigen las funciones de la entidad,NA
+P64B,12,Otro,NA
+P64B,99,NS/NR,NA
+P64C,NA,"64. ¿Según su opinión, qué información de las instituciones públicas debería estar disponible en Internet en tercer lugar?",varlab
+P64C,1,Datos estadísticos,NA
+P64C,2,Informaci?n general sobre la institución y su organización interna,NA
+P64C,3,Actividades y proyectos de la institución,NA
+P64C,4,"Libros, memorias, boletines y otras publicaciones",NA
+P64C,5,Requerimiento de personal,NA
+P64C,6,Compras y contrataciones,NA
+P64C,7,Tr?mites y requisitos,NA
+P64C,8,Auditoría interna,NA
+P64C,9,Información sobre las actividades de las autoridades,NA
+P64C,11,Normativas que rigen las funciones de la entidad,NA
+P64C,12,Otro,NA
+P64C,99,NS/NR,NA
+P64D,NA,"64. ¿Según su opinión, qué información de las instituciones públicas debería estar disponible en Internet en cuarto lugar?",varlab
+P64D,1,Datos estadísticos,NA
+P64D,2,Informaci?n general sobre la institución y su organización interna,NA
+P64D,3,Actividades y proyectos de la institución,NA
+P64D,4,"Libros, memorias, boletines y otras publicaciones",NA
+P64D,5,Requerimiento de personal,NA
+P64D,6,Compras y contrataciones,NA
+P64D,7,Tr?mites y requisitos,NA
+P64D,8,Auditoría interna,NA
+P64D,9,Información sobre las actividades de las autoridades,NA
+P64D,11,Normativas que rigen las funciones de la entidad,NA
+P64D,12,Otro,NA
+P64D,99,NS/NR,NA
+P64E,NA,64. Otro,varlab
+P65,NA,65. ¿Qué trámite con entidades públicas le gustaría poder realizar a través de Internet?,varlab
+P66,NA,66. ¿Sigue a alguna institución pública a través de sus cuentas de Facebook o Twitter?,varlab
+P66,1,Sí,NA
+P66,2,No,NA
+P67A1,NA,67. ¿A qué institución sigue?,varlab
+P67A2,NA,"67. Del 1 al 5, donde 1 es pésimo y 5 es excelente",varlab
+P67B1,NA,67. ¿A qué institución sigue?,varlab
+P67B2,NA,"67. Del 1 al 5, donde 1 es pésimo y 5 es excelente",varlab
+P67C1,NA,67. ¿A qué institución sigue?,varlab
+P67C2,NA,"67. Del 1 al 5, donde 1 es pésimo y 5 es excelente",varlab
+P68,NA,68. ¿Utiliza o utiliza Internet en?,varlab
+P68,1,El Colegio,NA
+P68,2,La Universidad,NA
+P68,3,No usa/no usó,NA
+P69,NA,"69. ¿Ha realizado algún curso, diplomado o maestría por Internet?",varlab
+P69,1,Si,NA
+P69,2,No,NA
+P70,NA,"70. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a la experiencia de aprendizaje del curso, diplomado o maestría por Internet?",varlab
+P71,NA,"71. ¿Usted preferiría realizar un curso, diplomado o maestráa por Internet, o de manera presencial?",varlab
+P71,1,En línea,NA
+P71,2,Presencial,NA
+P72A,NA,72. ¿Por qué?,varlab
+P72A,1,Es más cómodo,NA
+P72A,2,Permite profundizar en la materia,NA
+P72A,3,Se acomoda a mis horarios,NA
+P72A,4,Tiene mayor validez,NA
+P72A,5,Me ahorra tiempo,NA
+P72A,6,Se aprende mejor,NA
+P72A,7,Otro,NA
+P72A,8,NS/NR,NA
+P72B,NA,72. ¿Por qué?,varlab
+P72B,1,Es más cómodo,NA
+P72B,2,Permite profundizar en la materia,NA
+P72B,3,Se acomoda a mis horarios,NA
+P72B,4,Tiene mayor validez,NA
+P72B,5,Me ahorra tiempo,NA
+P72B,6,Se aprende mejor,NA
+P72B,7,Otro,NA
+P72B,8,NS/NR,NA
+P72C,NA,72. ¿Por qué?,varlab
+P72C,1,Es más cómodo,NA
+P72C,2,Permite profundizar en la materia,NA
+P72C,3,Se acomoda a mis horarios,NA
+P72C,4,Tiene mayor validez,NA
+P72C,5,Me ahorra tiempo,NA
+P72C,6,Se aprende mejor,NA
+P72C,7,Otro,NA
+P72C,8,NS/NR,NA
+P72E,NA,72. ¿Por qué?,varlab
+P72E,1,Es más cómodo,NA
+P72E,2,Permite profundizar en la materia,NA
+P72E,3,Se acomoda a mis horarios,NA
+P72E,4,Tiene mayor validez,NA
+P72E,5,Me ahorra tiempo,NA
+P72E,6,Se aprende mejor,NA
+P72E,7,Otro,NA
+P72E,8,NS/NR,NA
+P72F,NA,72. ¿Por qué?,varlab
+P72F,1,Es más cómodo,NA
+P72F,2,Permite profundizar en la materia,NA
+P72F,3,Se acomoda a mis horarios,NA
+P72F,4,Tiene mayor validez,NA
+P72F,5,Me ahorra tiempo,NA
+P72F,6,Se aprende mejor,NA
+P72F,7,Otro,NA
+P72F,8,NS/NR,NA
+P72D,NA,72. Otro,varlab
+P73,NA,73. ¿Trabaja o ha trabajado alguna vez?,varlab
+P73,1,Si,NA
+P73,2,No,NA
+P74A,NA,"74. ¿Usted diría que utiliza/utilizó el Internet para su actividad económica o laboral, mucho, más o menos,  muy poco?",varlab
+P74A,1,Mucho,NA
+P74A,2,Más o menos,NA
+P74A,3,Muy poco,NA
+P74A,4,No usa,NA
+P74A,5,Otro,NA
+P74B,NA,74. Otro,varlab
+P75,NA,75. ¿Realiza/realizó algún trabajo o negocio gracias a contactos...?,varlab
+P75,1,Si,NA
+P75,2,No,NA
+P76,NA,76. ¿Su actividad laboral o negocio está vinculado a las tecnologías...,varlab
+P76,1,Si,NA
+P76,2,No,NA
+P77,NA,77. ¿Ha realizado alguna compra a través de Internet?,varlab
+P77,1,Si,NA
+P77,2,No,NA
+P78A,NA,78. ¿Por qué no compré por Internet?,varlab
+P78A,1,No poseo una tarjeta de débito o crédito,NA
+P78A,2,No confío en las ofertas en Internet,NA
+P78A,3,El costo del transporte y/o impuestos son altos,NA
+P78A,4,No existen suficientes ofertas en/para Bolivia,NA
+P78A,5,Pago elevado de comisiones,NA
+P78A,6,Otro,NA
+P78A,9,NS/NR,NA
+P78B,NA,78. ¿Por qué no compré por Internet?,varlab
+P78B,1,No poseo una tarjeta de débito o crédito,NA
+P78B,2,No confío en las ofertas en Internet,NA
+P78B,3,El costo del transporte y/o impuestos son altos,NA
+P78B,4,No existen suficientes ofertas en/para Bolivia,NA
+P78B,5,Pago elevado de comisiones,NA
+P78B,6,Otro,NA
+P78B,9,NS/NR,NA
+P78C,NA,78. ¿Por qué no compré por Internet?,varlab
+P78C,1,No poseo una tarjeta de débito o crédito,NA
+P78C,2,No confío en las ofertas en Internet,NA
+P78C,3,El costo del transporte y/o impuestos son altos,NA
+P78C,4,No existen suficientes ofertas en/para Bolivia,NA
+P78C,5,Pago elevado de comisiones,NA
+P78C,6,Otro,NA
+P78C,9,NS/NR,NA
+P78D,NA,78. Otro,varlab
+P79,NA,79. ¿Generalmente realiza compras a través de Internet a empresas nacionales o empresas internacionales?,varlab
+P79,1,Nacionales,NA
+P79,2,Internacionales,NA
+P79,3,Ambas,NA
+P80A,NA,80. ¿A través de qué sitios web o plataformas generalmente realiza sus compras en Internet?,varlab
+P80A,1,Facebook,NA
+P80A,2,Whatsapp,NA
+P80A,3,Sitios web,NA
+P80A,4,Plataforma de compra/venta (Amazon/ebay),NA
+P80A,5,Otro,NA
+P80A,9,NS/NR,NA
+P80B,NA,80. ¿A través de qué sitios web o plataformas generalmente realiza sus compras en Internet?,varlab
+P80B,1,Facebook,NA
+P80B,2,Whatsapp,NA
+P80B,3,Sitios web,NA
+P80B,4,Plataforma de compra/venta (Amazon/ebay),NA
+P80B,5,Otro,NA
+P80B,9,NS/NR,NA
+P80C,NA,80. ¿A través de qué sitios web o plataformas generalmente realiza sus compras en Internet?,varlab
+P80C,1,Facebook,NA
+P80C,2,Whatsapp,NA
+P80C,3,Sitios web,NA
+P80C,4,Plataforma de compra/venta (Amazon/ebay),NA
+P80C,5,Otro,NA
+P80C,9,NS/NR,NA
+P80D,NA,80. Otro,varlab
+P81A,NA,81. ¿Generalmente qué forma de pago usa para comprar en Internet?,varlab
+P81A,1,Tarjeta de crédito propia,NA
+P81A,2,Tarjeta de crédito de amigo/familiar,NA
+P81A,3,Tarjeta de débito,NA
+P81A,4,Paypal,NA
+P81A,5,Billetera electrónica,NA
+P81A,6,Dep?sito/giro,NA
+P81A,7,Pago en efectivo,NA
+P81A,8,Otro,NA
+P81B,NA,81. ¿Generalmente qué forma de pago usa para comprar en Internet?,varlab
+P81B,1,Tarjeta de crédito propia,NA
+P81B,2,Tarjeta de crédito de amigo/familiar,NA
+P81B,3,Tarjeta de débito,NA
+P81B,4,Paypal,NA
+P81B,5,Billetera electrónica,NA
+P81B,6,Dep?sito/giro,NA
+P81B,7,Pago en efectivo,NA
+P81B,8,Otro,NA
+P81C,NA,81. ¿Generalmente qué forma de pago usa para comprar en Internet?,varlab
+P81C,1,Tarjeta de crédito propia,NA
+P81C,2,Tarjeta de crédito de amigo/familiar,NA
+P81C,3,Tarjeta de débito,NA
+P81C,4,Paypal,NA
+P81C,5,Billetera electrónica,NA
+P81C,6,Dep?sito/giro,NA
+P81C,7,Pago en efectivo,NA
+P81C,8,Otro,NA
+P81D,NA,81. Otro,varlab
+P82A,NA,82. Sin contar el pago por servicios básicos ¿Qué productos o servicios compró por Internet?,varlab
+P82A,1,Equipos electrónicos,NA
+P82A,2,Libros físicos/electrónicos,NA
+P82A,3,"Viajes (pasajes, hoteles)",NA
+P82A,4,Entradas a eventos,NA
+P82A,5,Cursos,NA
+P82A,6,Ropa y accesorios,NA
+P82A,7,Art?culos para el hogar,NA
+P82A,8,Art?culos para el cuidado personal,NA
+P82A,9,Software,NA
+P82A,10,Juegos,NA
+P82A,11,M?sica o películas,NA
+P82A,12,"Servicios de streaming (netflix, spotify)",NA
+P82A,13,Pago de anuncios publicitarios,NA
+P82A,14,Servicios de hosting y dominio,NA
+P82A,15,Otro,NA
+P82B,NA,82. Sin contar el pago por servicios básicos ¿Qué productos o servicios compró por Internet?,varlab
+P82B,1,Equipos electrónicos,NA
+P82B,2,Libros físicos/electrónicos,NA
+P82B,3,"Viajes (pasajes, hoteles)",NA
+P82B,4,Entradas a eventos,NA
+P82B,5,Cursos,NA
+P82B,6,Ropa y accesorios,NA
+P82B,7,Art?culos para el hogar,NA
+P82B,8,Art?culos para el cuidado personal,NA
+P82B,9,Software,NA
+P82B,10,Juegos,NA
+P82B,11,M?sica o películas,NA
+P82B,12,"Servicios de streaming (netflix, spotify)",NA
+P82B,13,Pago de anuncios publicitarios,NA
+P82B,14,Servicios de hosting y dominio,NA
+P82B,15,Otro,NA
+P82C,NA,82. Sin contar el pago por servicios básicos ¿Qué productos o servicios compró por Internet?,varlab
+P82C,1,Equipos electrónicos,NA
+P82C,2,Libros físicos/electrónicos,NA
+P82C,3,"Viajes (pasajes, hoteles)",NA
+P82C,4,Entradas a eventos,NA
+P82C,5,Cursos,NA
+P82C,6,Ropa y accesorios,NA
+P82C,7,Art?culos para el hogar,NA
+P82C,8,Art?culos para el cuidado personal,NA
+P82C,9,Software,NA
+P82C,10,Juegos,NA
+P82C,11,M?sica o películas,NA
+P82C,12,"Servicios de streaming (netflix, spotify)",NA
+P82C,13,Pago de anuncios publicitarios,NA
+P82C,14,Servicios de hosting y dominio,NA
+P82C,15,Otro,NA
+P82D,NA,82. Otros,varlab
+P83A,NA,83. ¿Generalmente dónde recibe los productos que compra a través de Internet?,varlab
+P83A,1,Casa/oficina,NA
+P83A,2,Punto de encuentro,NA
+P83A,3,Establecimiento/tienda,NA
+P83A,4,Oficina de correos,NA
+P83A,5,Otro,NA
+P83B,NA,83. ¿Generalmente dónde recibe los productos que compra a través de Internet?,varlab
+P83B,1,Casa/oficina,NA
+P83B,2,Punto de encuentro,NA
+P83B,3,Establecimiento/tienda,NA
+P83B,4,Oficina de correos,NA
+P83B,5,Otro,NA
+P83C,NA,83. ¿Generalmente dónde recibe los productos que compra a través de Internet?,varlab
+P83C,1,Casa/oficina,NA
+P83C,2,Punto de encuentro,NA
+P83C,3,Establecimiento/tienda,NA
+P83C,4,Oficina de correos,NA
+P83C,5,Otro,NA
+P83D,NA,83. Otros,varlab
+P84,NA,84. ¿Cuánto gastó aproximadamente en compras por Internet en los últimos tres meses?,varlab
+P84,99,Ns/Nr,NA
+P85A,NA,85. ¿Cuáles fueron sus principales motivaciones para comprar por Internet?,varlab
+P85A,1,Falta de tiempo,NA
+P85A,2,No existe el producto localmente,NA
+P85A,3,Mejor precio,NA
+P85A,4,Guardar anonimato,NA
+P85A,5,Prefiero hacer mis compras en línea,NA
+P85A,6,Comodidad,NA
+P85A,7,Otro,NA
+P85B,NA,85. ¿Cuáles fueron sus principales motivaciones para comprar por Internet?,varlab
+P85B,1,Falta de tiempo,NA
+P85B,2,No existe el producto localmente,NA
+P85B,3,Mejor precio,NA
+P85B,4,Guardar anonimato,NA
+P85B,5,Prefiero hacer mis compras en línea,NA
+P85B,6,Comodidad,NA
+P85B,7,Otro,NA
+P85C,NA,85. ¿Cuáles fueron sus principales motivaciones para comprar por Internet?,varlab
+P85C,1,Falta de tiempo,NA
+P85C,2,No existe el producto localmente,NA
+P85C,3,Mejor precio,NA
+P85C,4,Guardar anonimato,NA
+P85C,5,Prefiero hacer mis compras en línea,NA
+P85C,6,Comodidad,NA
+P85C,7,Otro,NA
+P85D,NA,85. Otro,varlab
+P86A,NA,86. ¿Alguna vez ha vendido algo ofertándolo por Internet?,varlab
+P86A,1,Si,NA
+P86A,2,No,NA
+P87,NA,87. ¿Las ventas se realizaron en el mercado local o en el mercado internacional?,varlab
+P87,1,Local,NA
+P87,2,Internacional,NA
+P87,3,Ambas,NA
+P88A,NA,88. ¿Qué plataforma o aplicación utiliza para ofertar productos o servicios en Internet?,varlab
+P88A,1,Facebook,NA
+P88A,2,Whatsapp,NA
+P88A,3,Sitios web,NA
+P88A,4,Plataforma de compra/venta (ebay),NA
+P88A,5,Otro,NA
+P88B,NA,88. ¿Qué plataforma o aplicación utiliza para ofertar productos o servicios en Internet?,varlab
+P88B,1,Facebook,NA
+P88B,2,Whatsapp,NA
+P88B,3,Sitios web,NA
+P88B,4,Plataforma de compra/venta (ebay),NA
+P88B,5,Otro,NA
+P88C,NA,88. ¿Qué plataforma o aplicación utiliza para ofertar productos o servicios en Internet?,varlab
+P88C,1,Facebook,NA
+P88C,2,Whatsapp,NA
+P88C,3,Sitios web,NA
+P88C,4,Plataforma de compra/venta (ebay),NA
+P88C,5,Otro,NA
+P88D,NA,88. Otro,varlab
+P89A,NA,89. ¿Cuál es la forma de cobro?,varlab
+P89A,1,Tarjeta de crédito,NA
+P89A,2,Tarjeta de débito,NA
+P89A,3,Paypal,NA
+P89A,4,Billetera electrónica,NA
+P89A,5,Pago en efectivo,NA
+P89A,6,"Depósito, giro",NA
+P89A,7,Otro,NA
+P89B,NA,89. ¿Cuál es la forma de cobro?,varlab
+P89B,1,Tarjeta de crédito,NA
+P89B,2,Tarjeta de débito,NA
+P89B,3,Paypal,NA
+P89B,4,Billetera electrónica,NA
+P89B,5,Pago en efectivo,NA
+P89B,6,"Depósito, giro",NA
+P89B,7,Otro,NA
+P89C,NA,89. ¿Cuál es la forma de cobro?,varlab
+P89C,1,Tarjeta de crédito,NA
+P89C,2,Tarjeta de débito,NA
+P89C,3,Paypal,NA
+P89C,4,Billetera electrónica,NA
+P89C,5,Pago en efectivo,NA
+P89C,6,"Depósito, giro",NA
+P89C,7,Otro,NA
+P89D,NA,89. Otro,varlab
+P90A,NA,90. ¿Qué tipo de producto o servicio oferta/ofertó por Internet?,varlab
+P90A,1,Equipos electrónicos,NA
+P90A,2,Libros,NA
+P90A,3,"Viajes (pasajes, hoteles)",NA
+P90A,5,Cursos,NA
+P90A,6,Ropa y accesorios,NA
+P90A,7,Art?culos para el hogar,NA
+P90A,8,Art?culos para el cuidado personal,NA
+P90A,9,Software,NA
+P90A,10,Juegos,NA
+P90A,11,M?sica/películas,NA
+P90A,14,Servicios de hosting y dominio,NA
+P90A,15,Otro,NA
+P90B,NA,90. ¿Qué tipo de producto o servicio oferta/ofertó por Internet?,varlab
+P90B,1,Equipos electrónicos,NA
+P90B,2,Libros,NA
+P90B,3,"Viajes (pasajes, hoteles)",NA
+P90B,5,Cursos,NA
+P90B,6,Ropa y accesorios,NA
+P90B,7,Art?culos para el hogar,NA
+P90B,8,Art?culos para el cuidado personal,NA
+P90B,9,Software,NA
+P90B,10,Juegos,NA
+P90B,11,M?sica/películas,NA
+P90B,14,Servicios de hosting y dominio,NA
+P90B,15,Otro,NA
+P90C,NA,90. ¿Qué tipo de producto o servicio oferta/ofertó por Internet?,varlab
+P90C,1,Equipos electrónicos,NA
+P90C,2,Libros,NA
+P90C,3,"Viajes (pasajes, hoteles)",NA
+P90C,5,Cursos,NA
+P90C,6,Ropa y accesorios,NA
+P90C,7,Art?culos para el hogar,NA
+P90C,8,Art?culos para el cuidado personal,NA
+P90C,9,Software,NA
+P90C,10,Juegos,NA
+P90C,11,M?sica/películas,NA
+P90C,14,Servicios de hosting y dominio,NA
+P90C,15,Otro,NA
+P90D,NA,90. Otro,varlab
+P91A,NA,91. ¿Cómo entregó o entrega el producto ofertado?,varlab
+P91A,1,En un punto de encuentro,NA
+P91A,2,En una tienda perteneciente al negocio,NA
+P91A,3,Env?a por correo o courrier,NA
+P91A,4,Entrega a domicilio,NA
+P91A,5,Otro,NA
+P91B,NA,91. ¿Cómo entregó o entrega el producto ofertado?,varlab
+P91B,1,En un punto de encuentro,NA
+P91B,2,En una tienda perteneciente al negocio,NA
+P91B,3,Env?a por correo o courrier,NA
+P91B,4,Entrega a domicilio,NA
+P91B,5,Otro,NA
+P91C,NA,91. ¿Cómo entregó o entrega el producto ofertado?,varlab
+P91C,1,En un punto de encuentro,NA
+P91C,2,En una tienda perteneciente al negocio,NA
+P91C,3,Env?a por correo o courrier,NA
+P91C,4,Entrega a domicilio,NA
+P91C,5,Otro,NA
+P91D,NA,91. Otro,varlab
+P92,NA,92. ¿En promedio cuánto diría que es su valor en ventas por Internet mensualmente?,varlab
+P92,9999,Ns/Nr,NA
+P93A,NA,93. ¿Cuáles son sus principales motivaciones para vender por Internet?,varlab
+P93A,1,Mayor alcance de compradores,NA
+P93A,2,Facilidad de administración,NA
+P93A,3,Mejores precios,NA
+P93A,4,Rapidez,NA
+P93A,5,Anonimato,NA
+P93A,6,Otro,NA
+P93B,NA,93. ¿Cuáles son sus principales motivaciones para vender por Internet?,varlab
+P93B,1,Mayor alcance de compradores,NA
+P93B,2,Facilidad de administración,NA
+P93B,3,Mejores precios,NA
+P93B,4,Rapidez,NA
+P93B,5,Anonimato,NA
+P93B,6,Otro,NA
+P93C,NA,93. ¿Cuáles son sus principales motivaciones para vender por Internet?,varlab
+P93C,1,Mayor alcance de compradores,NA
+P93C,2,Facilidad de administración,NA
+P93C,3,Mejores precios,NA
+P93C,4,Rapidez,NA
+P93C,5,Anonimato,NA
+P93C,6,Otro,NA
+P93D,NA,93. Otro,varlab
+P94,NA,94. ¿Usted diría que su actividad laboral principal está directamente relacionada con la venta de productos en Internet?,varlab
+P94,1,Si,NA
+P94,2,No,NA
+P95,NA,95. Consulta de movimientos y saldos de su cuenta en el banco,varlab
+P95,1,Si,NA
+P95,2,No,NA
+P96,NA,96. Transferencia entre cuentas bancarias,varlab
+P96,1,Si,NA
+P96,2,No,NA
+P97,NA,97. Pagos de servicios o productos a través de su cuenta bancaria,varlab
+P97,1,Si,NA
+P97,2,No,NA
+P98A,NA,98. ¿Qué pagos realizó a través de Internet?,varlab
+P98A,1,Servicios de telefonía o Internet,NA
+P98A,2,"Luz, tv cable, agua",NA
+P98A,3,Créditos bancarios,NA
+P98A,4,Pasajes aéreos,NA
+P98A,5,Entradas a espectáculos,NA
+P98A,6,"Estudios, pensión escolar",NA
+P98A,7,Impuestos,NA
+P98A,8,Otros,NA
+P98B,NA,98. ¿Qué pagos realizó a través de Internet?,varlab
+P98B,1,Servicios de telefonía o Internet,NA
+P98B,2,"Luz, tv cable, agua",NA
+P98B,3,Créditos bancarios,NA
+P98B,4,Pasajes aéreos,NA
+P98B,5,Entradas a espectáculos,NA
+P98B,6,"Estudios, pensión escolar",NA
+P98B,7,Impuestos,NA
+P98B,8,Otros,NA
+P98C,NA,98. ¿Qué pagos realizó a través de Internet?,varlab
+P98C,1,Servicios de telefonía o Internet,NA
+P98C,2,"Luz, tv cable, agua",NA
+P98C,3,Créditos bancarios,NA
+P98C,4,Pasajes aéreos,NA
+P98C,5,Entradas a espectáculos,NA
+P98C,6,"Estudios, pensión escolar",NA
+P98C,7,Impuestos,NA
+P98C,8,Otros,NA
+P98E,NA,98. ¿Qué pagos realizó a través de Internet?,varlab
+P98E,1,Servicios de telefonía o Internet,NA
+P98E,2,"Luz, tv cable, agua",NA
+P98E,3,Créditos bancarios,NA
+P98E,4,Pasajes aéreos,NA
+P98E,5,Entradas a espectáculos,NA
+P98E,6,"Estudios, pensión escolar",NA
+P98E,7,Impuestos,NA
+P98E,8,Otros,NA
+P98D,NA,98. Otro,varlab
+P99,NA,99. ¿Utiliza redes sociales en Internet?,varlab
+P99,1,Si,NA
+P99,2,No,NA
+P100A,NA,100. ¿Qué redes sociales utiliza?,varlab
+P100A,1,Facebook,NA
+P100A,2,Twitter,NA
+P100A,3,Whatsapp,NA
+P100A,4,Telegram,NA
+P100A,5,Instagram,NA
+P100A,6,Youtube,NA
+P100A,7,Skype,NA
+P100A,8,Snapchat,NA
+P100A,9,Line,NA
+P100A,10,Otra,NA
+P100B,NA,100. ¿Qué redes sociales utiliza?,varlab
+P100B,1,Facebook,NA
+P100B,2,Twitter,NA
+P100B,3,Whatsapp,NA
+P100B,4,Telegram,NA
+P100B,5,Instagram,NA
+P100B,6,Youtube,NA
+P100B,7,Skype,NA
+P100B,8,Snapchat,NA
+P100B,9,Line,NA
+P100B,10,Otra,NA
+P100C,NA,100. ¿Qué redes sociales utiliza?,varlab
+P100C,1,Facebook,NA
+P100C,2,Twitter,NA
+P100C,3,Whatsapp,NA
+P100C,4,Telegram,NA
+P100C,5,Instagram,NA
+P100C,6,Youtube,NA
+P100C,7,Skype,NA
+P100C,8,Snapchat,NA
+P100C,9,Line,NA
+P100C,10,Otra,NA
+P100D,NA,100. ¿Qué redes sociales utiliza?,varlab
+P100D,1,Facebook,NA
+P100D,2,Twitter,NA
+P100D,3,Whatsapp,NA
+P100D,4,Telegram,NA
+P100D,5,Instagram,NA
+P100D,6,Youtube,NA
+P100D,7,Skype,NA
+P100D,8,Snapchat,NA
+P100D,9,Line,NA
+P100D,10,Otra,NA
+P100E,NA,100. ¿Qué redes sociales utiliza?,varlab
+P100E,1,Facebook,NA
+P100E,2,Twitter,NA
+P100E,3,Whatsapp,NA
+P100E,4,Telegram,NA
+P100E,5,Instagram,NA
+P100E,6,Youtube,NA
+P100E,7,Skype,NA
+P100E,8,Snapchat,NA
+P100E,9,Line,NA
+P100E,10,Otra,NA
+P100G,NA,100. ¿Qué redes sociales utiliza?,varlab
+P100G,1,Facebook,NA
+P100G,2,Twitter,NA
+P100G,3,Whatsapp,NA
+P100G,4,Telegram,NA
+P100G,5,Instagram,NA
+P100G,6,Youtube,NA
+P100G,7,Skype,NA
+P100G,8,Snapchat,NA
+P100G,9,Line,NA
+P100G,10,Otra,NA
+P100H,NA,100. ¿Qué redes sociales utiliza?,varlab
+P100H,1,Facebook,NA
+P100H,2,Twitter,NA
+P100H,3,Whatsapp,NA
+P100H,4,Telegram,NA
+P100H,5,Instagram,NA
+P100H,6,Youtube,NA
+P100H,7,Skype,NA
+P100H,8,Snapchat,NA
+P100H,9,Line,NA
+P100H,10,Otra,NA
+P100I,NA,100. ¿Qué redes sociales utiliza?,varlab
+P100I,1,Facebook,NA
+P100I,2,Twitter,NA
+P100I,3,Whatsapp,NA
+P100I,4,Telegram,NA
+P100I,5,Instagram,NA
+P100I,6,Youtube,NA
+P100I,7,Skype,NA
+P100I,8,Snapchat,NA
+P100I,9,Line,NA
+P100I,10,Otra,NA
+P100F,NA,100. Otro,varlab
+P101A,NA,101. ¿Para qué usa las redes sociales en primer lugar?,varlab
+P101A,1,Conectarse con amigos/familiares,NA
+P101A,2,Conocer gente,NA
+P101A,3,Informarse sobre temas políticos,NA
+P101A,4,Informarse de otras noticias,NA
+P101A,5,"Compartir contenidos (noticias, memes, links, mensajes)",NA
+P101A,6,Participar en debates,NA
+P101A,7,Ver videos/fotos,NA
+P101A,8,Hacer negocios,NA
+P101A,9,Apoyar alguna causa o demanda social,NA
+P101A,10,Comprar o vender productos,NA
+P101A,11,Seguir cuentas o páginas,NA
+P101A,12,Otro,NA
+P101B,NA,101. ¿Para qué usa las redes sociales en Segundo lugar?,varlab
+P101B,1,Conectarse con amigos/familiares,NA
+P101B,2,Conocer gente,NA
+P101B,3,Informarse sobre temas políticos,NA
+P101B,4,Informarse de otras noticias,NA
+P101B,5,"Compartir contenidos (noticias, memes, links, mensajes)",NA
+P101B,6,Participar en debates,NA
+P101B,7,Ver videos/fotos,NA
+P101B,8,Hacer negocios,NA
+P101B,9,Apoyar alguna causa o demanda social,NA
+P101B,10,Comprar o vender productos,NA
+P101B,11,Seguir cuentas o páginas,NA
+P101B,12,Otro,NA
+P101C,NA,101. ¿Para qué usa las redes sociales en Tercer lugar lugar?,varlab
+P101C,1,Conectarse con amigos/familiares,NA
+P101C,2,Conocer gente,NA
+P101C,3,Informarse sobre temas políticos,NA
+P101C,4,Informarse de otras noticias,NA
+P101C,5,"Compartir contenidos (noticias, memes, links, mensajes)",NA
+P101C,6,Participar en debates,NA
+P101C,7,Ver videos/fotos,NA
+P101C,8,Hacer negocios,NA
+P101C,9,Apoyar alguna causa o demanda social,NA
+P101C,10,Comprar o vender productos,NA
+P101C,11,Seguir cuentas o páginas,NA
+P101C,12,Otro,NA
+P101D,NA,101. ¿Para qué usa las redes sociales en Cuarto lugar lugar?,varlab
+P101D,1,Conectarse con amigos/familiares,NA
+P101D,2,Conocer gente,NA
+P101D,3,Informarse sobre temas políticos,NA
+P101D,4,Informarse de otras noticias,NA
+P101D,5,"Compartir contenidos (noticias, memes, links, mensajes)",NA
+P101D,6,Participar en debates,NA
+P101D,7,Ver videos/fotos,NA
+P101D,8,Hacer negocios,NA
+P101D,9,Apoyar alguna causa o demanda social,NA
+P101D,10,Comprar o vender productos,NA
+P101D,11,Seguir cuentas o páginas,NA
+P101D,12,Otro,NA
+P101E,NA,101. Otro,varlab
+P102,NA,"102. ¿En promedio, cuántos días a la semana utiliza redes sociales?",varlab
+P103A,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103A,97,Las 24 horas,NA
+P103A,98,Cualquier momento,NA
+P103A,99,No se conecta,NA
+P103B,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103C,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103D,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103E,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103F,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103G,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103H,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103I,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103J,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103K,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103L,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103M,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103N,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103O,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103P,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P103Q,NA,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",varlab
+P104A,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104A,97,Las 24 horas,NA
+P104A,98,Cualquier momento,NA
+P104A,99,No se conecta,NA
+P104B,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104C,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104D,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104E,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104F,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104G,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104H,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104I,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104J,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104K,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104L,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104M,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104N,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104O,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104P,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P104Q,NA,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",varlab
+P105,NA,"105. ¿En los últimos 6 meses, apoyó alguna causa social o política a través de las redes sociales?",varlab
+P105,1,Si,NA
+P105,2,No,NA
+P106A,NA,106. ¿Qué tipo de causa apoyó?,varlab
+P106A,1,Ecologista,NA
+P106A,2,Derechos humanos,NA
+P106A,3,Derechos de los animales,NA
+P106A,4,Derechos de las mujeres,NA
+P106A,5,Campaña electoral,NA
+P106A,6,Otro,NA
+P106B,NA,106. ¿Qué tipo de causa apoyó?,varlab
+P106B,1,Ecologista,NA
+P106B,2,Derechos humanos,NA
+P106B,3,Derechos de los animales,NA
+P106B,4,Derechos de las mujeres,NA
+P106B,5,Campaña electoral,NA
+P106B,6,Otro,NA
+P106C,NA,106. ¿Qué tipo de causa apoyó?,varlab
+P106C,1,Ecologista,NA
+P106C,2,Derechos humanos,NA
+P106C,3,Derechos de los animales,NA
+P106C,4,Derechos de las mujeres,NA
+P106C,5,Campaña electoral,NA
+P106C,6,Otro,NA
+P106D,NA,106. Otro,varlab
+P107A,NA,107. ¿Las opiniones que usted emite en las redes sociales influyen sobre todo en ..,varlab
+P107A,1,Amigos,NA
+P107A,2,Familia,NA
+P107A,3,Compañeros de trabajo/estudio,NA
+P107A,4,Público en general,NA
+P107A,5,Periodistas,NA
+P107A,6,Organizaciones políticas,NA
+P107A,7,Gobierno,NA
+P107A,8,No influyen,NA
+P107A,9,Otro,NA
+P107B,NA,107. ¿Las opiniones que usted emite en las redes sociales influyen sobre todo en ..,varlab
+P107B,1,Amigos,NA
+P107B,2,Familia,NA
+P107B,3,Compañeros de trabajo/estudio,NA
+P107B,4,Público en general,NA
+P107B,5,Periodistas,NA
+P107B,6,Organizaciones políticas,NA
+P107B,7,Gobierno,NA
+P107B,8,No influyen,NA
+P107B,9,Otro,NA
+P107C,NA,107. ¿Las opiniones que usted emite en las redes sociales influyen sobre todo en ..,varlab
+P107C,1,Amigos,NA
+P107C,2,Familia,NA
+P107C,3,Compañeros de trabajo/estudio,NA
+P107C,4,Público en general,NA
+P107C,5,Periodistas,NA
+P107C,6,Organizaciones políticas,NA
+P107C,7,Gobierno,NA
+P107C,8,No influyen,NA
+P107C,9,Otro,NA
+P107D,NA,107. Organizaciones políticas ¿Cuáles?,varlab
+P107E,NA,107. Otro,varlab
+P108,NA,"108. ¿Usted diría que confía, mucho, más o menos, poco o que no confía en la información que circula en las redes sociales?",varlab
+P108,1,Mucho,NA
+P108,2,Más o menos,NA
+P108,3,Poco,NA
+P108,4,No confía,NA
+P108,5,NS/NR,NA
+P109,NA,109. Temas de interés nacional?,varlab
+P109,1,Si,NA
+P109,2,No,NA
+P110,NA,110. Temas personales y/o familiares?,varlab
+P110,1,Si,NA
+P110,2,No,NA
+P111,NA,111. Según su opinión ¿cuánto influyó en usted la información y las opiniones de las redes sociales en los últimos procesos electorales?,varlab
+P111,1,Mucho,NA
+P111,2,Más o menos,NA
+P111,3,Poco,NA
+P111,4,No influyó,NA
+P111,5,Otro,NA
+P11E,NA,111. Otro,varlab
+P112,NA,112. ¿Usted o alguna persona que conoce ha usado o usa una cuenta de redes...,varlab
+P112,1,Sí,NA
+P112,2,No,NA
+P112,9,NS/NR,NA
+P113,NA,113. ¿Conoció alguna vez personas a través de Internet?,varlab
+P113,1,Sí,NA
+P113,2,No,NA
+P114A,NA,114. ¿Con la persona con la que estableció la relación más larga... (MESES),varlab
+P114B,NA,114. ¿Con la persona con la que estableció la relación más larga... (AÑOS),varlab
+P115A,NA,115. ¿Qué tipo de relación estableció con esa persona?,varlab
+P115A,1,Amistad,NA
+P115A,2,Relación amorosa,NA
+P115A,3,Laboral,NA
+P115A,4,Política,NA
+P115A,5,Otro,NA
+P115B,NA,115. ¿Qué tipo de relación estableció con esa persona?,varlab
+P115B,1,Amistad,NA
+P115B,2,Relación amorosa,NA
+P115B,3,Laboral,NA
+P115B,4,Política,NA
+P115B,5,Otro,NA
+P115C,NA,115. ¿Qué tipo de relación estableció con esa persona?,varlab
+P115C,1,Amistad,NA
+P115C,2,Relación amorosa,NA
+P115C,3,Laboral,NA
+P115C,4,Política,NA
+P115C,5,Otro,NA
+P115D,NA,115. Otro,varlab
+P116,NA,116. ¿Llegó a conocer físicamente a esa persona?,varlab
+P116,1,Si,NA
+P116,2,No,NA
+P117,NA,117. ¿Pertenece a algún grupo de personas o comunidad...,varlab
+P117,1,Si,NA
+P117,2,No,NA
+P118A,NA,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,varlab
+P118A,1,Videojuegos,NA
+P118A,2,"Animé, manga o comics",NA
+P118A,3,Software libre,NA
+P118A,4,Tecnología,NA
+P118A,5,Actividades políticas,NA
+P118A,6,Cultura,NA
+P118A,7,Actividad profesional o de estudio,NA
+P118A,8,Deportes,NA
+P118A,9,Educación,NA
+P118A,10,Ecología/ medio ambiente,NA
+P118A,11,Música,NA
+P118A,12,Otros,NA
+P118B,NA,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,varlab
+P118B,1,Videojuegos,NA
+P118B,2,"Animé, manga o comics",NA
+P118B,3,Software libre,NA
+P118B,4,Tecnología,NA
+P118B,5,Actividades políticas,NA
+P118B,6,Cultura,NA
+P118B,7,Actividad profesional o de estudio,NA
+P118B,8,Deportes,NA
+P118B,9,Educación,NA
+P118B,10,Ecología/ medio ambiente,NA
+P118B,11,Música,NA
+P118B,12,Otros,NA
+P118C,NA,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,varlab
+P118C,1,Videojuegos,NA
+P118C,2,"Animé, manga o comics",NA
+P118C,3,Software libre,NA
+P118C,4,Tecnología,NA
+P118C,5,Actividades políticas,NA
+P118C,6,Cultura,NA
+P118C,7,Actividad profesional o de estudio,NA
+P118C,8,Deportes,NA
+P118C,9,Educación,NA
+P118C,10,Ecología/ medio ambiente,NA
+P118C,11,Música,NA
+P118C,12,Otros,NA
+P118D,NA,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,varlab
+P118D,1,Videojuegos,NA
+P118D,2,"Animé, manga o comics",NA
+P118D,3,Software libre,NA
+P118D,4,Tecnología,NA
+P118D,5,Actividades políticas,NA
+P118D,6,Cultura,NA
+P118D,7,Actividad profesional o de estudio,NA
+P118D,8,Deportes,NA
+P118D,9,Educación,NA
+P118D,10,Ecología/ medio ambiente,NA
+P118D,11,Música,NA
+P118D,12,Otros,NA
+P118E,NA,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,varlab
+P118E,1,Videojuegos,NA
+P118E,2,"Animé, manga o comics",NA
+P118E,3,Software libre,NA
+P118E,4,Tecnología,NA
+P118E,5,Actividades políticas,NA
+P118E,6,Cultura,NA
+P118E,7,Actividad profesional o de estudio,NA
+P118E,8,Deportes,NA
+P118E,9,Educación,NA
+P118E,10,Ecología/ medio ambiente,NA
+P118E,11,Música,NA
+P118E,12,Otros,NA
+P118G,NA,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,varlab
+P118G,1,Videojuegos,NA
+P118G,2,"Animé, manga o comics",NA
+P118G,3,Software libre,NA
+P118G,4,Tecnología,NA
+P118G,5,Actividades políticas,NA
+P118G,6,Cultura,NA
+P118G,7,Actividad profesional o de estudio,NA
+P118G,8,Deportes,NA
+P118G,9,Educación,NA
+P118G,10,Ecología/ medio ambiente,NA
+P118G,11,Música,NA
+P118G,12,Otros,NA
+P118H,NA,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,varlab
+P118H,1,Videojuegos,NA
+P118H,2,"Animé, manga o comics",NA
+P118H,3,Software libre,NA
+P118H,4,Tecnología,NA
+P118H,5,Actividades políticas,NA
+P118H,6,Cultura,NA
+P118H,7,Actividad profesional o de estudio,NA
+P118H,8,Deportes,NA
+P118H,9,Educación,NA
+P118H,10,Ecología/ medio ambiente,NA
+P118H,11,Música,NA
+P118H,12,Otros,NA
+P118I,NA,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,varlab
+P118I,1,Videojuegos,NA
+P118I,2,"Animé, manga o comics",NA
+P118I,3,Software libre,NA
+P118I,4,Tecnología,NA
+P118I,5,Actividades políticas,NA
+P118I,6,Cultura,NA
+P118I,7,Actividad profesional o de estudio,NA
+P118I,8,Deportes,NA
+P118I,9,Educación,NA
+P118I,10,Ecología/ medio ambiente,NA
+P118I,11,Música,NA
+P118I,12,Otros,NA
+P118F,NA,118. Otro,varlab
+P119,NA,119. ¿A la semana cuántos días está en contacto con estos grupos o comunidades?,varlab
+P119,9,Menos de 1 vez,NA
+P120,NA,120. ¿Utiliza Internet para organizar o participar en actividades políticas,varlab
+P120,1,Si,NA
+P120,2,No,NA
+P121A,NA,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,varlab
+P121A,1,Correo electrónico,NA
+P121A,2,Facebook,NA
+P121A,3,Whatsapp,NA
+P121A,4,Telegram,NA
+P121A,5,Twitter,NA
+P121A,6,Sitios web,NA
+P121A,7,Otro,NA
+P121B,NA,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,varlab
+P121B,1,Correo electrónico,NA
+P121B,2,Facebook,NA
+P121B,3,Whatsapp,NA
+P121B,4,Telegram,NA
+P121B,5,Twitter,NA
+P121B,6,Sitios web,NA
+P121B,7,Otro,NA
+P121C,NA,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,varlab
+P121C,1,Correo electrónico,NA
+P121C,2,Facebook,NA
+P121C,3,Whatsapp,NA
+P121C,4,Telegram,NA
+P121C,5,Twitter,NA
+P121C,6,Sitios web,NA
+P121C,7,Otro,NA
+P121E,NA,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,varlab
+P121E,1,Correo electrónico,NA
+P121E,2,Facebook,NA
+P121E,3,Whatsapp,NA
+P121E,4,Telegram,NA
+P121E,5,Twitter,NA
+P121E,6,Sitios web,NA
+P121E,7,Otro,NA
+P121F,NA,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,varlab
+P121F,1,Correo electrónico,NA
+P121F,2,Facebook,NA
+P121F,3,Whatsapp,NA
+P121F,4,Telegram,NA
+P121F,5,Twitter,NA
+P121F,6,Sitios web,NA
+P121F,7,Otro,NA
+P121G,NA,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,varlab
+P121G,1,Correo electrónico,NA
+P121G,2,Facebook,NA
+P121G,3,Whatsapp,NA
+P121G,4,Telegram,NA
+P121G,5,Twitter,NA
+P121G,6,Sitios web,NA
+P121G,7,Otro,NA
+P121D,NA,121. Otro,varlab
+P122,NA,122. ¿Ha realizado alguna vez llamadas de voz por Internet?,varlab
+P122,1,Si,NA
+P122,2,No,NA
+P123,NA,"123. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio?",varlab
+P124A,NA,124. Visitar páginas web?,varlab
+P124A,6,No realiza actividad,NA
+P124A,9,NS/NR,NA
+P124B,NA,124. Realizar videollamadas?,varlab
+P124B,6,No realiza actividad,NA
+P124B,9,NS/NR,NA
+P124C,NA,124. Ver películas?,varlab
+P124C,6,No realiza actividad,NA
+P124C,9,NS/NR,NA
+P124D,NA,"124. Descargar música, videos?",varlab
+P124D,6,No realiza actividad,NA
+P124D,9,NS/NR,NA
+P124E,NA,124. Jugar videojuegos?,varlab
+P124E,6,No realiza actividad,NA
+P124E,9,NS/NR,NA
+P125,NA,125. ¿Utiliza usted correo electrónico?,varlab
+P125,1,Si,NA
+P125,2,No,NA
+P126,NA,126. ¿Hace cuántos días utilizó por última vez su correo electrónico?,varlab
+P126,98,Mismo día,NA
+P126,99,Ns/Nr,NA
+P127,NA,127. ¿Tiene alguna página o blog en Internet?,varlab
+P127,1,Si,NA
+P127,2,No,NA
+P128A,NA,128. ¿Usted utiliza esta página/blog sobre todo para ?,varlab
+P128A,1,Promocionar su actividad económica,NA
+P128A,2,Compartir información,NA
+P128A,3,Compartir música/videos,NA
+P128A,4,Publicar artículos o actividades propias,NA
+P128A,5,Otro,NA
+P128B,NA,128. ¿Usted utiliza esta página/blog sobre todo para ?,varlab
+P128B,1,Promocionar su actividad económica,NA
+P128B,2,Compartir información,NA
+P128B,3,Compartir música/videos,NA
+P128B,4,Publicar artículos o actividades propias,NA
+P128B,5,Otro,NA
+P128C,NA,128. ¿Usted utiliza esta página/blog sobre todo para ?,varlab
+P128C,1,Promocionar su actividad económica,NA
+P128C,2,Compartir información,NA
+P128C,3,Compartir música/videos,NA
+P128C,4,Publicar artículos o actividades propias,NA
+P128C,5,Otro,NA
+P128D,NA,128. Otro,varlab
+P129A,NA,129. Noticias nacionales?,varlab
+P129A,1,Tv,NA
+P129A,2,Radio,NA
+P129A,3,Periódicos impresos,NA
+P129A,4,Periódicos digitales,NA
+P129A,5,Páginas web,NA
+P129A,6,Redes sociales,NA
+P129A,7,Charlas con amigos,NA
+P129A,8,Otro,NA
+P129A,9,NS/NR,NA
+P129B,NA,129. Noticias nacionales?,varlab
+P129B,1,Tv,NA
+P129B,2,Radio,NA
+P129B,3,Periódicos impresos,NA
+P129B,4,Periódicos digitales,NA
+P129B,5,Páginas web,NA
+P129B,6,Redes sociales,NA
+P129B,7,Charlas con amigos,NA
+P129B,8,Otro,NA
+P129B,9,NS/NR,NA
+P129C,NA,129. Noticias nacionales?,varlab
+P129C,1,Tv,NA
+P129C,2,Radio,NA
+P129C,3,Periódicos impresos,NA
+P129C,4,Periódicos digitales,NA
+P129C,5,Páginas web,NA
+P129C,6,Redes sociales,NA
+P129C,7,Charlas con amigos,NA
+P129C,8,Otro,NA
+P129C,9,NS/NR,NA
+P130A,NA,130. Noticias internacionales?,varlab
+P130A,1,Tv,NA
+P130A,2,Radio,NA
+P130A,3,Periódicos impresos,NA
+P130A,4,Periódicos digitales,NA
+P130A,5,Páginas web,NA
+P130A,6,Redes sociales,NA
+P130A,7,Charlas con amigos,NA
+P130A,8,Otro,NA
+P130A,9,NS/NR,NA
+P130B,NA,130. Noticias internacionales?,varlab
+P130B,1,Tv,NA
+P130B,2,Radio,NA
+P130B,3,Periódicos impresos,NA
+P130B,4,Periódicos digitales,NA
+P130B,5,Páginas web,NA
+P130B,6,Redes sociales,NA
+P130B,7,Charlas con amigos,NA
+P130B,8,Otro,NA
+P130B,9,NS/NR,NA
+P130C,NA,130. Noticias internacionales?,varlab
+P130C,1,Tv,NA
+P130C,2,Radio,NA
+P130C,3,Periódicos impresos,NA
+P130C,4,Periódicos digitales,NA
+P130C,5,Páginas web,NA
+P130C,6,Redes sociales,NA
+P130C,7,Charlas con amigos,NA
+P130C,8,Otro,NA
+P130C,9,NS/NR,NA
+P131A,NA,131. Ciencia y Tecnología?,varlab
+P131A,1,Tv,NA
+P131A,2,Radio,NA
+P131A,3,Periódicos impresos,NA
+P131A,4,Periódicos digitales,NA
+P131A,5,Páginas web,NA
+P131A,6,Redes sociales,NA
+P131A,7,Charlas con amigos,NA
+P131A,8,Otro,NA
+P131A,9,NS/NR,NA
+P131B,NA,131. Ciencia y Tecnología?,varlab
+P131B,1,Tv,NA
+P131B,2,Radio,NA
+P131B,3,Periódicos impresos,NA
+P131B,4,Periódicos digitales,NA
+P131B,5,Páginas web,NA
+P131B,6,Redes sociales,NA
+P131B,7,Charlas con amigos,NA
+P131B,8,Otro,NA
+P131B,9,NS/NR,NA
+P131C,NA,131. Ciencia y Tecnología?,varlab
+P131C,1,Tv,NA
+P131C,2,Radio,NA
+P131C,3,Periódicos impresos,NA
+P131C,4,Periódicos digitales,NA
+P131C,5,Páginas web,NA
+P131C,6,Redes sociales,NA
+P131C,7,Charlas con amigos,NA
+P131C,8,Otro,NA
+P131C,9,NS/NR,NA
+P132A,NA,132. Entretenimiento?,varlab
+P132A,1,Tv,NA
+P132A,2,Radio,NA
+P132A,3,Periódicos impresos,NA
+P132A,4,Periódicos digitales,NA
+P132A,5,Páginas web,NA
+P132A,6,Redes sociales,NA
+P132A,7,Charlas con amigos,NA
+P132A,8,Otro,NA
+P132A,9,NS/NR,NA
+P132B,NA,132. Entretenimiento?,varlab
+P132B,1,Tv,NA
+P132B,2,Radio,NA
+P132B,3,Periódicos impresos,NA
+P132B,4,Periódicos digitales,NA
+P132B,5,Páginas web,NA
+P132B,6,Redes sociales,NA
+P132B,7,Charlas con amigos,NA
+P132B,8,Otro,NA
+P132B,9,NS/NR,NA
+P132C,NA,132. Entretenimiento?,varlab
+P132C,1,Tv,NA
+P132C,2,Radio,NA
+P132C,3,Periódicos impresos,NA
+P132C,4,Periódicos digitales,NA
+P132C,5,Páginas web,NA
+P132C,6,Redes sociales,NA
+P132C,7,Charlas con amigos,NA
+P132C,8,Otro,NA
+P132C,9,NS/NR,NA
+P133A,NA,133. Negocios/oportunidades laborales/bienes o servicios?,varlab
+P133A,1,Tv,NA
+P133A,2,Radio,NA
+P133A,3,Periódicos impresos,NA
+P133A,4,Periódicos digitales,NA
+P133A,5,Páginas web,NA
+P133A,6,Redes sociales,NA
+P133A,7,Charlas con amigos,NA
+P133A,8,Otro,NA
+P133A,9,NS/NR,NA
+P133B,NA,133. Negocios/oportunidades laborales/bienes o servicios?,varlab
+P133B,1,Tv,NA
+P133B,2,Radio,NA
+P133B,3,Periódicos impresos,NA
+P133B,4,Periódicos digitales,NA
+P133B,5,Páginas web,NA
+P133B,6,Redes sociales,NA
+P133B,7,Charlas con amigos,NA
+P133B,8,Otro,NA
+P133B,9,NS/NR,NA
+P133C,NA,133. Negocios/oportunidades laborales/bienes o servicios?,varlab
+P133C,1,Tv,NA
+P133C,2,Radio,NA
+P133C,3,Periódicos impresos,NA
+P133C,4,Periódicos digitales,NA
+P133C,5,Páginas web,NA
+P133C,6,Redes sociales,NA
+P133C,7,Charlas con amigos,NA
+P133C,8,Otro,NA
+P133C,9,NS/NR,NA
+P134,NA,134. Rápido,varlab
+P134,1,Tv,NA
+P134,2,Radio,NA
+P134,3,Periódicos impresos,NA
+P134,4,Periódicos digitales,NA
+P134,5,Páginas web,NA
+P134,6,Redes sociales,NA
+P134,7,Ninguno,NA
+P134,9,NS/NR,NA
+P135,NA,135. Verídico,varlab
+P135,1,Tv,NA
+P135,2,Radio,NA
+P135,3,Periódicos impresos,NA
+P135,4,Periódicos digitales,NA
+P135,5,Páginas web,NA
+P135,6,Redes sociales,NA
+P135,7,Ninguno,NA
+P135,9,NS/NR,NA
+P136,NA,136. Serio,varlab
+P136,1,Tv,NA
+P136,2,Radio,NA
+P136,3,Periódicos impresos,NA
+P136,4,Periódicos digitales,NA
+P136,5,Páginas web,NA
+P136,6,Redes sociales,NA
+P136,7,Ninguno,NA
+P136,9,NS/NR,NA
+P137,NA,137. Claro,varlab
+P137,1,Tv,NA
+P137,2,Radio,NA
+P137,3,Periódicos impresos,NA
+P137,4,Periódicos digitales,NA
+P137,5,Páginas web,NA
+P137,6,Redes sociales,NA
+P137,7,Ninguno,NA
+P137,9,NS/NR,NA
+P138,NA,138. Imparcial,varlab
+P138,1,Tv,NA
+P138,2,Radio,NA
+P138,3,Periódicos impresos,NA
+P138,4,Periódicos digitales,NA
+P138,5,Páginas web,NA
+P138,6,Redes sociales,NA
+P138,7,Ninguno,NA
+P138,9,NS/NR,NA
+P139,NA,139. Profundo,varlab
+P139,1,Tv,NA
+P139,2,Radio,NA
+P139,3,Periódicos impresos,NA
+P139,4,Periódicos digitales,NA
+P139,5,Páginas web,NA
+P139,6,Redes sociales,NA
+P139,7,Ninguno,NA
+P139,9,NS/NR,NA
+P140,NA,140. Abierto a su participación,varlab
+P140,1,Tv,NA
+P140,2,Radio,NA
+P140,3,Periódicos impresos,NA
+P140,4,Periódicos digitales,NA
+P140,5,Páginas web,NA
+P140,6,Redes sociales,NA
+P140,7,Ninguno,NA
+P140,9,NS/NR,NA
+P140A,NA,"124. Elaborar, copiar o desplazar texto en un documento y/o buscar, copiar y mover archivos.",varlab
+P140A,1,Si,NA
+P140A,2,No,NA
+P140A,9,NS/NR,NA
+P140B,NA,125. Enviar y recibir correos electrónicos con archivos adjuntos.,varlab
+P140B,1,Si,NA
+P140B,2,No,NA
+P140B,9,NS/NR,NA
+P140C,NA,126. Conectar o instalar nuevos dispositivos y/o transferir archivos entre la computadora y otro dispositivo,varlab
+P140C,1,Si,NA
+P140C,2,No,NA
+P140C,9,NS/NR,NA
+P140D,NA,"127. Buscar, instalar y configurar programas, aplicaciones y/o acciones m?s avanzadas",varlab
+P140D,1,Si,NA
+P140D,2,No,NA
+P140D,9,NS/NR,NA
+P141,NA,141. ¿Ha escuchado o conoce sobre el software libre?,varlab
+P141,1,Si,NA
+P141,2,No,NA
+P141,9,NS/NR,NA
+P142,NA,142. ¿Ha utilizado alguna vez software libre GNU/Linux?,varlab
+P142,1,Si,NA
+P142,2,No,NA
+P142,9,NS/NR,NA
+P143,NA,143. ¿Aproximadamente qué edad tenía cuando usó una computadora por primera vez?,varlab
+P143,99,Ns/Nr,NA
+P144,NA,144. ¿Aproximadamente qué edad tenía cuando usó Internet por primera vez?,varlab
+P144,99,Ns/Nr,NA
+P145,NA,"145. En los últimos 12 meses, ¿Usted tuvo algún problema de virus en su computadora...",varlab
+P145,1,Si,NA
+P145,2,No,NA
+P146A,NA,146. ¿Cuáles fueron las acciones que tomó para solucionar el problema?,varlab
+P146A,1,Usó un antivirus,NA
+P146A,2,No hizo nada,NA
+P146A,3,Contactar a un técnico,NA
+P146A,4,Cambiar o actualizar antivirus,NA
+P146A,5,Preguntar a alguien,NA
+P146B,NA,146. ¿Cuáles fueron las acciones que tomó para solucionar el problema?,varlab
+P146B,1,Usó un antivirus,NA
+P146B,2,No hizo nada,NA
+P146B,3,Contactar a un técnico,NA
+P146B,4,Cambiar o actualizar antivirus,NA
+P146B,5,Preguntar a alguien,NA
+P146C,NA,146. ¿Cuáles fueron las acciones que tomó para solucionar el problema?,varlab
+P146C,1,Usó un antivirus,NA
+P146C,2,No hizo nada,NA
+P146C,3,Contactar a un técnico,NA
+P146C,4,Cambiar o actualizar antivirus,NA
+P146C,5,Preguntar a alguien,NA
+P147,NA,"147. En los últimos 12 meses, ¿Usted o alguna persona que conoce ha sido víctima...",varlab
+P147,1,Si,NA
+P147,2,No,NA
+P148,NA,148. Sexo,varlab
+P148,1,Hombre,NA
+P148,2,Mujer,NA
+P149,NA,149. Nivel de instrucción del entrevistado,varlab
+P149,1,Primaria o menos,NA
+P149,2,Secundaria incompleta,NA
+P149,3,Secundaria completa,NA
+P149,4,T?cnico,NA
+P149,5,"Educ. terciaria (FFAA, Policía, Normal)",NA
+P149,6,Universidad incompleta,NA
+P149,7,Universidad completa,NA
+P149,8,Posgrado,NA
+P150,NA,150. Estado civil,varlab
+P150,1,Soltero,NA
+P150,2,Casado/conviviente,NA
+P150,3,Separado/divorciado,NA
+P150,4,Viudo,NA
+P151,NA,151. ¿En qué idioma aprendió a hablar?,varlab
+P151,1,Castellano,NA
+P151,2,Aymara,NA
+P151,3,Quechua,NA
+P151,4,Guaraní,NA
+P151,5,Otro nativo,NA
+P151,6,Otro,NA
+P151A,NA,151. ¿En qué idioma aprendió a hablar? (Otro Nativo),varlab
+P151A,1,Castellano,NA
+P151A,2,Aymara,NA
+P151A,3,Quechua,NA
+P151A,4,Guaraní,NA
+P151A,5,Otro nativo,NA
+P151A,6,Otro,NA
+P151B,NA,151. ¿En qué idioma aprendió a hablar? (Otro),varlab
+P151B,1,Castellano,NA
+P151B,2,Aymara,NA
+P151B,3,Quechua,NA
+P151B,4,Guaraní,NA
+P151B,5,Otro nativo,NA
+P151B,6,Otro,NA
+P152,NA,152. Categoría ocupacional,varlab
+P152,1,Asalariado,NA
+P152,2,Cuenta propia,NA
+P152,3,Negocio propio,NA
+P152,4,Profesional indep.,NA
+P152,5,Empleador,NA
+P152,6,Estudiante,NA
+P152,7,Ama de casa,NA
+P152,8,Rentista/jubilado,NA
+P152,9,"Sin empleo, buscando",NA
+P152,10,"Sin empleo, no busca",NA
+P153,NA,153. Nivel de instrucción del jefe de hogar,varlab
+P153,1,Primaria o menos,NA
+P153,2,Secundaria incompleta,NA
+P153,3,Secundaria completa,NA
+P153,4,Técnico,NA
+P153,5,"Educ. terciaria (FFAA, Policía, Normal)",NA
+P153,6,Universidad incompleta,NA
+P153,7,Universidad completa,NA
+P153,8,Posgrado,NA
+P154A,NA,154. El jefe de hogar tiene ?,varlab
+P154A,1,En empleo/trabajo permanente y estable,NA
+P154A,2,A veces tiene trabajo y a veces no,NA
+P154A,3,La mayor parte del tiempo no tiene trabajo,NA
+P154A,4,No tiene trabajo,NA
+P154A,5,Otro,NA
+P154B,NA,154. Otro,varlab
+P155,NA,155. ¿Cuál es el ingreso mensual promedio en su hogar?,varlab
+P155,1,Hasta 1400 Bs.,NA
+P155,2,1.401-3.500 Bs.,NA
+P155,3,3.501-5.000 Bs.,NA
+P155,4,5.001-7.000 Bs.,NA
+P155,5,7.001-10.000 Bs.,NA
+P155,6,10.000-14.000Bs.,NA
+P155,7,14.000-21.000Bs.,NA
+P155,8,M?s de 21.000 Bs.,NA
+P156A,NA,156. Tiene agua potable en la vivienda?,varlab
+P156A,1,Si,NA
+P156A,2,No,NA
+P156B,NA,156. Tiene alcantarillado?,varlab
+P156B,1,Si,NA
+P156B,2,No,NA
+P156C,NA,156. Tiene servicio de energía eléctrica?,varlab
+P156C,1,Si,NA
+P156C,2,No,NA
+P156D,NA,156. Tiene lavadora de ropa?,varlab
+P156D,1,Si,NA
+P156D,2,No,NA
+P156E,NA,156. Tiene microondas?,varlab
+P156E,1,Si,NA
+P156E,2,No,NA
+P156F,NA,156. Tiene calefón o ducha caliente?,varlab
+P156F,1,Si,NA
+P156F,2,No,NA
+P156G,NA,156. Tiene tarjeta de crédito?,varlab
+P156G,1,Si,NA
+P156G,2,No,NA
+P156H,NA,156. Tiene casa propia?,varlab
+P156H,1,Si,NA
+P156H,2,No,NA
+P156I,NA,156. Cantidad de baños en su vivienda,varlab
+P156J,NA,"156. Automóvil de uso particular, de 2012 o más reciente?",varlab
+P156J,1,Si,NA
+P156J,2,No,NA
+P156K,NA,156. En los últimos 5 años realizó algún viaje de vacaciones fuera de América Latina en familia?,varlab
+P156K,1,Si,NA
+P156K,2,No,NA
+P157,NA,"157. ¿Cuántas personas viven regularmente con usted, aunque no sean sus familiares?",varlab
+P158,NA,158. Departamento,varlab
+P158,1,La Paz,NA
+P158,2,Chuquisaca,NA
+P158,3,Cochabamba,NA
+P158,4,Santa Cruz,NA
+P158,5,Oruro,NA
+P158,6,Potosí,NA
+P158,7,Tarija,NA
+P158,8,Beni,NA
+P158,9,Pando,NA
+P159,NA,159. Tipo de localidad,varlab
+P159,1,Ciudad Capital,NA
+P159,2,Ciudades intermedias,NA
+P159,3,Localidades Rurales de menos de 2.000 hab,NA
+P160,NA,160. Nombre de la localidad,varlab
+CodP160,NA,Codigo del nombre de la localidad,varlab
+CodP160,1,Agua Clara,NA
+CodP160,2,Agua Rica,NA
+CodP160,3,Amaya Pampa,NA
+CodP160,4,Anamal,NA
+CodP160,5,Avaroa,NA
+CodP160,6,Avaroa (La Paz),NA
+CodP160,7,Cachichira,NA
+CodP160,8,Cala Cala,NA
+CodP160,9,Camargo,NA
+CodP160,10,Camiri,NA
+CodP160,11,Caranavi,NA
+CodP160,12,Carapari,NA
+CodP160,13,Chajra Khasa,NA
+CodP160,14,Challapata,NA
+CodP160,15,Chayanta,NA
+CodP160,16,Cobija,NA
+CodP160,17,Cochabamba,NA
+CodP160,18,Colomi,NA
+CodP160,19,Colquencha,NA
+CodP160,20,Comarapa,NA
+CodP160,21,Cotoca,NA
+CodP160,22,Cruce Culta,NA
+CodP160,23,Dorado Grande,NA
+CodP160,24,El Alto,NA
+CodP160,25,El Carmen Rivero,NA
+CodP160,26,El Común,NA
+CodP160,27,Fátima,NA
+CodP160,28,Huasa Cañada,NA
+CodP160,29,Huañacahua,NA
+CodP160,30,Irpa Irpa,NA
+CodP160,31,Ixiamas,NA
+CodP160,32,Jatuquira,NA
+CodP160,33,La Paz,NA
+CodP160,34,La Plateada,NA
+CodP160,35,Lagunillas,NA
+CodP160,36,Llallaguita,NA
+CodP160,37,Los Sotos,NA
+CodP160,38,Machac Huyo,NA
+CodP160,39,Mallku Originario,NA
+CodP160,40,Mineros,NA
+CodP160,41,Molinos,NA
+CodP160,42,Nueva Esperanza,NA
+CodP160,43,Oploca,NA
+CodP160,44,Oruro,NA
+CodP160,45,Papagayo,NA
+CodP160,46,Pata Pata,NA
+CodP160,47,Pata Pata/ Chuchini,NA
+CodP160,48,Patacamaya,NA
+CodP160,49,Piedritas,NA
+CodP160,50,Porvenir,NA
+CodP160,51,Potosi,NA
+CodP160,52,Potosí,NA
+CodP160,53,Pueblo Nuevo,NA
+CodP160,54,Puerto Quijarro,NA
+CodP160,55,Pulacayo,NA
+CodP160,56,Punata,NA
+CodP160,57,Quebrada León,NA
+CodP160,58,Quime,NA
+CodP160,59,Riberalta,NA
+CodP160,60,Roboré,NA
+CodP160,61,Rurrenabaque,NA
+CodP160,62,San Benito,NA
+CodP160,63,San Borja,NA
+CodP160,64,San Ignacio,NA
+CodP160,65,San Juan Yapacani,NA
+CodP160,66,San Miguel de Kataty,NA
+CodP160,67,San Pedro,NA
+CodP160,68,San Ramon (Sta),NA
+CodP160,69,San Ramón (Beni),NA
+CodP160,70,Santa Cruz,NA
+CodP160,71,Santa Fé de Yapacani,NA
+CodP160,72,Santa Rita,NA
+CodP160,73,Santa Rosa,NA
+CodP160,74,Santiago de Huari,NA
+CodP160,75,Sauce Rancho,NA
+CodP160,76,Shinahota,NA
+CodP160,77,Sipe Sipe,NA
+CodP160,78,Sucre,NA
+CodP160,79,Sunchu Pampa,NA
+CodP160,80,Taratuma,NA
+CodP160,81,Tarija,NA
+CodP160,82,Tres Cruces,NA
+CodP160,83,Trinidad,NA
+CodP160,84,Tumarapi,NA
+CodP160,85,Tupiza,NA
+CodP160,86,Uyuni,NA
+CodP160,87,Valle Grande,NA
+CodP160,88,Villa Busch,NA
+CodP160,89,Villa Rojas,NA
+CodP160,90,Villa Viluyo,NA
+CodP160,91,Villomilla/ Villcabamba,NA
+CodP160,92,Vinto,NA
+CodP160,93,Vinto Cancha Grande,NA
+CodP160,94,Vivicha,NA
+CodP160,95,Warnes,NA
+CodP160,96,Yacuiba,NA
+CodP160,97,Zapatera,NA
+Ponderador5536,NA,Ponderador población total,varlab
+Ponderador5033,NA,Ponderador población internauta,varlab
+Nse,NA,Nivel Socioeconómico,varlab
+Nse,1,Bajo Extremo,NA
+Nse,2,Medio Bajo,NA
+Nse,3,Medio Típico,NA
+Nse,4,Medio Alto,NA
+Nse,5,Alto,NA

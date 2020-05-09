@@ -1,0 +1,452 @@
+Variable,Label,Measurement Level
+NUMBOL,Número de Boleta,Scale
+Tipo,Tipo de entrevistado,Nominal
+P1,1. ¿Me podría decir su edad por favor?,Scale
+P2,2. ¿Usted ha navegado por Internet o se ha conectado a alguna red social a través de Internet?,Nominal
+P3,3. ¿Cuándo fue la última vez que navegó en Internet o estuvo conectado a las redes sociales?,Nominal
+P1A,1a. ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?,Nominal
+P1B,1a. ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?,Nominal
+P1C,1a. ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?,Nominal
+P1D,1a. ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?,Nominal
+P1E,1a. Otro,Nominal
+P2A,"2a. En los últimos 6 meses, ¿Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",Nominal
+P2B,"2a. En los últimos 6 meses, ¿Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",Nominal
+P2C,"2a. En los últimos 6 meses, ¿Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",Nominal
+P2D,"2a. En los últimos 6 meses, ¿Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",Nominal
+P2E,2a. Otro,Nominal
+P3A,3a. ¿Más o menos cuántas veces ha solicitado esta ayuda en el último mes?,Nominal
+P4A,"4a. ¿Si tuviera acceso a Internet, usted estaría... ?.... usar Internet?",Nominal
+P4,4. ¿Tiene teléfono fijo en su casa?,Nominal
+P5,5. ¿Cuánto pagan al mes por este servicio?,Scale
+P6,"6. ¿Tiene computadora de escritorio, computadora portátil o tablet en su casa?",Nominal
+P7A,7. ¿Cuándo fue la última vez que en su casa compraron alguno de estos equipos? (MESES),Nominal
+P7B,7. ¿Cuándo fue la última vez que en su casa compraron alguno de estos equipos? (AÑOS),Nominal
+P8,"8. Y la última vez ¿Compraron una computadora de escritorio, una computadora portátil o una táblet?",Nominal
+P9,9. ¿Cuánto pagaron aproximadamente por ese equipo?,Scale
+P10,"10. ¿Más o menos cuántos días a la semana usa computadora de escritorio, computadora portátil o tablet?",Nominal
+P11A,11. ¿Qué usos le da usted a estos equipos?,Nominal
+P11B,11. ¿Qué usos le da usted a estos equipos?,Nominal
+P11C,11. ¿Qué usos le da usted a estos equipos?,Nominal
+P11F,11. ¿Qué usos le da usted a estos equipos?,Nominal
+P11G,11. ¿Qué usos le da usted a estos equipos?,Nominal
+P11D,11. Otro,Nominal
+P12,12. ¿Tiene televisor en su casa?,Nominal
+P13A,13. ¿Cuándo fue la última vez que en su casa compraron un televisor? (MESES),Nominal
+P13B,13. ¿Cuándo fue la última vez que en su casa compraron un televisor? (AÑOS),Nominal
+P14,14. ¿Cuánto pagaron aproximadamente por ese televisor?,Scale
+P15A,15. ¿Qué tipo de programas son los que más le gusta mirar en televisión?,Nominal
+P15B,15. ¿Qué tipo de programas son los que más le gusta mirar en televisión?,Nominal
+P15C,15. ¿Qué tipo de programas son los que más le gusta mirar en televisión?,Nominal
+P15E,15. ¿Qué tipo de programas son los que más le gusta mirar en televisión?,Nominal
+P15D,15. Otro,Nominal
+P16,16. ¿En su casa usted tiene servicio de TV Cable?,Nominal
+P17,17. ¿En su casa usted tiene servicio de TV Satelital?,Nominal
+P18,18. ¿Cuánto pagan al mes por este servicio de Tv cable/Tv satelital?,Scale
+P19,"19. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio?",Nominal
+P20,20. ¿Tiene radio en su casa?,Nominal
+P21A,21. ¿Cuándo fue la última vez que compraron una radio en su casa? (MESES),Scale
+P21B,21. ¿Cuándo fue la última vez que compraron una radio en su casa? (AÑOS),Scale
+P22,22. ¿Cuánto pagaron aproximadamente?,Scale
+P23,23. ¿Tiene Internet fijo en su casa?,Nominal
+P24,24. ¿Cuánto pagan al mes por este servicio?,Scale
+P25,25. ¿De qué velocidad es el plan que contrataron?,Nominal
+P26,"26. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio de Internet fijo?",Nominal
+P27A,27. ¿Para qué usa mayormente esta conexión a Internet?,Nominal
+P27B,27. ¿Para qué usa mayormente esta conexión a Internet?,Nominal
+P27C,27. ¿Para qué usa mayormente esta conexión a Internet?,Nominal
+P27E,27. ¿Para qué usa mayormente esta conexión a Internet?,Nominal
+P27F,27. ¿Para qué usa mayormente esta conexión a Internet?,Nominal
+P27G,27. ¿Para qué usa mayormente esta conexión a Internet?,Nominal
+P27D,27. Otro,Nominal
+P28,28. ¿Tiene celular?,Nominal
+P29A,29. ¿Cuándo fue la última vez que compró o que le compraron un celular? (MESES),Scale
+P29B,29. ¿Cuándo fue la última vez que compró o que le compraron un celular? (AÑOS),Scale
+P30,30. ¿Cuánto pagó o pagaron aproximadamente la última vez?,Scale
+P31A,31. ¿Qué usos le da a su celular?,Nominal
+P31B,31. ¿Qué usos le da a su celular?,Nominal
+P31C,31. ¿Qué usos le da a su celular?,Nominal
+P31D,31. ¿Qué usos le da a su celular?,Nominal
+P31E,31. ¿Qué usos le da a su celular?,Nominal
+P31G,31. ¿Qué usos le da a su celular?,Nominal
+P31H,31. ¿Qué usos le da a su celular?,Nominal
+P31F,31. Otro,Nominal
+P32,32. ¿En su celular tiene el servicio de prepago o de pospago?,Nominal
+P33,33. ¿De qué empresa tiene este servicio?,Nominal
+P34,34. ¿Cuánto gasta en promedio al mes por el servicio de llamadas telefónicas y mensajes de texto?,Scale
+P35,"35. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría al servicio de....?",Nominal
+P36A,36. ¿Qué sistema operativo tiene su celular?,Nominal
+P36B,36. Otro,Nominal
+P37,37. ¿Usted tiene Internet en su celular?,Nominal
+P38,38. ¿Cuánto paga al mes en promedio por el servicio de Internet?,Scale
+P39A,39. ¿Más o menos cuántos megas consume en promedio? (CANTIDAD),Scale
+P39B,39. ¿Más o menos cuántos megas consume en promedio? (TIEMPO),Nominal
+P40,"40. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio?",Nominal
+P41A,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41B,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41C,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41D,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41E,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41G,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41H,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41I,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41J,41. ¿Para qué usa mayormente la conexión a Internet en su celular?,Nominal
+P41F,41. Otro,Nominal
+P42A,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",Nominal
+P42B,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",Nominal
+P42C,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",Nominal
+P42E,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",Nominal
+P42F,"42. A parte de Internet en el hogar o de Internet móvil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",Nominal
+P42D,42. Otro,Nominal
+P43,"43. ¿En promedio, cuántos días a la semana utiliza Internet (ya sea fijo o móvil)?",Nominal
+P44A,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44B,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44C,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44D,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44E,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44F,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44G,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44J,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44H,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44I,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44K,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44L,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44M,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44N,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44O,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44P,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44Q,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44R,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44S,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44T,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44U,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44V,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44W,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P44X,"44. ¿De lunes a viernes, en qué horarios se conecta a Internet?",Scale
+P45A,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45B,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45C,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45D,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45E,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45F,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45G,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45H,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45I,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45J,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45K,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45L,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45M,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45N,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45O,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45P,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45Q,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45R,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45S,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45T,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45U,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45V,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45W,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P45X,"45. ¿Los fines de semana, en qué horarios se conecta a Internet?",Scale
+P46A,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,Nominal
+P46B,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,Nominal
+P46C,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,Nominal
+P46E,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,Nominal
+P46F,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,Nominal
+P46G,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,Nominal
+P46H,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,Nominal
+P46I,46. ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?,Nominal
+P46D,46. Otro,Nominal
+P47A,47. ¿Qué tipo de información busca en Internet?,Nominal
+P47B,47. ¿Qué tipo de información busca en Internet?,Nominal
+P47C,47. ¿Qué tipo de información busca en Internet?,Nominal
+P47D,47. ¿Qué tipo de información busca en Internet?,Nominal
+P47E,47. ¿Qué tipo de información busca en Internet?,Nominal
+P47G,47. ¿Qué tipo de información busca en Internet?,Nominal
+P47H,47. ¿Qué tipo de información busca en Internet?,Nominal
+P47I,47. ¿Qué tipo de información busca en Internet?,Nominal
+P47F,47. Otro,Nominal
+P48A,48. ¿Cuáles son las tres páginas web nacionales que más visita?,Nominal
+P48B,48. ¿Cuáles son las tres páginas web nacionales que más visita?,Nominal
+P48C,48. ¿Cuáles son las tres páginas web nacionales que más visita?,Nominal
+P49A,49. ¿Cuáles son las tres páginas web internacionales que más visita?,Nominal
+P49B,49. ¿Cuáles son las tres páginas web internacionales que más visita?,Nominal
+P49C,49. ¿Cuáles son las tres páginas web internacionales que más visita?,Nominal
+P50,50. Recabar información o requisitos/formularios sobre trámites en el sector público,Nominal
+P51,51. Completar y enviar formularios de trámites en el sector público,Nominal
+P52,"52. Realizar sugerencias, consultas, solicitudes o reclamos a organismos del Estado",Nominal
+P53,53. Buscar información sobre las entidades del Estado,Nominal
+P54,54. Realizar trámites completamente a través de Internet,Nominal
+P55A,"55. En su criterio, ¿Cuál de las siguientes características es la más importante en la realización de trámites en instituciones públicas?",Nominal
+P55B,55. Otro,Nominal
+P56,56. La realización de trámites en las instituciones públicas?,Nominal
+P57,57. Los servicios que presta el Estado a través de Internet?,Nominal
+P58A,58. Del Gobierno Nacional,Nominal
+P58B,58. ¿Usualmente realiza trámites en estas páginas web?,Nominal
+P59A,59. Del Gobierno Municipal,Nominal
+P59B,59. ¿Usualmente realiza trámites en estas páginas web?,Nominal
+P60A,60. De la Gobernación (Prefectura),Nominal
+P60B,60. ¿Usualmente realiza trámites en estas páginas web?,Nominal
+P61A,61. Del Poder Judicial,Nominal
+P60C,61. ¿Usualmente realiza trámites en estas páginas web?,Nominal
+P62A,62. Del Tribunal Supremo Electoral,Nominal
+P62B,62. ¿Usualmente realiza trámites en estas páginas web?,Nominal
+P63A,63. De las Universidades,Nominal
+P63B,63. ¿Usualmente realiza trámites en estas páginas web?,Nominal
+P64A,"64. ¿Según su opinión, qué información de las instituciones públicas debería estar disponible en Internet en primer lugar?",Nominal
+P64B,"64. ¿Según su opinión, qué información de las instituciones públicas debería estar disponible en Internet en en segundo lugar?",Nominal
+P64C,"64. ¿Según su opinión, qué información de las instituciones públicas debería estar disponible en Internet en tercer lugar?",Nominal
+P64D,"64. ¿Según su opinión, qué información de las instituciones públicas debería estar disponible en Internet en cuarto lugar?",Nominal
+P64E,64. Otro,Nominal
+P65,65. ¿Qué trámite con entidades públicas le gustaría poder realizar a través de Internet?,Nominal
+P66,66. ¿Sigue a alguna institución pública a través de sus cuentas de Facebook o Twitter?,Nominal
+P67A1,67. ¿A qué institución sigue?,Nominal
+P67A2,"67. Del 1 al 5, donde 1 es pésimo y 5 es excelente",Nominal
+P67B1,67. ¿A qué institución sigue?,Nominal
+P67B2,"67. Del 1 al 5, donde 1 es pésimo y 5 es excelente",Nominal
+P67C1,67. ¿A qué institución sigue?,Nominal
+P67C2,"67. Del 1 al 5, donde 1 es pésimo y 5 es excelente",Nominal
+P68,68. ¿Utiliza o utiliza Internet en?,Nominal
+P69,"69. ¿Ha realizado algún curso, diplomado o maestría por Internet?",Nominal
+P70,"70. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a la experiencia de aprendizaje del curso, diplomado o maestría por Internet?",Nominal
+P71,"71. ¿Usted preferiría realizar un curso, diplomado o maestráa por Internet, o de manera presencial?",Nominal
+P72A,72. ¿Por qué?,Nominal
+P72B,72. ¿Por qué?,Nominal
+P72C,72. ¿Por qué?,Nominal
+P72E,72. ¿Por qué?,Nominal
+P72F,72. ¿Por qué?,Nominal
+P72D,72. Otro,Nominal
+P73,73. ¿Trabaja o ha trabajado alguna vez?,Nominal
+P74A,"74. ¿Usted diría que utiliza/utilizó el Internet para su actividad económica o laboral, mucho, más o menos, muy poco?",Nominal
+P74B,74. Otro,Nominal
+P75,75. ¿Realiza/realizó algún trabajo o negocio gracias a contactos...?,Nominal
+P76,76. ¿Su actividad laboral o negocio está vinculado a las tecnologías...,Nominal
+P77,77. ¿Ha realizado alguna compra a través de Internet?,Nominal
+P78A,78. ¿Por qué no compré por Internet?,Nominal
+P78B,78. ¿Por qué no compré por Internet?,Nominal
+P78C,78. ¿Por qué no compré por Internet?,Nominal
+P78D,78. Otro,Nominal
+P79,79. ¿Generalmente realiza compras a través de Internet a empresas nacionales o empresas internacionales?,Nominal
+P80A,80. ¿A través de qué sitios web o plataformas generalmente realiza sus compras en Internet?,Nominal
+P80B,80. ¿A través de qué sitios web o plataformas generalmente realiza sus compras en Internet?,Nominal
+P80C,80. ¿A través de qué sitios web o plataformas generalmente realiza sus compras en Internet?,Nominal
+P80D,80. Otro,Nominal
+P81A,81. ¿Generalmente qué forma de pago usa para comprar en Internet?,Nominal
+P81B,81. ¿Generalmente qué forma de pago usa para comprar en Internet?,Nominal
+P81C,81. ¿Generalmente qué forma de pago usa para comprar en Internet?,Nominal
+P81D,81. Otro,Nominal
+P82A,82. Sin contar el pago por servicios básicos ¿Qué productos o servicios compró por Internet?,Nominal
+P82B,82. Sin contar el pago por servicios básicos ¿Qué productos o servicios compró por Internet?,Nominal
+P82C,82. Sin contar el pago por servicios básicos ¿Qué productos o servicios compró por Internet?,Nominal
+P82D,82. Otros,Nominal
+P83A,83. ¿Generalmente dónde recibe los productos que compra a través de Internet?,Nominal
+P83B,83. ¿Generalmente dónde recibe los productos que compra a través de Internet?,Nominal
+P83C,83. ¿Generalmente dónde recibe los productos que compra a través de Internet?,Nominal
+P83D,83. Otros,Nominal
+P84,84. ¿Cuánto gastó aproximadamente en compras por Internet en los últimos tres meses?,Scale
+P85A,85. ¿Cuáles fueron sus principales motivaciones para comprar por Internet?,Nominal
+P85B,85. ¿Cuáles fueron sus principales motivaciones para comprar por Internet?,Nominal
+P85C,85. ¿Cuáles fueron sus principales motivaciones para comprar por Internet?,Nominal
+P85D,85. Otro,Nominal
+P86A,86. ¿Alguna vez ha vendido algo ofertándolo por Internet?,Nominal
+P87,87. ¿Las ventas se realizaron en el mercado local o en el mercado internacional?,Nominal
+P88A,88. ¿Qué plataforma o aplicación utiliza para ofertar productos o servicios en Internet?,Nominal
+P88B,88. ¿Qué plataforma o aplicación utiliza para ofertar productos o servicios en Internet?,Nominal
+P88C,88. ¿Qué plataforma o aplicación utiliza para ofertar productos o servicios en Internet?,Nominal
+P88D,88. Otro,Nominal
+P89A,89. ¿Cuál es la forma de cobro?,Nominal
+P89B,89. ¿Cuál es la forma de cobro?,Nominal
+P89C,89. ¿Cuál es la forma de cobro?,Nominal
+P89D,89. Otro,Nominal
+P90A,90. ¿Qué tipo de producto o servicio oferta/ofertó por Internet?,Nominal
+P90B,90. ¿Qué tipo de producto o servicio oferta/ofertó por Internet?,Nominal
+P90C,90. ¿Qué tipo de producto o servicio oferta/ofertó por Internet?,Nominal
+P90D,90. Otro,Nominal
+P91A,91. ¿Cómo entregó o entrega el producto ofertado?,Nominal
+P91B,91. ¿Cómo entregó o entrega el producto ofertado?,Nominal
+P91C,91. ¿Cómo entregó o entrega el producto ofertado?,Nominal
+P91D,91. Otro,Nominal
+P92,92. ¿En promedio cuánto diría que es su valor en ventas por Internet mensualmente?,Scale
+P93A,93. ¿Cuáles son sus principales motivaciones para vender por Internet?,Nominal
+P93B,93. ¿Cuáles son sus principales motivaciones para vender por Internet?,Nominal
+P93C,93. ¿Cuáles son sus principales motivaciones para vender por Internet?,Nominal
+P93D,93. Otro,Nominal
+P94,94. ¿Usted diría que su actividad laboral principal está directamente relacionada con la venta de productos en Internet?,Nominal
+P95,95. Consulta de movimientos y saldos de su cuenta en el banco,Nominal
+P96,96. Transferencia entre cuentas bancarias,Nominal
+P97,97. Pagos de servicios o productos a través de su cuenta bancaria,Nominal
+P98A,98. ¿Qué pagos realizó a través de Internet?,Nominal
+P98B,98. ¿Qué pagos realizó a través de Internet?,Nominal
+P98C,98. ¿Qué pagos realizó a través de Internet?,Nominal
+P98E,98. ¿Qué pagos realizó a través de Internet?,Nominal
+P98D,98. Otro,Nominal
+P99,99. ¿Utiliza redes sociales en Internet?,Nominal
+P100A,100. ¿Qué redes sociales utiliza?,Nominal
+P100B,100. ¿Qué redes sociales utiliza?,Nominal
+P100C,100. ¿Qué redes sociales utiliza?,Nominal
+P100D,100. ¿Qué redes sociales utiliza?,Nominal
+P100E,100. ¿Qué redes sociales utiliza?,Nominal
+P100G,100. ¿Qué redes sociales utiliza?,Nominal
+P100H,100. ¿Qué redes sociales utiliza?,Nominal
+P100I,100. ¿Qué redes sociales utiliza?,Nominal
+P100F,100. Otro,Nominal
+P101A,101. ¿Para qué usa las redes sociales en primer lugar?,Nominal
+P101B,101. ¿Para qué usa las redes sociales en Segundo lugar?,Nominal
+P101C,101. ¿Para qué usa las redes sociales en Tercer lugar lugar?,Nominal
+P101D,101. ¿Para qué usa las redes sociales en Cuarto lugar lugar?,Nominal
+P101E,101. Otro,Nominal
+P102,"102. ¿En promedio, cuántos días a la semana utiliza redes sociales?",Scale
+P103A,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103B,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103C,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103D,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103E,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103F,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103G,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103H,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103I,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103J,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103K,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103L,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103M,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103N,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103O,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103P,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P103Q,"103. ¿En qué horarios utiliza las redes sociales, de lunes a viernes?",Scale
+P104A,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104B,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104C,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104D,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104E,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104F,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104G,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104H,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104I,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104J,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104K,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104L,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104M,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104N,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104O,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104P,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P104Q,"104. ¿Y los fines de semana, en qué horarios utiliza las redes sociales?",Scale
+P105,"105. ¿En los últimos 6 meses, apoyó alguna causa social o política a través de las redes sociales?",Nominal
+P106A,106. ¿Qué tipo de causa apoyó?,Nominal
+P106B,106. ¿Qué tipo de causa apoyó?,Nominal
+P106C,106. ¿Qué tipo de causa apoyó?,Nominal
+P106D,106. Otro,Nominal
+P107A,107. ¿Las opiniones que usted emite en las redes sociales influyen sobre todo en ..,Nominal
+P107B,107. ¿Las opiniones que usted emite en las redes sociales influyen sobre todo en ..,Nominal
+P107C,107. ¿Las opiniones que usted emite en las redes sociales influyen sobre todo en ..,Nominal
+P107D,107. Organizaciones políticas ¿Cuáles?,Nominal
+P107E,107. Otro,Nominal
+P108,"108. ¿Usted diría que confía, mucho, más o menos, poco o que no confía en la información que circula en las redes sociales?",Nominal
+P109,109. Temas de interés nacional?,Nominal
+P110,110. Temas personales y/o familiares?,Nominal
+P111,111. Según su opinión ¿cuánto influyó en usted la información y las opiniones de las redes sociales en los últimos procesos electorales?,Nominal
+P11E,111. Otro,Nominal
+P112,112. ¿Usted o alguna persona que conoce ha usado o usa una cuenta de redes...,Nominal
+P113,113. ¿Conoció alguna vez personas a través de Internet?,Nominal
+P114A,114. ¿Con la persona con la que estableció la relación más larga... (MESES),Scale
+P114B,114. ¿Con la persona con la que estableció la relación más larga... (AÑOS),Scale
+P115A,115. ¿Qué tipo de relación estableció con esa persona?,Nominal
+P115B,115. ¿Qué tipo de relación estableció con esa persona?,Nominal
+P115C,115. ¿Qué tipo de relación estableció con esa persona?,Nominal
+P115D,115. Otro,Nominal
+P116,116. ¿Llegó a conocer físicamente a esa persona?,Nominal
+P117,117. ¿Pertenece a algún grupo de personas o comunidad...,Nominal
+P118A,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,Nominal
+P118B,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,Nominal
+P118C,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,Nominal
+P118D,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,Nominal
+P118E,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,Nominal
+P118G,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,Nominal
+P118H,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,Scale
+P118I,118. ¿Qué intereses comparte con los grupos o comunidades a las que pertenece?,Nominal
+P118F,118. Otro,Nominal
+P119,119. ¿A la semana cuántos días está en contacto con estos grupos o comunidades?,Nominal
+P120,120. ¿Utiliza Internet para organizar o participar en actividades políticas,Nominal
+P121A,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,Nominal
+P121B,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,Nominal
+P121C,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,Nominal
+P121E,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,Nominal
+P121F,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,Nominal
+P121G,121. ¿A través de qué plataformas o redes sociales participa de estas actividades?,Nominal
+P121D,121. Otro,Nominal
+P122,122. ¿Ha realizado alguna vez llamadas de voz por Internet?,Nominal
+P123,"123. Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio?",Nominal
+P124A,124. Visitar páginas web?,Nominal
+P124B,124. Realizar videollamadas?,Nominal
+P124C,124. Ver películas?,Nominal
+P124D,"124. Descargar música, videos?",Nominal
+P124E,124. Jugar videojuegos?,Nominal
+P125,125. ¿Utiliza usted correo electrónico?,Nominal
+P126,126. ¿Hace cuántos días utilizó por última vez su correo electrónico?,Nominal
+P127,127. ¿Tiene alguna página o blog en Internet?,Nominal
+P128A,128. ¿Usted utiliza esta página/blog sobre todo para ?,Nominal
+P128B,128. ¿Usted utiliza esta página/blog sobre todo para ?,Nominal
+P128C,128. ¿Usted utiliza esta página/blog sobre todo para ?,Nominal
+P128D,128. Otro,Nominal
+P129A,129. Noticias nacionales?,Nominal
+P129B,129. Noticias nacionales?,Nominal
+P129C,129. Noticias nacionales?,Nominal
+P130A,130. Noticias internacionales?,Nominal
+P130B,130. Noticias internacionales?,Nominal
+P130C,130. Noticias internacionales?,Nominal
+P131A,131. Ciencia y Tecnología?,Nominal
+P131B,131. Ciencia y Tecnología?,Nominal
+P131C,131. Ciencia y Tecnología?,Nominal
+P132A,132. Entretenimiento?,Nominal
+P132B,132. Entretenimiento?,Nominal
+P132C,132. Entretenimiento?,Nominal
+P133A,133. Negocios/oportunidades laborales/bienes o servicios?,Nominal
+P133B,133. Negocios/oportunidades laborales/bienes o servicios?,Nominal
+P133C,133. Negocios/oportunidades laborales/bienes o servicios?,Nominal
+P134,134. Rápido,Nominal
+P135,135. Verídico,Nominal
+P136,136. Serio,Nominal
+P137,137. Claro,Nominal
+P138,138. Imparcial,Nominal
+P139,139. Profundo,Nominal
+P140,140. Abierto a su participación,Nominal
+P140A,"124. Elaborar, copiar o desplazar texto en un documento y/o buscar, copiar y mover archivos.",Nominal
+P140B,125. Enviar y recibir correos electrónicos con archivos adjuntos.,Nominal
+P140C,126. Conectar o instalar nuevos dispositivos y/o transferir archivos entre la computadora y otro dispositivo,Nominal
+P140D,"127. Buscar, instalar y configurar programas, aplicaciones y/o acciones m?s avanzadas",Nominal
+P141,141. ¿Ha escuchado o conoce sobre el software libre?,Nominal
+P142,142. ¿Ha utilizado alguna vez software libre GNU/Linux?,Nominal
+P143,143. ¿Aproximadamente qué edad tenía cuando usó una computadora por primera vez?,Scale
+P144,144. ¿Aproximadamente qué edad tenía cuando usó Internet por primera vez?,Scale
+P145,"145. En los últimos 12 meses, ¿Usted tuvo algún problema de virus en su computadora...",Nominal
+P146A,146. ¿Cuáles fueron las acciones que tomó para solucionar el problema?,Nominal
+P146B,146. ¿Cuáles fueron las acciones que tomó para solucionar el problema?,Nominal
+P146C,146. ¿Cuáles fueron las acciones que tomó para solucionar el problema?,Nominal
+P147,"147. En los últimos 12 meses, ¿Usted o alguna persona que conoce ha sido víctima...",Nominal
+P148,148. Sexo,Nominal
+P149,149. Nivel de instrucción del entrevistado,Nominal
+P150,150. Estado civil,Nominal
+P151,151. ¿En qué idioma aprendió a hablar?,Nominal
+P151A,151. ¿En qué idioma aprendió a hablar? (Otro Nativo),Nominal
+P151B,151. ¿En qué idioma aprendió a hablar? (Otro),Nominal
+P152,152. Categoría ocupacional,Nominal
+P153,153. Nivel de instrucción del jefe de hogar,Nominal
+P154A,154. El jefe de hogar tiene ?,Nominal
+P154B,154. Otro,Nominal
+P155,155. ¿Cuál es el ingreso mensual promedio en su hogar?,Nominal
+P156A,156. Tiene agua potable en la vivienda?,Nominal
+P156B,156. Tiene alcantarillado?,Nominal
+P156C,156. Tiene servicio de energía eléctrica?,Nominal
+P156D,156. Tiene lavadora de ropa?,Nominal
+P156E,156. Tiene microondas?,Nominal
+P156F,156. Tiene calefón o ducha caliente?,Nominal
+P156G,156. Tiene tarjeta de crédito?,Nominal
+P156H,156. Tiene casa propia?,Nominal
+P156I,156. Cantidad de baños en su vivienda,Nominal
+P156J,"156. Automóvil de uso particular, de 2012 o más reciente?",Nominal
+P156K,156. En los últimos 5 años realizó algún viaje de vacaciones fuera de América Latina en familia?,Nominal
+P157,"157. ¿Cuántas personas viven regularmente con usted, aunque no sean sus familiares?",Nominal
+P158,158. Departamento,Nominal
+P159,159. Tipo de localidad,Nominal
+P160,160. Nombre de la localidad,Nominal
+CodP160,Codigo del nombre de la localidad,Scale
+Ponderador5536,Ponderador población total,Scale
+Ponderador5033,Ponderador población internauta,Scale
+Nse,Nivel Socioeconómico,Nominal

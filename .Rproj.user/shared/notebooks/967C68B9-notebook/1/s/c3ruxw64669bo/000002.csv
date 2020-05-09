@@ -1,0 +1,7 @@
+"0","library(ggplot2)"
+"2","Registered S3 method overwritten by 'dplyr':
+  method           from
+  print.rowwise_df     
+"
+"0","  ggplot(base_r, aes(P3)) +"
+"0","  geom_bar()"
