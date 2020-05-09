@@ -133,3 +133,8 @@ dmypy.json
 .RHistory
 .RProfile
 .RProj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
