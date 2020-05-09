@@ -128,12 +128,11 @@ dmypy.json
 .env/
 
 # R
-
+.Rproj.user
 .Rproj.user/
 .RHistory
 .RProfile
 .RProj
-.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
