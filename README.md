@@ -7,8 +7,9 @@ Los datos se encuentran en la carpeta `csv`, con el siguiente contenido:
 |------|---------|-------------|
 |eti   | Datos etiquetados| Para Calc, Excel o Google Sheets|
 |sem   | Datos con semántica vía asociación de base con diccionario| Para R o Python|
-|val   | Datos con valores similar al que liberó AGETIC, pero con etiquetas de variables y valores en tablas| Para otros|
+|val   | Datos con sólo valores, pero acompañados con tablas de etiqeutas de variables y valores| Para otros|
 
+Estructura de la carpeta `csv`:
 ```
 ├── eti
 │   └── datos_etiquetas_todo.csv
